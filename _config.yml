@@ -1,0 +1,11 @@
+name: La mairie de Flaux
+markdown: kramdown
+defaults:
+  -
+    scope:
+      path: "assets"
+collections:
+  actualites:
+    output: true
+  comptes:
+    output: true

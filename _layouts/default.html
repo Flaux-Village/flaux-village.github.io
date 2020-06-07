@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="fr-FR" class=" js svg placeholder" dir="ltr"><!--<![endif]-->
+
+
+{% include header.html %}
+
+
+  <body>
+  	<noscript>
+  	  <p class="text-center text-danger">Javascript est desactivé dans votre navigateur.</p>
+  	</noscript>
+  	<!--[if lt IE 8]>
+  	  <div class="browsehappy">
+  	    <div class="container">
+  	        <p>Savez-vous que votre navigateur est obsolète ?<p>
+  	        <p> Pour naviguer de la manière la plus satisfaisante sur le Web, nous vous recommandons de procéder à une <a href="http://windows.microsoft.com/fr-fr/internet-explorer/download-ie">mise à jour de votre navigateur</a>.<br>Vous pouvez aussi <a href="http://browsehappy.com/">essayer d’autres navigateurs web populaires</a>.</p>
+  	    </div>
+  	  </div>
+  	<![endif]-->
+
+
+
+  	<div class="banner-outer banner-outer-regional">
+
+      <header class="banner" role="banner">
+
+
+{% include banner.html %}
+
+{% include nav.html %}
+
+
+  	  </header>
+    </div>
+
+
+
+    <main id="main" class="main" role="main">
+  		<div class="container main-container">
+      <!-- MainContent area: START -->
+
+  	    <div class="tabs">
+  		    <h2 class="title-big"><span>{{ page.titre_page }}</span></h2>
+  		    <ul class="tablistlike tablistlikeinit">
+            {% for onglet in page.onglets_principaux %}
+  			    <li>
+  	          <a href="{{ onglet.addresse }}">
+    		 		    <span class="tablike">
+                  {% if onglet.date_texte %}
+                  <span class="tablikedate">19/05/2020</span>
+                  {% endif %}
+    						  <span class="tabliketitle">{{ onglet.titre }}</span>
+    					  </span>
+    					  <span class="tabpanellike">
+                  <img src="{{ onglet.illustration }}" width="525" height="320" style="border: 0px  ;" alt="{{ onglet.description_illustration }}">
+                </span>
+  				    </a>
+  			    </li>
+            {% endfor %}
+          </ul>
+  	    </div><!-- tabs -->
+
+
+
+        <div class="col-departement">
+  	      <div class="directions">
+  		      <h2>Les actualités <span>À la une</span></h2>
+  		      <ul>
+              {% assign footer_sorted = (site.actualites | sort: 'date') | reverse %}
+              {% for article in footer_sorted limit:10 %}
+              <li><a href="{{ article.url }}">{{ article.titre_page }}</a></li>
+              {% endfor %}
+  					</ul>
+  	      </div>
+        </div>
+
+
+
+  	    <div class="news-panels">
+          <div class="news-panel">
+            <span class="news-panel-date">15/05/2020</span>
+            <span class="news-panel-title">
+              <a href="#">
+                <img src="/assets/images/Aide-exceptionnelle-de-solidarite-pour-les-familles-les-plus-modestes_frontpageactussecondaires.png" width="170" height="103" style="border: 0px  ;" alt="">
+                Article #1 à choisir...
+  					  </a>
+  				  </span>
+  			  </div>
+  	      <div class="news-panel">
+    				<span class="news-panel-date">27/04/2020</span>
+    				<span class="news-panel-title">
+    					<a href="#">
+                <img src="/assets/images/COVID-19-des-mesures-de-soutien-renforces-pour-certains-secteurs_frontpageactussecondaires.jpg" width="170" height="103" style="border: 0px  ;" alt="">
+    						Article #2 à choisir...
+    					</a>
+    				</span>
+    			</div>
+          <div class="news-panel">
+    				<span class="news-panel-date">27/04/2020</span>
+    				<span class="news-panel-title">
+    					<a href="#">
+                <img src="/assets/images/Algues-vertes-des-echouages-tardifs-en-Bretagne-cette-annee_frontpageactussecondaires.jpg" width="170" height="103" style="border: 0px  ;" alt="">
+                Article #3 à choisir...
+              </a>
+            </span>
+          </div>
+        </div>
+
+      </div>
+      <!-- MainContent area: END -->
+
+    </main>
+
+
+
+<!-- actualités speciales - désactivé
+{% include gouv.html %}
+-->
+
+
+{% include footer.html %}
+
+
+  </body>
+</html>

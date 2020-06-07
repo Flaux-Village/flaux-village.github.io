@@ -1,0 +1,112 @@
+
+    <footer class="footer" role="contentinfo">
+  		<div class="footer-links">
+  			<div class="container">
+  			  <div class="footer-links-1">
+            <h2>Nos projets</h2>
+  	        <ul>
+              <li><a href="#">Liens sociaux et les initiatives</a></li>
+              <li><a href="#">Équilibre environnemental</a></li>
+              <li><a href="#">Intercommunalité</a></li>
+              <li><a href="#">Urbanisation</a></li>
+  					</ul>
+          </div>
+          <div class="footer-links-2">
+  	        <div class="departement-link">
+  		      <h3 class="title_departement">Les services de l'État <span>dans le Gard</span></h3>
+              <ul>
+                <li><a href="http://www.gard.gouv.fr/" title="Visiter le site http://www.gard.gouv.fr - nouvelle fenêtre" target="_blank">Préfet du Gard</a></li>
+                <li><a href="http://www.gard.gouv.fr/Services-de-l-Etat/Prefecture-et-sous-prefectures/Prefecture" title="Visiter le site http://www.gard.gouv.fr/Services-de-l-Etat/Prefecture-et-sous-prefectures/Prefecture - nouvelle fenêtre" target="_blank">Préfecture de Nîmes</a></li>
+              </ul>
+    					<ul>
+    				    <li><a href="https://www.ccpaysduzes.fr/" title="Visiter le site https://www.ccpaysduzes.fr - nouvelle fenêtre" target="_blank" data-xiti-type="exit" data-xiti-niv2="11">Pay d'Uzès</a></li>
+                <li><a href="https://www.uzes.fr/" title="Visiter le site https://www.uzes.fr - nouvelle fenêtre" target="_blank" data-xiti-type="exit" data-xiti-niv2="11">Ville d'Uzès</a></li>
+              </ul>
+            </div>
+    	      <div class="departement-map">
+    		      <p class="map-image gard"><img alt="" src="/assets/images/Gard_department_location_map.svg"></p>
+    	      </div>
+          </div>
+    			<div class="footer-links-3">
+    			  <h2>Les sites publics</h2>
+    			  <ul class="gouv-link">
+    			    <li><a href="http://www.gouvernement.fr/" target="_blank">Gouvernement.fr <img src="/assets/images/ico-link-external-white.png" alt="nouvelle fenêtre" title="nouvelle fenêtre"></a></li>
+    			    <li><a href="http://legifrance.gouv.fr/" target="_blank">Legifrance <img src="/assets/images/ico-link-external-white.png" alt="nouvelle fenêtre" title="nouvelle fenêtre"></a></li>
+    			    <li><a href="http://service-public.fr/" target="_blank">Service-public.fr <img src="/assets/images/ico-link-external-white.png" alt="nouvelle fenêtre" title="nouvelle fenêtre"></a></li>
+    			    <li><a href="https://lannuaire.service-public.fr/centres-contact/R250" target="_blank">Allo Service Public <img src="/assets/images/ico-link-external-white.png" alt="nouvelle fenêtre" title="nouvelle fenêtre"></a></li>
+    			    <li><a href="https://www.data.gouv.fr/" target="_blank">Data.gouv.fr <img src="/assets/images/ico-link-external-white.png" alt="nouvelle fenêtre" title="nouvelle fenêtre"></a></li>
+    			  </ul>
+    				<ul class="footer-social-link">
+              <li><a class="social-item" title="Votre village sur Facebook - Nouvelle fenêtre" href="https://www.facebook.com/groups/flaux.solidaire" target="_blank"><img src="/assets/images/ico_facebook_white.png" alt="Votre région sur Facebook"></a></li>
+              <li><a class="social-item" title="Nous écrire" href="nous-contacter.html"><img src="/assets/images/ico_mail_white.png" alt="Nous écrire"></a></li>
+              <li><a class="social-item" title="Votre village sur Twitter - Nouvelle fenêtre" href="https://twitter.com/mairie_flaux" target="_blank"><img src="/assets/images/ico_twitter_white.png" alt="Votre région sur Twitter"></a></li>
+            </ul>
+    			</div>
+  		  </div><!-- container -->
+  	  </div><!-- footer-links -->
+
+
+  	  <div class="footer-sitemap">
+      	<div class="container">
+      		<h2>Plan du site</h2>
+      		<div class="row">
+            <div class="footer-sitemap-col">
+              <h3>
+    					  <a href="/mairie.html">La mairie</a>
+    					</h3>
+              <ul>
+                <li><a href="/admin.html">Démarches administratives</a></li>
+                <li><a href="/civil.html">État civil</a></li>
+              </ul>
+    				</div>
+    				<div class="footer-sitemap-col">
+    					<h3>
+                <a href="/actualites.html">À la une</a>
+    					</h3>
+              <ul>
+                {% assign footer_sorted = (site.actualites | sort: 'date') | reverse %}
+                {% for article in footer_sorted limit:5 %}
+                <li><a href="{{ article.url }}">{{ article.titre_page }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+    				<div class="footer-sitemap-col">
+    				  <h3>
+    				    <a href="/vie.html">Vie du village</a>
+    				  </h3>
+              <ul>
+                <li><a href="/ecole.html">École</a></li>
+                <li><a href="/infos.html">Infos pratiques</a></li>
+                <li><a href="/evenements.html">Evènements et cérémonies</a></li>
+                <li><a href="/resources.html">Annuaire des resources</a></li>
+              </ul>
+            </div>
+    				<div class="footer-sitemap-col">
+    				  <h3>
+    				    <a href="/decouvrir-flaux.html">Découvrir le village</a>
+    				  </h3>
+              <ul>
+                <li><a href="/tourisme.html">Patrimoine touristique</a></li>
+                <li><a href="/plans.html">Plans</a></li>
+  				    </ul>
+            </div>
+  		    </div>
+        </div>
+      </div>
+    </footer>
+
+    <!--[if lt IE 9]>
+    	<script src="/assets/js/jquery-1.11.1.min.js"></script>
+    <![endif]-->
+
+    <!--[if gte IE 9]><!-->
+  	<script src="/assets/js/jquery-2.1.1.min.js"></script>
+  	<!--<script src="/extension/ezjscore/design/standard/javascript/jquery-ui-1.10.1.custom.min.js"></script>
+  	<script src="/extension/ezjscore/design/standard/javascript/jquery-migrate-1.1.1.min.js"></script>-->
+    <!--<![endif]-->
+
+    <script type="text/javascript" src="/assets/js/19184e0c9009a0b01c3f337650c0e8cd_1587059941.js" charset="utf-8"></script>
+
+    <!--<script src="/extension/ide/design/ide_design/javascript/ui.datepicker.js"></script>
+    <script src="/extension/ide/design/ide_design/javascript/ui.datepicker_fr.js"></script>
+    <script src="/extension/ire/design/ire_design/javascript/jquery-datepicker.js"></script>-->

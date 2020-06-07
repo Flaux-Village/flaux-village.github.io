@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="fr-FR" class=" js svg placeholder" dir="ltr"><!--<![endif]-->
+
+
+{% include header.html %}
+
+
+  <body>
+  	<noscript>
+  	  <p class="text-center text-danger">Javascript est desactivé dans votre navigateur.</p>
+  	</noscript>
+  	<!--[if lt IE 8]>
+  	  <div class="browsehappy">
+  	    <div class="container">
+  	        <p>Savez-vous que votre navigateur est obsolète ?<p>
+  	        <p> Pour naviguer de la manière la plus satisfaisante sur le Web, nous vous recommandons de procéder à une <a href="http://windows.microsoft.com/fr-fr/internet-explorer/download-ie">mise à jour de votre navigateur</a>.<br>Vous pouvez aussi <a href="http://browsehappy.com/">essayer d’autres navigateurs web populaires</a>.</p>
+  	    </div>
+  	  </div>
+  	<![endif]-->
+
+
+
+  	<div class="banner-outer banner-outer-regional">
+
+  	  <header class="banner" role="banner">
+
+
+{% include banner.html %}
+
+{% include nav.html %}
+
+
+  	  </header>
+    </div>
+
+
+
+    <main id="main" class="main" role="main">
+
+
+      <!-- Path area: START -->
+      <div class="breadcrumb">
+      	<div class="container">
+      		<p>
+      			Vous êtes ici :
+            <span>
+              <a class="breadcrumb-item-link" href="/">Accueil</a>
+            </span>
+            <span>
+      			  <a class="breadcrumb-item-link" href="{{ page.addresse_section }}">{{ page.section }}</a>
+      			</span>
+      			<span class="active">{{ page.titre_page }}</span>
+      			<!-- Path content: END -->
+          </p>
+        </div>
+      </div>
+      <!-- Path area: END -->
+
+
+
+      <div class="container main-container">
+      <!-- MainContent area: START -->
+
+        <div class="col-main">
+      	  <article class="article" role="article">
+      		  <header class="page-title">
+      			  <p class="page-title-theme"><a href="{{ page.addresse_section }}">{{ page.section }}</a></p>
+              <h1>{{ page.titre_page }}</h1>
+              {% if page.date_texte %}
+              <div class="page-title-maj">Mise à jour : {{ page.date_texte }}</div>
+              {% else %}
+              <div class="page-title-maj">&nbsp;</div>
+              {% endif %}
+      		  </header><!-- page-title -->
+      		  <div class="texte">
+
+              {% if page.introduction and page.illustration %}
+      			  <div class="lead">
+      	        <p class="lead-illus">
+                  <img src="{{ page.illustration }}" width="355" style="border: 0px  ;" alt="{{ page.description_illustration }}">
+                </p>
+                <p class=" text-left">
+                  <b>{{ page.introduction }}</b>
+                </p>
+              </div>
+              {% elsif page.introduction %}
+              <p>
+                <b>{{ page.introduction }}</b>
+              </p>
+              {% elsif page.illustration %}
+              <p>
+                <img src="{{ page.illustration }}" width="940" style="border: 0px  ;" alt="{{ page.description_illustration }}" class="img-responsive">
+              </p>
+              {% endif %}
+
+
+
+              {{ content }}
+              <p><b>&nbsp;</b></p>
+
+              {% if page.documents %}
+              <aside>
+                <div class="panel">
+                  <div class="panel-heading">
+                    <h2 class="titre">Documents liés</h2>
+                  </div>
+                  <div class="panel-body">
+                    <ul>
+                      {% for item in page.documents %}
+                      <li>
+                        <a class="link-download" href="{{ item.addresse }}" target="_blank" title="{{ item.fiche }} - {{ item.date_texte }}" data-xiti-type="download">
+                          <span>{{ item.fiche }} - {{ item.date_texte }}</span> <img title="Télécharger" alt="Télécharger" src="/assets/images/ico-download.png"> ({{ item.type }})
+                        </a>
+                      </li>
+                      {% endfor %}
+                    </ul>
+                  </div>
+                </div>
+              </aside>
+              <!--/complements-->
+              {% endif %}
+
+            </div>
+            <!-- texte -->
+      	  </article>
+      	  <!--article-->
+
+
+        </div>
+        <div class="col-second">
+      	  <div class="col-second-inner">
+            {% if page.menu_secondaire %}
+            <nav class="nav-context" role="navigation">
+              <ul>
+                {% for item in page.menu_secondaire %}
+                <li><a class="active" href="{{ item.addresse }}">{{ item.titre }}</a></li>
+                {% endfor %}
+              </ul>
+            </nav>
+            {% endif %}
+          </div>
+        </div>
+
+      </div>
+      <!-- MainContent area: END -->
+
+
+    </main>
+
+
+
+
+<!-- actualités speciales - désactivé
+{% include gouv.html %}
+-->
+
+
+{% include footer.html %}
+
+
+  </body>
+</html>
