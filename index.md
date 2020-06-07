@@ -13,4 +13,8 @@ onglets_principaux:
   addresse: /tourisme.html
   illustration: /assets/illustrations/flauxcloche_3623.jpg
   description_illustration: Le clochet de l'église de Flaux.
+- titre: Hébergements et restauration
+  addresse: /tourisme.html
+  illustration: /assets/illustrations/flauxcloche_3623.jpg
+  description_illustration: Le clochet de l'église de Flaux.
 ---
