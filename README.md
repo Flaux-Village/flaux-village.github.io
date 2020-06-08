@@ -4,15 +4,15 @@ Markdown: http://ouyaah.legtux.org/appendix/markdown.html
 
 ## Layouts
 
-# default
+### default
 
 Front page.
 
-# page
+### page
 
 Normal page on the website.
 
-# section
+### section
 
 Similar to a page, but with a modified breadcrumb and title structure.
 
@@ -32,10 +32,22 @@ and in the footer.
 Each compte rendu can have its own page in here and it will automatically make
 a list on comptes.html under La mairie (see comptes.md).
 
-## Image sizes
+## Images
+
+Making images responsive - important for banners:
+
+```
+![image-title-here](/path/to/image.jpg){:class="img-responsive"}
+```
+
+Making text wrap around left-aligned images:
+
+```
+![image-title-here](/path/to/image.jpg){:class="lead-illus"}
+```
 
 ### Article images
-355 x 235
+355 x 237
 
 ### Menu images
 300 x 183
