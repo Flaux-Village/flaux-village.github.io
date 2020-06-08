@@ -19,10 +19,7 @@ onglets_principaux:
   description_illustration: Le clochet de l'église de Flaux.
 articles_en_vedette:
 - titre: "Où sommes-nous?"
-  date_texte: 25/06/20
-  addresse: https://www.google.com/maps/dir//Mairie,+7+Rue+de+la+Mairie,+30700+Flaux/@44.0126437,4.4763609,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x12b5b63c3159cc4b:0x9feb3ce2c7fcb932!2m2!1d4.504586!2d44.020724modestes_frontpageactussecondaires.png
-  illustration: 
-  description_illustration: La Mairie de Flaux.
+  <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d45910.77495134922!2d4.476360883900176!3d44.01264365212882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x12b5b63c3159cc4b%3A0x9feb3ce2c7fcb932!2sMairie%2C%207%20Rue%20de%20la%20Mairie%2C%2030700%20Flaux!3m2!1d44.020724!2d4.504586!5e0!3m2!1sen!2sfr!4v1591644857730!5m2!1sen!2sfr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 - titre: "Article #2 à choisir..."
   addresse: \#
   illustration: /assets/images/COVID-19-des-mesures-de-soutien-renforces-pour-certains-secteurs_frontpageactussecondaires.jpg
