@@ -17,4 +17,18 @@ onglets_principaux:
   addresse: /tourisme.html
   illustration: /assets/illustrations/flauxcloche_3623.jpg
   description_illustration: Le clochet de l'église de Flaux.
+articles_en_vedette:
+- titre: "Article #1 à choisir..."
+  date_texte: 25/06/20
+  addresse: \#
+  illustration: /assets/images/Aide-exceptionnelle-de-solidarite-pour-les-familles-les-plus-modestes_frontpageactussecondaires.png
+  description_illustration: La Mairie de Flaux.
+- titre: "Article #2 à choisir..."
+  addresse: \#
+  illustration: /assets/images/COVID-19-des-mesures-de-soutien-renforces-pour-certains-secteurs_frontpageactussecondaires.jpg
+  description_illustration: Le clochet de l'église de Flaux.
+- titre: "Article #3 à choisir..."
+  addresse: \#
+  illustration: /assets/images/Algues-vertes-des-echouages-tardifs-en-Bretagne-cette-annee_frontpageactussecondaires.jpg
+  description_illustration: Text alternatif.
 ---

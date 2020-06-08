@@ -47,7 +47,7 @@
   	          <a href="{{ onglet.addresse }}">
     		 		    <span class="tablike">
                   {% if onglet.date_texte %}
-                  <span class="tablikedate">19/05/2020</span>
+                  <span class="tablikedate">{{ onglet.date_texte }}</span>
                   {% endif %}
     						  <span class="tabliketitle">{{ onglet.titre }}</span>
     					  </span>
@@ -77,33 +77,19 @@
 
 
   	    <div class="news-panels">
+          {% for article in page.articles_en_vedette %}
           <div class="news-panel">
-            <span class="news-panel-date">15/05/2020</span>
+            {% if article.date_texte %}
+            <span class="news-panel-date">{{ article.date_texte }}</span>
+            {% endif %}
             <span class="news-panel-title">
               <a href="#">
-                <img src="/assets/images/Aide-exceptionnelle-de-solidarite-pour-les-familles-les-plus-modestes_frontpageactussecondaires.png" width="170" height="103" style="border: 0px  ;" alt="">
-                Article #1 à choisir...
+                <img src="{{ article.illustration }}" width="170" height="103" style="border: 0px  ;" alt="{{ article.description_illustration }}">
+                {{ article.titre }}
   					  </a>
   				  </span>
   			  </div>
-  	      <div class="news-panel">
-    				<span class="news-panel-date">27/04/2020</span>
-    				<span class="news-panel-title">
-    					<a href="#">
-                <img src="/assets/images/COVID-19-des-mesures-de-soutien-renforces-pour-certains-secteurs_frontpageactussecondaires.jpg" width="170" height="103" style="border: 0px  ;" alt="">
-    						Article #2 à choisir...
-    					</a>
-    				</span>
-    			</div>
-          <div class="news-panel">
-    				<span class="news-panel-date">27/04/2020</span>
-    				<span class="news-panel-title">
-    					<a href="#">
-                <img src="/assets/images/Algues-vertes-des-echouages-tardifs-en-Bretagne-cette-annee_frontpageactussecondaires.jpg" width="170" height="103" style="border: 0px  ;" alt="">
-                Article #3 à choisir...
-              </a>
-            </span>
-          </div>
+          {% endfor %}
         </div>
 
       </div>
