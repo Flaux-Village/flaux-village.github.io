@@ -7,15 +7,15 @@ titre_page: Bienvenus à Flaux
 onglets_principaux:
 - titre: Découvrir notre mairie
   addresse: /mairie.html
-  illustration: /assets/illustrations/Flauxentrance_3610.jpg
+  illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
 - titre: Notre patrimoine - le village de Flaux
   addresse: /tourisme.html
-  illustration: /assets/illustrations/flauxcloche_3623.jpg
+  illustration: /assets/illustrations/525_320_flauxcloche_3623.jpg
   description_illustration: Le clochet de l'église de Flaux.
 - titre: Hébergements et restauration
   addresse: /tourisme.html
-  illustration: /assets/illustrations/flauxcloche_3623.jpg
+  illustration: /assets/illustrations/525_320_flauxcloche_3623.jpg
   description_illustration: Le clochet de l'église de Flaux.
 articles_en_vedette:
 - titre: "Article #1 à choisir..."
