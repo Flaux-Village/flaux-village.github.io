@@ -18,10 +18,10 @@ onglets_principaux:
   illustration: /assets/illustrations/flauxcloche_3623.jpg
   description_illustration: Le clochet de l'église de Flaux.
 articles_en_vedette:
-- titre: "Article #1 à choisir..."
+- titre: "Où sommes-nous?"
   date_texte: 25/06/20
-  addresse: \#
-  illustration: /assets/images/Aide-exceptionnelle-de-solidarite-pour-les-familles-les-plus-modestes_frontpageactussecondaires.png
+  addresse: https://www.google.com/maps/dir//Mairie,+7+Rue+de+la+Mairie,+30700+Flaux/@44.0126437,4.4763609,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x12b5b63c3159cc4b:0x9feb3ce2c7fcb932!2m2!1d4.504586!2d44.020724modestes_frontpageactussecondaires.png
+  illustration: 
   description_illustration: La Mairie de Flaux.
 - titre: "Article #2 à choisir..."
   addresse: \#
