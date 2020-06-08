@@ -15,8 +15,8 @@ onglets_principaux:
   description_illustration: Le clochet de l'église de Flaux.
 - titre: Hébergements et restauration
   addresse: /tourisme.html
-  illustration: /assets/illustrations/525_320_flauxcloche_3623.jpg
-  description_illustration: Le clochet de l'église de Flaux.
+  illustration: /assets/illustrations/525_320_flauxtapas_3622.jpg
+  description_illustration: Flaux tapas et chambres d'hôtes.
 articles_en_vedette:
 - titre: "Où sommes-nous?"
   date_texte: 25/06/20
