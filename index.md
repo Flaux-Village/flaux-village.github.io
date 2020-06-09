@@ -24,7 +24,7 @@ articles_en_vedette:
   description_illustration: La Mairie de Flaux.
 - titre: "Transport Uzes"
   addresse: http://www.edgard-transport.fr/horaires_ligne/index.asp?rub_code=6&lign_id=237&ladate=08/06/2020&sens=1
-  illustration: /assets/images/COVID-19-des-mesures-de-soutien-renforces-pour-certains-secteurs_frontpageactussecondaires.jpg
+  illustration: /assets/images/LIO-logo.png
   description_illustration: Le clochet de l'église de Flaux.
 - titre: "Article #3 à choisir..."
   addresse: \#
