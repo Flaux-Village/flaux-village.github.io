@@ -1,3 +1,12 @@
+<script type="application/javascript">
+  // Fix menu behaviour
+  $('.collapse').hide();
+  $(document).ready(function() {
+     $(document).on("click", ".nav-main-item", function() {
+       jQuery('.collapse').collapse('hide');
+     });
+  });
+</script>
 <nav class="nav-main nav-main-regional" id="nav-main" role="navigation">
   <div class="container">
 
@@ -11,7 +20,7 @@
       </li>
 
       <li>
-        <a class="nav-main-item" href="/mairie.html" data-parent="#nav-main-dropdown" data-toggle="collapse" data-target="#nav-main-1" aria-expanded="false" role="button" id="ui-collapse-294" aria-controls="nav-main-1">
+        <a class="nav-main-item" data-toggle="collapse" data-target="#nav-main-1" data-parent="#nav-main-dropdown" href="#nav-main-1" role="button" aria-expanded="false" aria-controls="nav-main-1">
           La mairie
         </a>
         <!-- MEGA MENU -->
@@ -73,7 +82,7 @@
 
       <li>
         <!-- <a class="nav-main-item" href="decouvrir-flaux.html">Découvrir le village</a> -->
-        <a class="nav-main-item" href="vie.html" data-parent="#nav-main-dropdown" data-toggle="collapse" data-target="#nav-main-2" aria-expanded="false" role="button" id="ui-collapse-294" aria-controls="nav-main-2">
+        <a class="nav-main-item" data-toggle="collapse" data-target="#nav-main-2" data-parent="#nav-main-dropdown" href="#nav-main-2" role="button" aria-expanded="false" aria-controls="nav-main-2">
           Vie du village
         </a>
 
@@ -142,7 +151,7 @@
 
       <li>
         <!-- <a class="nav-main-item" href="decouvrir-flaux.html">Découvrir le village</a> -->
-        <a class="nav-main-item" href="/decouvrir-flaux.html" data-parent="#nav-main-dropdown" data-toggle="collapse" data-target="#nav-main-3" aria-expanded="false" role="button" id="ui-collapse-294" aria-controls="nav-main-3">
+        <a class="nav-main-item" data-toggle="collapse" data-target="#nav-main-3" data-parent="#nav-main-dropdown" href="#nav-main-3" role="button" aria-expanded="false" aria-controls="nav-main-3">
           Découvrir le village
         </a>
 
