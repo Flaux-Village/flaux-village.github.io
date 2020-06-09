@@ -5,6 +5,20 @@ description: L'école de Flaux
 keywords: mairie, commune, flaux, gard, ecole, vie
 titre_page: École de Flaux
 introduction: Bienvenus à notre école de Flaux!
+description: 
+## Contact:
+
+Marie-Charlotte MICHEL
+
+Directrice de l'école de Flaux
+
+Rue de la Mairie
+
+30700 FLAUX
+
+04 66 58 59 52
+
+Ce.0300366K@ac-montpellier.fr
 illustration: /assets/illustrations/355_237_flauxecole_3617.jpg
 description_illustration: École de Flaux
 section: Vie du village
