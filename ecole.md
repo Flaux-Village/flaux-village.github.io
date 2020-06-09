@@ -19,4 +19,12 @@ menu_secondaire:
 - titre: Annuaire des resources
   addresse: /resources.html
 ---
-Text...
+Voici les horaires: 
+8h45 - 16h45
+11H45 - 13h45: Si vous récupérez votre enfant à midi:
+
+Marie-Charlotte MICHEL
+Directrice de l'école de Flaux
+Rue de la Mairie
+30700 FLAUX
+04 66 58 59 52
