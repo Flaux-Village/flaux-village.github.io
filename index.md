@@ -26,8 +26,8 @@ articles_en_vedette:
   addresse: http://www.edgard-transport.fr/horaires_ligne/index.asp?rub_code=6&lign_id=237&ladate=08/06/2020&sens=1
   illustration: /assets/images/LIO-logo.png
   description_illustration: Le clochet de l'église de Flaux.
-- titre: "Article #3 à choisir..."
+- titre: "Notre École: Horaires et Contact"
   addresse: \#
-  illustration: /assets/images/Algues-vertes-des-echouages-tardifs-en-Bretagne-cette-annee_frontpageactussecondaires.jpg
-  description_illustration: Text alternatif.
+  illustration: /assets/illustrations/182_108_flauxecole_3617.jpg
+  description_illustration: Ecole de Flaux.
 ---
