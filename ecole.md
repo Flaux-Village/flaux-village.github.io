@@ -27,9 +27,9 @@ Si vous récupérez votre enfant à midi: 11H45 - 13h45
 
 ## Contact:
 
-Marie-Charlotte MICHEL
+### Marie-Charlotte MICHEL
 
-Directrice de l'école de Flaux
+### Directrice de l'école de Flaux
 
 Rue de la Mairie
 
@@ -37,4 +37,4 @@ Rue de la Mairie
 
 04 66 58 59 52
 
-Ce.0300366K@ac-montpellier.fr
+<Ce.0300366K@ac-montpellier.fr>
