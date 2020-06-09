@@ -5,7 +5,7 @@ description: La mairie de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: La mairie de Flaux
 introduction: Bienvenus à Flaux, voici nos horaires.
-illustration: /assets/illustrations/355_237_IMG_3615.jpg
+illustration: /assets/illustrations/940_250_IMG_3605.jpg
 description_illustration: Mairie de Flaux.
 menu_secondaire:
 - titre: La mairie
