@@ -4,11 +4,17 @@
     // Make sure the mega menus are hidden, otherwise they all show on first click.
     jQuery('.nav-main-dropdown-inner').collapse('hide');
     $(document).on("click", ".nav-main-item", function(e) {
+      var $menu_target = $(this).data("target");
       // Show the target div.
-      jQuery($($(this).data("target"))).collapse('show');
+      jQuery($($menu_target)).collapse('show');
 
       // This line makes Bootstrap automatically toggle the other collapsable divs.
       jQuery('.collapse').collapse('hide');
+    });
+
+    $(document).click(function() {
+      // Capture clicks on the page and collapse the menu.
+      jQuery('.nav-main-dropdown-inner').collapse('hide');
     });
   });
 </script>
