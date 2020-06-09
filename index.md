@@ -27,7 +27,7 @@ articles_en_vedette:
   illustration: /assets/images/LIO-logo.png
   description_illustration: Le clochet de l'église de Flaux.
 - titre: "Notre École: Horaires et Contact"
-  addresse: /ecole.md
+  addresse: https://flaux-village.github.io/ecole.html
   illustration: /assets/illustrations/182_108_flauxecole_3617.jpg
   description_illustration: Ecole de Flaux.
 ---
