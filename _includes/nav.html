@@ -1,10 +1,15 @@
 <script type="application/javascript">
-  // Fix menu behaviour
-  $('.collapse').hide();
+  // Fix menu behaviour to allow for mega menu switching.
   $(document).ready(function() {
-     $(document).on("click", ".nav-main-item", function() {
-       jQuery('.collapse').collapse('hide');
-     });
+    // Make sure the mega menus are hidden, otherwise they all show on first click.
+    jQuery('.nav-main-dropdown-inner').collapse('hide');
+    $(document).on("click", ".nav-main-item", function(e) {
+      // Show the target div.
+      jQuery($($(this).data("target"))).collapse('show');
+
+      // This line makes Bootstrap automatically toggle the other collapsable divs.
+      jQuery('.collapse').collapse('hide');
+    });
   });
 </script>
 <nav class="nav-main nav-main-regional" id="nav-main" role="navigation">
