@@ -20,7 +20,7 @@ onglets_principaux:
 articles_en_vedette:
 - titre: "Où sommes-nous?"
   addresse: https://www.google.com/maps/dir//Mairie,+7+Rue+de+la+Mairie,+30700+Flaux/@44.0126437,4.4763609,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x12b5b63c3159cc4b:0x9feb3ce2c7fcb932!2m2!1d4.504586!2d44.020724modestes_frontpageactussecondaires.png
-  illustration: /assets/images/googlemaps (1).jpg
+  illustration: /assets/images/googlemaps.jpg
   description_illustration: La Mairie de Flaux.
 - titre: "Transport Uzes"
   addresse: http://www.edgard-transport.fr/horaires_ligne/index.asp?rub_code=6&lign_id=237&ladate=08/06/2020&sens=1
