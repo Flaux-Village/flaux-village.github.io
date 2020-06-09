@@ -4,7 +4,16 @@ titre: La mairie | La mairie de Flaux
 description: La mairie de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: La mairie de Flaux
-introduction: 
+introduction: here we are
+menu_secondaire:
+- titre: La mairie
+  addresse: /mairie.html
+- titre: Démarches administratives
+  addresse: /admin.html
+- titre: État civil
+  addresse: /civil.html
+---
+Text...
 ## Nom du maire de Flaux
 Monsieur Denis JUVIN est maire de Flaux depuis le 25/05/2020
 ## Adresse de la mairie de Flaux
@@ -18,12 +27,3 @@ E-mail : secretariat@mairie-flaux.fr
 La mairie de Flaux est ouverte :
 Le lundi : de 09h00 à 12h30
 Le jeudi : de 09h00 à 12h30
-menu_secondaire:
-- titre: La mairie
-  addresse: /mairie.html
-- titre: Démarches administratives
-  addresse: /admin.html
-- titre: État civil
-  addresse: /civil.html
----
-Text...
