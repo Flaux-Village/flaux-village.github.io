@@ -1,5 +1,10 @@
 name: La mairie de Flaux
 markdown: kramdown
+plugins:
+  - jekyll-feed
+title: Mairie de Flaux
+description: Messages de la Mairie de Flaux
+author: Mairie de Flaux
 defaults:
   -
     scope:
