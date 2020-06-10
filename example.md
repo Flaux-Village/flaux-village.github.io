@@ -7,7 +7,7 @@ titre_page: Bienvenue à Flaux
 section: La mairie
 addresse_section: /mairie.html
 date_texte: 1 juin 2020
-illustration: /assets/illustrations/IMG_3615.jpg
+illustration: /assets/illustrations/355_237_IMG_3615.jpg
 description_illustration: La Mairie de Flaux.
 introduction: Bonjour mes amis !
 menu_secondaire:
@@ -45,7 +45,7 @@ Some text.
 
 **Inline responsive image:**
 
-![Some alt text](assets/illustrations/IMG_3605.jpg){:class="img-responsive"}
+![Some alt text](assets/illustrations/940_250_flauxbanner1_3600.jpg){:class="img-responsive"}
 
 Normal text looks like this.
 
