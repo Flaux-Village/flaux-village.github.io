@@ -2861,7 +2861,7 @@ option {
 .logo h1 {
   display: inline-block;
   margin: 0;
-  padding: 0;
+  padding: 0 0 10px 0;
   font-size: 1.42857em;
   font-family: "robotoslab_light", Arial, sans-serif;
   color: #436c8e;
