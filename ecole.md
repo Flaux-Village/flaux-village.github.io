@@ -4,8 +4,7 @@ titre: Vie du village | École de Flaux
 description: L'école de Flaux
 keywords: mairie, commune, flaux, gard, ecole, vie
 titre_page: École de Flaux
-introduction: Bienvenus à notre école de Flaux!
-illustration: /assets/illustrations/355_237_flauxecole_3617.jpg
+illustration: /assets/illustrations/182_108_Flauxbanner3_3614.jpg
 description_illustration: École de Flaux
 section: Vie du village
 addresse_section: /vie.html
@@ -21,9 +20,10 @@ menu_secondaire:
 ---
 ## Voici les horaires:
 
-8h45 - 16h45
+8h45 - 16h45<br/>
 
-Si vous récupérez votre enfant à midi: 11H45 - 13h45 
+Si vous récupérez votre enfant à midi:<br/>
+11H45 - 13h45 
 
 ## Contact:
 
@@ -31,8 +31,8 @@ Si vous récupérez votre enfant à midi: 11H45 - 13h45
 
 ### Directrice de l'école de Flaux
 
-Rue de la Mairie, 30700 FLAUX
-
-Tel: 04 66 58 59 52
+Rue de la Mairie,<br/>
+30700 FLAUX<br/>
+Tel: 04 66 58 59 52<br/>
 
 <Ce.0300366K@ac-montpellier.fr>
