@@ -5,11 +5,11 @@ description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Bienvenus à Flaux
 onglets_principaux:
-- titre: Découvrir notre mairie
+- titre: La mairie et le conseil municipal
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
-- titre: Notre patrimoine - le village de Flaux
+- titre: Comptes rendus
   addresse: /tourisme.html
   illustration: /assets/illustrations/525_320_flauxcloche_3623.jpg
   description_illustration: Le clochet de l'église de Flaux.
