@@ -4,7 +4,7 @@ titre: Vie du village | École de Flaux
 description: L'école de Flaux
 keywords: mairie, commune, flaux, gard, ecole, vie
 titre_page: École de Flaux
-illustration: /assets/illustrations/182_108_Flauxbanner3_3614.jpg
+illustration: /assets/illustrations/ecolebanner copy.JPG
 description_illustration: École de Flaux
 section: Vie du village
 addresse_section: /vie.html
