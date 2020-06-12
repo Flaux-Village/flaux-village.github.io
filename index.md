@@ -3,7 +3,7 @@ layout: default
 titre: Accueil | La mairie de Flaux
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
-titre_page: Bienvenus à Flaux
+titre_page: Bienvenue à Flaux
 onglets_principaux:
 - titre: La mairie et le conseil municipal
   addresse: /mairie.html
