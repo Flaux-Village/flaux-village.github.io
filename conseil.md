@@ -1,9 +1,9 @@
 ---
-layout: section
-titre: La mairie | La mairie de Flaux
-description: La mairie de Flaux
-keywords: mairie, commune, flaux, gard
-titre_page: La mairie de Flaux
+layout: page
+titre: Le conseil | La mairie de Flaux
+description: Les conseillers et leurs responsabilités
+keywords: mairie, commune, flaux, gard, conseil
+titre_page: Le conseil
 illustration: /assets/illustrations/940_250_Flauxbanner4_3596.jpg
 description_illustration: Mairie de Flaux.
 menu_secondaire:
