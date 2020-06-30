@@ -40,7 +40,7 @@ Conseiller communautaire - président du SIRP - PETR (SCOT) - SMEG - finances - 
 **Jean Pierre PLUS** - SMEG - eau et assainissement - environment - appel d'offres<br/>
 **Philippe ROUVIER-COROUGE** - SICTOMU - finances - eau et assainissement - environment - dynamique locale - PPRI/PLU - appel d'offres
 <br/>
-**Alessandra STURANI - sécurité/accessibilité - actions sociales - environment - dynamique locale - informatique<br/>
+**Alessandra STURANI** - sécurité/accessibilité - actions sociales - environment - dynamique locale - informatique<br/>
 **Valérie UPPHOFF** - SIRP - environment - dynamique locale - informatique<br/>
 **Michel VAILLIES** - SIRP - eau et assainissement - sécurité/accessibilité - environment - informatique - appel d'offres<br/>
 **Philppe VINÇON** - eau et assainissement - environment - PPRI/PLU - appel d'offres<br/>
