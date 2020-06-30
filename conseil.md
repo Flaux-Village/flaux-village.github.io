@@ -4,6 +4,8 @@ titre: Le conseil | La mairie de Flaux
 description: Les conseillers et leurs responsabilités
 keywords: mairie, commune, flaux, gard, conseil
 titre_page: Le conseil
+section: La mairie
+addresse_section: /mairie.html
 illustration: /assets/illustrations/940_250_Flauxbanner4_3596.jpg
 description_illustration: Mairie de Flaux.
 menu_secondaire:
