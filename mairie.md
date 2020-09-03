@@ -9,6 +9,8 @@ description_illustration: Mairie de Flaux.
 menu_secondaire:
 - titre: La mairie
   addresse: /mairie.html
+- titre: Conseil Municipal
+  addresse: /conseil.html
 - titre: Démarches administratives
   addresse: /admin.html
 - titre: État civil
@@ -30,23 +32,4 @@ La mairie de Flaux est ouverte :<br/>
 Le lundi : de 09h00 à 12h30<br/>
 Le jeudi : de 09h00 à 12h30<br/>
 
-# Conseil Municipal
 
-## Nom du maire de Flaux
-Monsieur Denis JUVIN est maire de Flaux depuis le 25/05/2020
-
-## Première adjointe
-Muriel NIGGEL
-
-## Deuxième adjointe 
-Catherine VINAS
-
-## Les conseillers
-Catherine MARTEL<br/>
-Patricia MICHOT<br/>
-Jean Pierre PLUS<br/>
-Philippe ROUVIER-COROUGE<br/>
-Alessandra STURANI<br/>
-Valérie UPPHOFF<br/>
-Michel VAILLIES<br/>
-Philppe VINÇON<br/>
