@@ -11,8 +11,6 @@ menu_secondaire:
   addresse: /mairie.html
 - titre: Conseil Municipal
   addresse: /conseil.html
-- titre: Démarches administratives
-  addresse: /admin.html
 - titre: État civil
   addresse: /civil.html
 ---
