@@ -9,12 +9,12 @@ onglets_principaux:
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
-- titre: Comptes rendus
-  addresse: /tourisme.html
+- titre: Environment
+  addresse: /article-1.html
   illustration: /assets/illustrations/525_320_flauxcloche_3623.jpg
   description_illustration: Le clochet de l'église de Flaux.
-- titre: Notre école
-  addresse: https://flaux-village.github.io/ecole.html
+- titre: Nos projets
+  addresse: /projets.html
   illustration: /assets/illustrations/525_320_flauxecole_3617.jpg
   description_illustration: École de Flaux.
 articles_en_vedette:
