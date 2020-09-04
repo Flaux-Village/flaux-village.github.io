@@ -26,8 +26,8 @@ articles_en_vedette:
   addresse: https://lio.laregion.fr/transports-gard-scolaire
   illustration: /assets/images/LIO-logo.png
   description_illustration: Le clochet de l'église de Flaux.
-- titre: /hebergements.html
-  addresse: https://www.facebook.com/tsflaux/
+- titre: "Tourisme"
+  addresse: /hebergements.html
   illustration: /assets/illustrations/182_108_flauxtapas_3622.jpg
   description_illustration: Tout simplement Flaux.
 ---
