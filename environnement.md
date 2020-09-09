@@ -1,9 +1,9 @@
 ---
 layout: page
-titre: Accueil | La mairie de Flaux
+titre: La mairie | Environnement
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
-titre_page: Bienvenue à Flaux
+titre_page: Favoriser une transition vers un équilibre environnemental durable
 section: La mairie
 addresse_section: /mairie.html
 date_texte: 1 juin 2020
@@ -11,21 +11,14 @@ illustration: /assets/illustrations/355_237_IMG_3615.jpg
 description_illustration: La Mairie de Flaux.
 introduction: Bonjour mes amis !
 menu_secondaire:
-- titre: Menu item 1
-  addresse: /some-other-page.html
-- titre: Menu item 2
-  addresse: /some-page.html
-- titre: Menu item 3
-  addresse: /some-third-page.html
-documents:
-- fiche: Mon document
-  date_texte: 7 juin 2020
-  addresse: /assets/documents/document1.pdf
-  type: pdf
-- fiche: Document 2
-  date_texte: 5 juin 2020
-  addresse: /assets/documents/document2.docx
-  type: docx
+- titre: Environnement
+  addresse: /environnement.html
+- titre: Urbanisme
+  addresse: /urbanisme.html
+- titre: Social
+  addresse: /social.html
+- titre: Intercommunal
+  addresse: /intercommunal.html  
 ---
 # Test H1
 Some nice text here...
