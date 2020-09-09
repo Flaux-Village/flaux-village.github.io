@@ -4,8 +4,8 @@ titre: La mairie | Environnement
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Favoriser une transition vers un équilibre environnemental durable
-section: La mairie
-addresse_section: /mairie.html
+section: Nos projets
+addresse_section: /projets.html
 date_texte: 1 juin 2020
 illustration: /assets/illustrations/355_237_IMG_3615.jpg
 description_illustration: La Mairie de Flaux.
