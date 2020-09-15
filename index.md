@@ -9,9 +9,9 @@ onglets_principaux:
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
-- titre: Environment
+- titre: Nouveau STOP!
   addresse: /article-1.html
-  illustration: /assets/illustrations/525_320_flauxcloche_3623.jpg
+  illustration: /assets/illustrations/news/stopecole-home-525x320.png
   description_illustration: Le clochet de l'église de Flaux.
 - titre: Nos projets
   addresse: /projets.html
