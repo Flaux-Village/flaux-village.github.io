@@ -10,7 +10,7 @@ date_texte: 15 Septembre 2020
 date: 2020-09-15
 illustration: /assets/illustrations/news/stopecole-article-940x250.png
 description_illustration: Stop devant l'école
-introduction: Autre nouvelles importantes
+
 ---
 This is the content of my news item.
 
