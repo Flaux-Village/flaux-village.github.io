@@ -10,7 +10,7 @@ date_texte: 8 juin 2020
 date: 2020-06-08
 illustration: /assets/illustrations/IMG_3615.jpg
 description_illustration: La Mairie de Flaux.
-
+introduction: Autre nouvelles importantes
 ---
 This is the content of my news item.
 
