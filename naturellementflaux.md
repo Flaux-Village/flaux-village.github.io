@@ -7,8 +7,8 @@ titre_page: Notre projet 2020 – 2026
 section: Nos projets
 addresse_section: /projets.html
 date_texte: 1 juin 2020
-illustration: /assets/illustrations/355_237_IMG_3615.jpg
-description_illustration: La Mairie de Flaux.
+illustration: /assets/images/affiche Denis 355.pdf
+description_illustration: Denis Juvin.
 introduction:
 documents:
 - fiche: Programme
