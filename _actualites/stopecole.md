@@ -12,11 +12,10 @@ illustration: /assets/illustrations/news/stopecole-article-940x250.png
 description_illustration: Stop devant l'école
 
 ---
-This is the content of my news item.
+Nouveau passage piéton dès la rentrée des classes!
 
-1. numbered
-2. navigation
+La nouvelle équipe a, dès les élections, travaillé sure un passage piéton.
 
-> Quote from Denis
+> Denis se prononce:
 
 **This is bold**
