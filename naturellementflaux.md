@@ -7,7 +7,7 @@ titre_page: Notre projet 2020 – 2026
 section: Nos projets
 addresse_section: /projets.html
 date_texte: 1 juin 2020
-illustration: /assets/images/affiche Denis 355.pdf
+illustration: /assets/images/affiche Denis 355.png
 description_illustration: Denis Juvin.
 introduction:
 documents:
