@@ -3,29 +3,24 @@ layout: page
 titre: Actualités | Coronavirus
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Protégeons-nous les uns les autres
+titre_page: Arrêté préfectoral publié le 24 Octobre mesures visant à renforcer la luttre contre la propagation du virus Covid 19 dans le gard
 section: À la une
 addresse_section: /actualites.html
-date_texte: 4 septembre 2020
+date_texte: 24 octobre 2020
 date: 2020-09-04
-illustration: /assets/illustrations/IMG_3615.jpg
-description_illustration: La Mairie de Flaux.
-introduction: De l'école au lycée, une rentrée sereine dans le respect des recommandations sanitaires.
+illustration: 
+description_illustration: 
+introduction: Covid 19, Arrêté préfectoral
 documents:
 - fiche: Mon document
-  date_texte: 4 septembre 2020
-  addresse: /assets/documents/document1.pdf
+  date_texte: 24 Octobre 2020
+  addresse: /assets/documents/2020 - 30-20250-10-24-001 .pdf
   type: pdf
-- fiche: Document 2
-  date_texte: 4 septembre 2020
-  addresse: /assets/documents/document2.docx
-  type: docx
+
 ---
-This is the content of my news item.
+Voici l'Arrêté préfectoral n°30-2020-10-24-001 publié le 24 octobre mesures visant à renforcer la luttre contre la propagation du virus Covid 19 dans le Gard.
 
-1. numbered
-2. navigation
+Bien cordialement
 
-> Quote from Denis
-
-**This is bold**
+Denis JUVIN
+Le Maire
