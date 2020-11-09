@@ -9,14 +9,10 @@ description_illustration: École de Flaux
 section: Vie du village
 addresse_section: /vie.html
 menu_secondaire:
-- titre: École
-  addresse: /ecole.html
-- titre: Infos pratiques
-  addresse: /infos.html
-- titre: Evènements et cérémonies
-  addresse: /evenements.html
-- titre: Annuaire des resources
-  addresse: /resources.html
+- titre: Année scolaire 2020/2021
+  addresse: /orgscolaire.html
+- titre: Règlement intérieur des écoles
+  addresse: /reglementscol.html
 ---
 ## Voici les horaires:
 
