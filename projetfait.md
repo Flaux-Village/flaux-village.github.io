@@ -31,14 +31,17 @@ Révision du contrat avec Aliance prévoyant une prestation de mesure tous les 2
 # Usages eau été 
 Campagne de sensibilisation, invitant à la consommation modérée.
 
+# Histoires de clochers
+Visite guidée.
+
 # Bassin de retention du chemin de vallagrand 
 Un nouveau bassin de rétention du chemin de Vallagrand. Un pas de plus dans la prevention des risques d'innondation.
 
 # reseau informatique fibre - en cours
 Some nice text here...
 
-# Sécurité routière
+# Sécurité routière - en cours
 Les Auvis, passage à 50km/h au lieu des 70km/h courantes.
   
-# Histoires de clochers
+
 
