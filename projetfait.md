@@ -18,7 +18,7 @@ documents:
 menu_secondaire:
 - titre: Notre Programme
   addresse: /naturellementflaux.html
-- titre: Projets long terme
+- titre: Projets à venir
   addresse: /projetfuture.html
   
 ---
