@@ -6,8 +6,8 @@ keywords: mairie, commune, flaux, gard, conseil
 titre_page: Nos élus
 section: La mairie
 addresse_section: /mairie.html
-illustration: /assets/illustrations/940_250_Flauxbanner4_3596.jpg
-description_illustration: Mairie de Flaux.
+illustration: /assets/images/elusbanner1-940x250.png
+description_illustration: Les élus.
 menu_secondaire:
 - titre: La mairie
   addresse: /mairie.html
