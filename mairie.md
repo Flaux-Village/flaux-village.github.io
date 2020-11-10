@@ -7,7 +7,7 @@ titre_page: La mairie de Flaux
 illustration: /assets/illustrations/940_250_Flauxbanner4_3596.jpg
 description_illustration: Mairie de Flaux.
 menu_secondaire:
-- titre: Les élues
+- titre: Les élus
   addresse: /elus.html
 - titre: Comptes rendus
   addresse: /comptes.html
