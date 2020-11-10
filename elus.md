@@ -20,8 +20,8 @@ menu_secondaire:
 
 # Conseil Municipal
 
-## Nom du maire de Flaux
-Monsieur <a href="/assets/flyer/affiche Denis 2-3-2_compressed.pdf">**Denis JUVIN**</a> <br/>
+## Maire de Flaux
+<a href="/assets/flyer/affiche Denis 2-3-2_compressed.pdf">**Denis JUVIN**</a> <br/>
 Maire de Flaux depuis le 25/05/2020<br/>
 Conseiller communautaire - président du SIRP - PETR (SCOT) - SMEG - finances - eau et assainissement - sécurité/accessibilité - actions sociales - environment - dynamique locale - informatique - PPRI/PLU - appel d'offres
 
