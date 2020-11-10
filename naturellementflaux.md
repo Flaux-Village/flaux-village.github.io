@@ -19,7 +19,7 @@ documents:
 menu_secondaire:
 - titre: Projets réalisés et en cours
   addresse: /projetfait.html
-- titre: Projets long terme
+- titre: Projets à venir
   addresse: /projetfuture.html
 ---
 # L'engagement de notre maire, Denis JUVIN: 
