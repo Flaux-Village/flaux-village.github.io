@@ -7,8 +7,8 @@ titre_page: Notre projet 2020 – 2026
 section: Notre programme
 addresse_section: /naturellementflaux.html
 date_texte: 1 juin 2020
-illustration: /assets/images/affiche Denis 355.png
-description_illustration: Denis Juvin.
+illustration: /assets/images/Equipenaturellement-banner.png
+description_illustration: Equippe.
 introduction:
 documents:
 - fiche: Programme
