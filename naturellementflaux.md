@@ -4,8 +4,8 @@ titre: La mairie | Naturellement Flaux, Notre programme
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Notre projet 2020 – 2026
-section: Nos projets
-addresse_section: /projets.html
+section: Notre programme
+addresse_section: /naturellementflaux.html
 date_texte: 1 juin 2020
 illustration: /assets/images/affiche Denis 355.png
 description_illustration: Denis Juvin.
@@ -18,9 +18,9 @@ documents:
 
 menu_secondaire:
 - titre: Projets réalisés et en cours
-  addresse: /urbanisme.html
+  addresse: /projetfait.html
 - titre: Projets long terme
-  addresse: /social.html
+  addresse: /projetfuture.html
 ---
 # Denis JUVIN:
 
