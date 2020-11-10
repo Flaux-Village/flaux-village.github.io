@@ -6,6 +6,13 @@ keywords: mairie, commune, flaux, gard, comptes rendus
 titre_page: Comptes rendus des conseils municipaux
 section: La mairie
 addresse_section: /mairie.html
+menu_secondaire:
+- titre: La mairie
+  addresse: /mairie.html
+- titre: Les élus
+  addresse: /elus.html
+- titre: Documents divers
+  addresse: /divers.html
 ---
 {% assign sorted = (site.comptes | sort: 'date') | reverse %}
 <ul>
