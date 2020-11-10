@@ -11,12 +11,10 @@ description_illustration: Les élus.
 menu_secondaire:
 - titre: La mairie
   addresse: /mairie.html
-- titre: Conseil Municipal
-  addresse: /conseil.html
-- titre: Démarches administratives
-  addresse: /admin.html
-- titre: État civil
-  addresse: /civil.html
+- titre: Comptes rendus
+  addresse: /comptes.html
+- titre: Documents divers
+  addresse: /divers.html
 ---
 
 
