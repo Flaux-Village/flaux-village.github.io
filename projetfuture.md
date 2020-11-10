@@ -22,6 +22,8 @@ menu_secondaire:
   addresse: /projetfait.html
   
 ---
+## Notre équipe est engagée à prioriser les projets suivants selon les délais burocratiques, les budgets et les pouvoirs de subventions:
+
 # PPRI/PLU
 La carte du débordement du PPRI a été révisée. Elle charactérise les zones à innondation sur la commune . Un arreté préfectoral ouvre sur une instruction échelonnée sur 3 ans pour aboutir sur un PPRI opérationel.   Nous sommes donc au tout début du processus.  La prochaine étape est l'engagement d'une étude des zones pluviales . Nous reviendrons regulièrement vous informer de son état d'avancement!
 
