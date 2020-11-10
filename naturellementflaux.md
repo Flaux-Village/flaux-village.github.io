@@ -26,7 +26,7 @@ menu_secondaire:
 
 ![Some alt text](assets/images/affiche Denis Thumbnail.png){:class="img-responsive"}
 
-Lors des élections de l’année 2020:
+## Lors des élections de l’année 2020:
 
 > Depuis 2001, j’ai l’honneur de servir notre village en tant que 1er adjoint du conseil municipal de Flaux présidé par Madame la Maire sortante, Nicole PEREZ. Suite à sa décision de ne pas se représenter aux élections municipales, j’ai décidé de poursuivre mon investissement au sein de notre commune en me présentant en tant que Maire.
 
