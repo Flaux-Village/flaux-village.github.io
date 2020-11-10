@@ -26,17 +26,17 @@ menu_secondaire:
 
 ![Some alt text](assets/images/affiche Denis Thumbnail.png){:class="img-responsive"}
 
-L’année 2020 marque un moment citoyen important pour l’ensemble des habitants de notre village puisqu’il va être temps pour nous de renouveler notre conseil municipal.
+Lors des élections de l’année 2020:
 
-Depuis 2001, j’ai l’honneur de servir notre village en tant que 1er adjoint du conseil municipal de Flaux présidé par Madame la Maire sortante, Nicole PEREZ. Suite à sa décision de ne pas se représenter aux élections municipales, j’ai décidé de poursuivre mon investissement au sein de notre commune en me présentant en tant que Maire.
+> Depuis 2001, j’ai l’honneur de servir notre village en tant que 1er adjoint du conseil municipal de Flaux présidé par Madame la Maire sortante, Nicole PEREZ. Suite à sa décision de ne pas se représenter aux élections municipales, j’ai décidé de poursuivre mon investissement au sein de notre commune en me présentant en tant que Maire.
 
-Fort de dix-neuf années d’expériences au sein du conseil municipal, c’est avec beaucoup de détermination, de conviction et d’amour pour notre village que je me présente en temps que tête de liste afin de représenter aux mieux nos intérêts. Une municipalité ne se gère pas seul et c’est avec une équipe diversifiée, représentative et citoyenne que je souhaite poursuivre la transformation durable de Flaux. Cette équipe est une équipe mixte composée de six femmes et cinq hommes, issus de différentes catégories socio-professionnelles et représentant géographiquement la commune.
+> Fort de dix-neuf années d’expériences au sein du conseil municipal, c’est avec beaucoup de détermination, de conviction et d’amour pour notre village que je me présente en temps que tête de liste afin de représenter aux mieux nos intérêts. Une municipalité ne se gère pas seul et c’est avec une équipe diversifiée, représentative et citoyenne que je souhaite poursuivre la transformation durable de Flaux. Cette équipe est une équipe mixte composée de six femmes et cinq hommes, issus de différentes catégories socio-professionnelles et représentant géographiquement la commune.
 
-Ensemble, nous entendons poursuivre le développement de la commune et le travail engagé depuis plusieurs années par la municipalité. Nos valeurs sont des valeurs de respect, de bien vivre ensemble, de service de l’intérêt général et d’écoute des habitants afin d’œuvrer collectivement pour l’avenir de notre village.
+> Ensemble, nous entendons poursuivre le développement de la commune et le travail engagé depuis plusieurs années par la municipalité. Nos valeurs sont des valeurs de respect, de bien vivre ensemble, de service de l’intérêt général et d’écoute des habitants afin d’œuvrer collectivement pour l’avenir de notre village.
 Ensemble, nous mettrons en œuvre des projets fiables, durables et réalistes tout en restant attentifs à vos besoins et à vos attentes. Nous travaillerons en concertation avec vous et veillerons à maintenir une communication transparente par le biais d’informations régulières, de réunions citoyennes et de commissions mixtes composées d’élus et d’habitants.
 Naturellement Flaux est une équipe engagée et soucieuse du développement et de l’avenir de notre commune. Nous proposons ainsi un programme que nous voulons intergénérationnel et adapté à l’identité et aux besoins du village et de ses habitants.
 
-En tant que tête de liste de « Naturellement Flaux », je suis d’ors et déjà à votre disposition pour échanger sur nos projets et répondre à vos questions. Soyez assurés, chères concitoyennes, chers concitoyens de mon attachement et de mon engagement total pour Flaux.
+> En tant que tête de liste de « Naturellement Flaux », je suis d’ors et déjà à votre disposition pour échanger sur nos projets et répondre à vos questions. Soyez assurés, chères concitoyennes, chers concitoyens de mon attachement et de mon engagement total pour Flaux.
 
 ## Notre projet 2020 – 2026
 
