@@ -37,7 +37,7 @@ Visite guidée.
 # Bassin de retention du chemin de vallagrand 
 Un nouveau bassin de rétention du chemin de Vallagrand. Un pas de plus dans la prevention des risques d'innondation.
 
-# reseau informatique fibre - en cours
+# Réseau informatique fibre - en cours
 Some nice text here...
 
 # Sécurité routière - en cours
