@@ -1,9 +1,9 @@
 ---
 layout: page
-titre: La mairie | Projets réalisés et en cours
+titre: La mairie | Projets dans notre programme
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
-titre_page: Projets réalisés et en cours depuis les élections
+titre_page: Projets dans notre programme
 section: Notre programme
 addresse_section: /naturellementflaux.html
 date_texte: 1 juin 2020
@@ -22,25 +22,39 @@ menu_secondaire:
   addresse: /projetfait.html
   
 ---
-# Securité routière sur la commune  
-Mise en place des 2 stop devant l'école pour renforcer la sécurité de la sortie des enfants. 
+# PPRI/PLU
+La carte du débordement du PPRI a été révisée. Elle charactérise les zones à innondation sur la commune . Un arreté préfectoral ouvre sur une instruction échelonnée sur 3 ans pour aboutir sur un PPRI opérationel.   Nous sommes donc au tout début du processus.  La prochaine étape est l'engagement d'une étude des zones pluviales . Nous reviendrons regulièrement vous informer de son état d'avancement!
 
-# Station d'épuration 
-Révision du contrat avec Aliance prévoyant une prestation de mesure tous les 2 mois. 21M3 de boue ont été évacués, l'objectif est répondre aux normes d'oxygénation de l'eau rejettée.
+# Site internet Maire 
 
-# Usages eau été 
-Campagne de sensibilisation, invitant à la consommation modérée.
+# Jeux enfants  
+Un  espace  de jeux dans le parc du château pour début 2022!  Lancement su projet dans sa première étape prospective de devis pour les travaux à conduire . À suivre!  
 
-# Histoires de clochers
-Visite guidée.
+# Aménagement village (bancs, parkings, panneau information)
+Engagement/Etat d'avancement
 
-# Bassin de retention du chemin de vallagrand 
-Un nouveau bassin de rétention du chemin de Vallagrand. Un pas de plus dans la prevention des risques d'innondation.
+# Aménagements espaces verts 
+Allées du château/parc 
 
-# reseau informatique fibre - en cours
-Some nice text here...
+# Lavoir
+Des travaux seront engagés afin de réhabiliter le lavoir en le remettant en eau et en aménageant les abords sous réserve des subventions visant à engager des travaux pour S2 2021.
 
-# Sécurité routière - en cours
-Les Auvis, passage à 50km/h au lieu des 70km/h courantes.
+# Chemin de POUZILLAC - amanagé en chemin de liaison 
+
+# Campanile
+Contenu à définir  Projet budgété pour intsaller un parafoudre 
+
+# Traveaux de rénovation château 
+À préciser
+
+# Actions sociales 
+Réactivation de la comission sociale CCRS
+
+# Cérémonies, fetes locales Flaux, journées à thème  
+À préciser
+
+
+
+
   
 
