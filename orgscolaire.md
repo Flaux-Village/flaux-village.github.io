@@ -1,43 +1,46 @@
 ---
 layout: page
-titre: Vie du village | École de Flaux
+titre: Vie du village | Année scholaire 2020/2021
 description: L'école de Flaux
 keywords: mairie, commune, flaux, gard, ecole, vie
-titre_page: École de Flaux
+titre_page: Année scholaire 2020/2021
 illustration: /assets/illustrations/ecolebanner copy.JPG
 description_illustration: École de Flaux
-section: Vie du village
-addresse_section: /vie.html
+section: école
+addresse_section: /ecole.html
 menu_secondaire:
 - titre: Notre école
   addresse: /ecole.html
+- titre: Année scolaire 2020/2021
+  addresse: /orgscolaire.html
 - titre: Règlement intérieur des écoles
   addresse: /reglementscol.html
+  
+documents:
+- fiche: 2020-21 Note de rentrée
+  date_texte: 1 Septembre 2020
+  addresse: /assets/documents/dossier d'accueil 2020-2021.docx
+  
 ---
-# Test H1
-Some nice text here...
+# S.I.R.P  La Capelle et Masmolène, Flaux, Saint Victor des Oules 
 
-## Test H2
-Some more text.
+1, place de Verdun<br>
+30700 - La CAPELLE et MASMOLENE<br>
+Tél : 04.66.37.27.47<br>
 
-### Test H3
+Email: sirp30700@laposte.net<br>
 
-Some text.
+## Année scolaire 2020/2021
+3 villages - 3 écoles - 4 classes<br>
 
-* A bullet list item
-* Another bullet list item
 
-1. A numbered list
-2. Another numbered list point
+## Les membres du Conseil Syndical<br>
 
-**Inline responsive image:**
+### Président : <br>
+Denis JUVIN<br>
 
-![Some alt text](assets/illustrations/940_250_flauxbanner1_3600.jpg){:class="img-responsive"}
+### Vice-présidents : <br>
+Membres titulaires : Marie-Michèle ALVARO – Michel BRUN - Valérie UPPHOFF -Laetitia WADIN - Didier MEJEAN – Viviane CREISSEN – Denis JUVIN – Michel VAILLIES – Xavier GAYTE<br>
 
-Normal text looks like this.
-
-> A quote from somebody.
-
-**Some bold text.**
-
-_Some itallic text._
+### Membres suppléants :<br>
+Muriel NIGGEL,  Bernard CANAL, Séverine DAROCHA, Yannick PESIN, Patrica MICHOT, Alessandra STURANI<br>
