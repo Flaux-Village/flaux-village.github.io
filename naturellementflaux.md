@@ -4,8 +4,6 @@ titre: La mairie | Naturellement Flaux, Notre programme
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Notre projet 2020 – 2026
-section: Notre programme
-addresse_section: /naturellementflaux.html
 date_texte: 1 juin 2020
 illustration: /assets/images/Equipenaturellement-banner.png
 description_illustration: Equippe.
