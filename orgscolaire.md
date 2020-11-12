@@ -13,13 +13,15 @@ menu_secondaire:
   addresse: /ecole.html
 - titre: Année scolaire 2020/2021
   addresse: /orgscolaire.html
-- titre: Règlement intérieur des écoles
-  addresse: /reglementscol.html
   
 documents:
-- fiche: 2020-21 Note de rentrée
+- fiche: Dossier d'accueil 2020-2021
   date_texte: 1 Septembre 2020
   addresse: /assets/documents/dossier d'accueil 2020-2021.docx
+- fiche: Cantine espace famille
+  date_texte: 1 Septembre 2020
+  addresse: /assets/documents/Cantine_espacefamille.pdf
+  
   
 ---
 # S.I.R.P  La Capelle et Masmolène, Flaux, Saint Victor des Oules 
