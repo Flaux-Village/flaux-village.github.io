@@ -24,10 +24,10 @@ documents:
 # Collecte sélective:
 
 * Pour protéger notre environnement, pour respecter les directives européennes et pour maîtriser le coût d’élimination de nos déchets, 4 gestes simples sont à accomplir: <br>
-** _Utiliser les colonnes de tri_<br>
-** _Aller à la déchèterie pour les encombrants ou toxiques_<br> 
-** _Utiliser son composteur individuel_<br>
-** _Déposer le RESTE (RESidus des Tris Effectués) dans votre bac individuel_<br>
+1._Utiliser les colonnes de tri_<br>
+2._Aller à la déchèterie pour les encombrants ou toxiques_<br> 
+3._Utiliser son composteur individuel_<br>
+4._Déposer le RESTE (RESidus des Tris Effectués) dans votre bac individuel_<br>
 
 * COLLECTE Flaux - JEUDI
 
