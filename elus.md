@@ -9,8 +9,10 @@ addresse_section: /mairie.html
 illustration: /assets/images/elusbanner1-940x250.png
 description_illustration: Les élus.
 menu_secondaire:
-- titre: La mairie
+- titre: Horaires secrétariat
   addresse: /mairie.html
+- titre: Les élus
+  addresse: /elus.html
 - titre: Comptes rendus
   addresse: /comptes.html
 - titre: Documents divers
