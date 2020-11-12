@@ -13,12 +13,14 @@ documents:
   type: pdf
 
 menu_secondaire:
-- titre: La mairie
+- titre: Horaires secrétariat
   addresse: /mairie.html
 - titre: Les élus
   addresse: /elus.html
 - titre: Comptes rendus
   addresse: /comptes.html
+- titre: Documents divers
+  addresse: /divers.html
 
 ---
 # Veuillez bien accéder aux documents divers suivants en case de besoin!
