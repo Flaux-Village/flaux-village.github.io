@@ -29,6 +29,7 @@ documents:
 
 * Les sites proches: Pont des charrettes, SICTOMU Déchèterie de Vallabrix, SICTOMU Déchèterie d'Uzès, SICTOMU Déchèterie de Lussan, SICTOMU Argilliers, SICTOMU Déchèterie de Fournès
 
+## PROPRÉTAIRES DE LOCATIONS: 
 Il est demandé d'effectuer un rappel sur les consignes de tri aux locataire ainsi qu'à nos invités. C'est pour cela que nous préconisons un affichage des consignes de tri du SICTOMU
 
 
