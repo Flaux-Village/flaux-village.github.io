@@ -32,11 +32,11 @@ Mail: <Ce.0300366K@ac-montpellier.fr>
 
 ### Directrice : Mme MICHEL
 
-_GS-CP_: <br>
+_GS-CP_ <br>
 Mme FABRE (lundi, mardi, vendredi)<br>
 Mme WILLIAM (jeudi)<br>
 
-_CE1-CE2_: <br>
+_CE1-CE2_ <br>
 Mme MICHEL<br>
 
 ## Voici les horaires:
