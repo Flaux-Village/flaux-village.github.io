@@ -4,8 +4,6 @@ titre: La mairie | Projets réalisés et en cours
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Projets réalisés et en cours depuis les élections
-section: Notre programme
-addresse_section: /naturellementflaux.html
 date_texte: 1 juin 2020
 illustration: /assets/illustrations/940_250_flauxcaillou_3591.jpg
 description_illustration: Flaux.
