@@ -6,8 +6,7 @@ keywords: mairie, commune, flaux, gard, ecole, vie
 titre_page: Année scholaire 2020/2021
 illustration: /assets/illustrations/ecolebanner copy.JPG
 description_illustration: École de Flaux
-section: école
-addresse_section: /ecole.html
+
 menu_secondaire:
 - titre: Notre école
   addresse: /ecole.html
