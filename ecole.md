@@ -36,7 +36,7 @@ Mail: <Ce.0300366K@ac-montpellier.fr>
 Mme FABRE (lundi, mardi, vendredi)<br>
 Mme WILLIAM (jeudi)<br>
 
-### <_CE1-CE2_ <br>
+### _CE1-CE2_ <br>
 Mme MICHEL<br>
 
 ## Voici les horaires:
