@@ -6,16 +6,14 @@ keywords: mairie, commune, flaux, gard, ecole, vie
 titre_page: École de Flaux
 illustration: /assets/illustrations/ecolebanner copy.JPG
 description_illustration: École de Flaux
-section: Vie du village
-addresse_section: /vie.html
+section: école
+addresse_section: /ecole.html
 menu_secondaire:
 - titre: Notre école
   addresse: /ecole.html
 - titre: Année scolaire 2020/2021
   addresse: /orgscolaire.html
-- titre: Règlement intérieur des écoles
-  addresse: /reglementscol.html
-  
+   
 documents:
 - fiche: 2020-21 Note de rentrée
   date_texte: 1 Septembre 2020
