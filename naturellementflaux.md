@@ -17,6 +17,8 @@ documents:
   type: pdf
 
 menu_secondaire:
+- titre: Notre programme
+  addresse: /naturellementflaux.html
 - titre: Projets réalisés et en cours
   addresse: /projetfait.html
 - titre: Projets à venir
