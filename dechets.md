@@ -16,23 +16,20 @@ menu_secondaire:
 - titre: Bibliothèque
   addresse: /bibliotheque.html
 documents:
-- fiche: Mon document
-  date_texte: 7 juin 2020
-  addresse: /assets/documents/document1.pdf
-  type: pdf
-- fiche: Document 2
+- fiche: Affiche
   date_texte: 5 juin 2020
-  addresse: /assets/documents/document2.docx
-  type: docx
+  addresse: assets/images/lafarlede-depots-sauvage.png
 ---
 
 # Collecte sélective:
 
-- rappel sur les consignes de tri dans les collectes sélective. ( voir si on peut récupérer des documents SICTOMU ou alors mentionner la page internet sur laquelle les gens peuvent récupérer les informations);
-- rappel sur les jours de collecte des bacs "ménages" (pas de double collecte cet été);
-- rappel des déchetteries à notre disposition et de leurs horaires d'ouvertures ( Uzès, Lussan, Vallabrix etc...);
-- puis finir par une phrase du style :" Il est demandé d'effectuer un rappel sur les consignes de tri aux locataire ainsi qu'à nos invités. C'est pour cela que nous préconisons un affichage des consignes de tri du SICTOMU."
-- dans un même temps on lancerait une campagne d'affichage sur les dépôt sauvages. (voir les pièces jointe.) ps: Cathy aime particulièrement l'une d'entre elles !!!!!!!!!
+* Pour protéger notre environnement, pour respecter les directives européennes et pour maîtriser le coût d’élimination de nos déchets, 4 gestes simples sont à accomplir _Utiliser les colonnes de tri_, _Aller à la déchèterie pour les encombrants ou toxiques_, _Utiliser son composteur individuel_, _Déposer le RESTE (RESidus des Tris Effectués) dans votre bac individuel_
+
+* Flaux - JEUDI
+
+* Les sites proches: Pont des charrettes, SICTOMU Déchèterie de Vallabrix, SICTOMU Déchèterie d'Uzès, SICTOMU Déchèterie de Lussan, SICTOMU Argilliers, SICTOMU Déchèterie de Fournès
+
+Il est demandé d'effectuer un rappel sur les consignes de tri aux locataire ainsi qu'à nos invités. C'est pour cela que nous préconisons un affichage des consignes de tri du SICTOMU
 
 
 ![depot sauvage](assets/images/lafarlede-depots-sauvage.png){:class="img-responsive"}
