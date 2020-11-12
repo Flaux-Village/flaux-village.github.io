@@ -32,17 +32,19 @@ Mail: <Ce.0300366K@ac-montpellier.fr>
 
 ### Directrice : Mme MICHEL
 
-<GS-CP>: Mme FABRE (lundi, mardi, vendredi)
-         Mme WILLIAM (jeudi)
+_GS-CP_: <br>
+Mme FABRE (lundi, mardi, vendredi)<br>
+Mme WILLIAM (jeudi)<br>
 
-<CE1-CE2>: Mme MICHEL
+_CE1-CE2_: <br>
+Mme MICHEL<br>
 
 ## Voici les horaires:
 
-Lundi, mardi, jeudi vendredi : 8h50-11h50 / 13h50-16h50.
+Lundi, mardi, jeudi vendredi : 8h50-11h50 / 13h50-16h50.<br>
 
-Le portail est ouvert 10 minutes avant, le matin et l’après-midi soit à 8h40 et 13h40. 
+Le portail est ouvert 10 minutes avant, le matin et l’après-midi soit à 8h40 et 13h40. <br>
 
-Les enfants sont sous votre responsabilité avant l’ouverture de l’école et après l’heure de sortie.
+Les enfants sont sous votre responsabilité avant l’ouverture de l’école et après l’heure de sortie.<br>
 
 
