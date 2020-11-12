@@ -4,8 +4,6 @@ titre: La mairie | Projets dans notre programme
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Projets dans notre programme
-section: Notre programme
-addresse_section: /naturellementflaux.html
 date_texte: 1 juin 2020
 illustration: /assets/images/garriguefleur.png
 description_illustration: Flaux.
