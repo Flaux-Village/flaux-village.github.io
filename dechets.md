@@ -23,9 +23,10 @@ documents:
 
 # Collecte sélective:
 
-* Pour protéger notre environnement, pour respecter les directives européennes et pour maîtriser le coût d’élimination de nos déchets, 4 gestes simples sont à accomplir _Utiliser les colonnes de tri_, _Aller à la déchèterie pour les encombrants ou toxiques_, _Utiliser son composteur individuel_, _Déposer le RESTE (RESidus des Tris Effectués) dans votre bac individuel_
+* Pour protéger notre environnement, pour respecter les directives européennes et pour maîtriser le coût d’élimination de nos déchets, 4 gestes simples sont à accomplir: <br>
+_Utiliser les colonnes de tri_<br> _Aller à la déchèterie pour les encombrants ou toxiques_<br> _Utiliser son composteur individuel_<br> _Déposer le RESTE (RESidus des Tris Effectués) dans votre bac individuel_<br>
 
-* Flaux - JEUDI
+* COLLECTE Flaux - JEUDI
 
 * Les sites proches: Pont des charrettes, SICTOMU Déchèterie de Vallabrix, SICTOMU Déchèterie d'Uzès, SICTOMU Déchèterie de Lussan, SICTOMU Argilliers, SICTOMU Déchèterie de Fournès
 
