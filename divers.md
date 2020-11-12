@@ -4,8 +4,7 @@ titre: La mairie | Documents divers
 description: La mairie de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Documents divers
-section: La mairie
-addresse_section: /mairie.html
+
 illustration: /assets/illustrations/940_250_Flauxbanner4_3596.jpg
 description_illustration: Mairie de Flaux.
 documents:
