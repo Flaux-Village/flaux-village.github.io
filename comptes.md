@@ -4,7 +4,7 @@ titre: Comptes rendus | La mairie de Flaux
 description: Les comptes rendus des conseils municipaux.
 keywords: mairie, commune, flaux, gard, comptes rendus
 titre_page: Comptes rendus des conseils municipaux
-illustration: /assets/illustrations/940_250_Flauxbanner4_3596.jpg
+illustration: /assets/illustrations/archives_landscape980.JPG
 description_illustration: Mairie de Flaux.
 menu_secondaire:
 - titre: Horaires secrétariat
