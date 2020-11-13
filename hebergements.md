@@ -22,3 +22,13 @@ menu_secondaire:
 - titre: Artisants et entreprises
   addresse: /artisants.html
 ---
+
+# [Chambres d'hôtes et Restaurant TOUT SIMPLEMENT](http://www.chambres-hotes-uzes.com/)
+
+# [Le Blanc Murier](https://www.leblancmurier.fr/fr/)
+
+# [Clos de la Madone – Gîte et Chambres](https://closdelamadone.fr/)
+
+# [Mas Archimbelle](https://mas-archimbelle-fr.book.direct/en-us)
+
+# [I'm an inline-style link](https://www.google.com)
