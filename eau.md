@@ -24,4 +24,4 @@ documents:
   addresse: assets/documents/ars_eau.pdf
 ---
 
-# 
+# [L'eau potable de Flaux](http://www.services.eaufrance.fr/donnees/commune/30110/2019)
