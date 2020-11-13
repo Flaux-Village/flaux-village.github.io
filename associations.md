@@ -22,4 +22,6 @@ menu_secondaire:
 # Archers de Flaux
 # Mission orthodoxe de la Sainte Croix
 # APE de Flaux, St Victor des Oules, La Capelle et Masmolène
+# [Centre Socioculturel Intercommunal Pierre Mendes France](https://www.csipmf.fr/)- Saint-Quentin la Poterie - Ils organisent des activité pour tout age, enfants, jeunes, parents et sénior, actions sociales et écologiques
+
 
