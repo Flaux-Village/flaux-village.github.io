@@ -9,9 +9,9 @@ illustration: /assets/illustrations/940_250_Flauxbanner4_3596.jpg
 description_illustration: La Mairie de Flaux.
 introduction:
 documents:
-- fiche: Flyer Eau
+- fiche: clocher
   date_texte: 5 juin 2020
-  addresse: assets/flyer/FLYEReau202007.pdf
+  addresse: assets/flyer/clochers.pdf
 
 menu_secondaire:
 - titre: Histoire
@@ -20,3 +20,11 @@ menu_secondaire:
   addresse: /interets.html
 
 ---
+
+Situé au pied d’un cirque naturel, Flaux trouve ses origines à l’époque romaine. 
+
+Venez arpenter ce village avec son château du XIIIe siècle et son parc.
+
+L’église recèle de petits trésors. Dans le village ainsi que dans les hameaux, le petit patrimoine est présent partout: lavoir, croix, puits et fontaines, lavognes…
+
+Et si vous ne connaissez pas l’histoire du bandit de Flaux, elle vous sera racontée.
