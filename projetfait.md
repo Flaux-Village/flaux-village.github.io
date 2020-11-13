@@ -5,7 +5,7 @@ description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Projets réalisés et en cours depuis les élections
 date_texte: 1 juin 2020
-illustration: /assets/illustrations/940_250_flauxcaillou_3591.jpg
+illustration: /assets/illustrations/eauinnondlandscape_980.JPG
 description_illustration: Flaux.
 introduction: 
 documents:
