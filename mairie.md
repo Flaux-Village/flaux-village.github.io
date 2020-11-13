@@ -25,6 +25,9 @@ Téléphone : 04 66 22 17 92<br/>
 Fax : 04 66 22 02 66<br/>
 E-mail : secretariat@mairie-flaux.fr<br/>
 
+Lien utile pour [Démarches Administratives](https://www.annuaire-mairie.fr/mairie-flaux.html) 
+
+
 # Communiqué aux administrés:
 
 > Pour la santé et la sécurité de tous, l'ouverture au public sera assurée sous certaines conditions à partir du 2 novembre
