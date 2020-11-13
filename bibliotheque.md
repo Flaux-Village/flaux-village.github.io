@@ -17,9 +17,9 @@ menu_secondaire:
   addresse: /bibliotheque.html
   
 documents:
-- fiche: Flyer Eau
-  date_texte: 5 juin 2020
-  addresse: assets/flyer/FLYEReau202007.pdf
+- fiche: Invitation Réouverture Bibliothèque 
+  date_texte: 19 Novembre 2019
+  addresse: assets/flyer/2019 - 11-19 - affiche invitation réouverture bibliothèque.docx
   
   
 ---
