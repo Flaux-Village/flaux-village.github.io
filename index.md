@@ -14,7 +14,7 @@ onglets_principaux:
   illustration: /assets/illustrations/news/stopecole-home-525x320.png
   description_illustration: Le clochet de l'église de Flaux.
 - titre: Nos projets
-  addresse: /projets.html
+  addresse: /projetfait.html
   illustration: /assets/illustrations/525_320_flauxecole_3617.jpg
   description_illustration: École de Flaux.
 articles_en_vedette:
