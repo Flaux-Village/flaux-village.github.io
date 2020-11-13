@@ -5,7 +5,7 @@ description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Flaux, Histoire
 date_texte: 1 juin 2020
-illustration: /assets/illustrations/940_250_Flauxbanner4_3596.jpg
+illustration: /assets/illustrations/Cimetierenouveau2landscape-980.JPG
 description_illustration: La Mairie de Flaux.
 introduction:
 documents:
