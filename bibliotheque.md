@@ -26,7 +26,7 @@ documents:
  
 __A partir du 2 novembre et jusqu’à nouvel ordre. En vertu des consignes gouvernementales et afin de limiter la propagation du virus la bibliothèque sera fermée.__
  
- # Horaires habituels
+# Horaires habituels
  
 ## Les lundis de 16h à 18h30
 ## Les mercredis de 10h à 12h 
