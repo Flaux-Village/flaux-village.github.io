@@ -22,3 +22,8 @@ menu_secondaire:
 - titre: Artisants et entreprises
   addresse: /artisants.html
 ---
+
+# Archers de Flaux
+# Mission orthodoxe de la Sainte Croix
+# APE de Flaux, St Victor des Oules, La Capelle et Masmolène
+
