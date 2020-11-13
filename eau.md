@@ -19,7 +19,7 @@ documents:
 - fiche: Flyer Eau
   date_texte: 5 juin 2020
   addresse: assets/flyer/FLYEReau202007.pdf
-- fiche: Flyer Eau
+- fiche: ARS
   date_texte: 5 juin 2020
   addresse: assets/documents/ars_eau.pdf
 ---
