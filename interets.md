@@ -20,3 +20,20 @@ menu_secondaire:
   addresse: /interets.html
 
 ---
+
+Pour les randonneurs, [voici un lien utile](https://www.visorando.com/randonnee-flaux.html "parcours")
+
+# Notre église:
+
+![Some alt text](assets/illustrations/eglise/eglisetombe 185.JPG){:class="img-responsive"}
+
+![Some alt text](assets/illustrations/eglise/eglisetombedeux.JPG){:class="img-responsive"}
+
+![Some alt text](assets/illustrations/eglise/egliseexplic185.JPG){:class="img-responsive"}
+
+![Some alt text](assets/illustrations/eglise/egliseinterieurdeux185.JPG){:class="img-responsive"}
+
+![Some alt text](assets/illustrations/eglise/eglisevitrailun185.JPG){:class="img-responsive"}
+
+![Some alt text](assets/illustrations/eglise/eglisevitraildeux185.JPG){:class="img-responsive"}
+
