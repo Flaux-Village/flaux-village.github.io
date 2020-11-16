@@ -4,6 +4,8 @@ titre: Actualités | La mairie de Flaux
 description: Actualités du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
 titre_page: À la une
+illustration: /assets/illustrations/940_250_flauxcaillou_3591.jpg
+description_illustration: La Mairie de Flaux.
 ---
 
 {% assign sorted = (site.actualites | sort: 'date') | reverse %}
