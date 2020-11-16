@@ -8,7 +8,7 @@ section: À la une
 addresse_section: /actualites.html
 date_texte: 8 juin 2020
 date: 2020-06-08
-illustration: /assets/illustrations/IMG_3615.jpg
+illustration: /assets/illustrations/eauinnondlandscape_980.JPG
 description_illustration: La Mairie de Flaux.
 introduction: Nous avons entamé des traveaux pour améliorer la rétention d'eau!
 ---
