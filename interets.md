@@ -48,7 +48,7 @@ Pour les randonneurs, [voici un lien utile](https://www.visorando.com/randonnee-
 </div>
 
 
-<br>
+<div style="clear: both;"></div>
 
 <div class="gallery">
   <a target="_blank" href="assets/illustrations/eglise/gallery-400h-vitrail1.JPG">
