@@ -9,9 +9,9 @@ illustration: /assets/illustrations/flauxcloche_landscape_980.JPG
 description_illustration: La Mairie de Flaux.
 introduction:
 documents:
-- fiche: Flyer Eau
+- fiche: Etude du petit patrimoine
   date_texte: 5 juin 2020
-  addresse: assets/flyer/FLYEReau202007.pdf
+  addresse: assets/documents/FICHE_IPP_FLAUX.pdf
 
 menu_secondaire:
 - titre: Histoire
