@@ -41,16 +41,6 @@ Pour les randonneurs, [voici un lien utile](https://www.visorando.com/randonnee-
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="assets/illustrations/eglise/gallery-400h-egliseinterieur.JPG">
-    <img src="assets/illustrations/eglise/gallery-400h-egliseinterieur.JPG" alt="Eglise Flaux" width="600" height="400">
-  </a>
-  <div class="desc">Eglise de Flaux</div>
-</div>
-
-
-<div style="clear: both;"></div>
-
-<div class="gallery">
   <a target="_blank" href="assets/illustrations/eglise/gallery-400h-vitrail1.JPG">
     <img src="assets/illustrations/eglise/gallery-400h-vitrail1.JPG" alt="Vitrail" width="600" height="400">
   </a>
@@ -62,6 +52,17 @@ Pour les randonneurs, [voici un lien utile](https://www.visorando.com/randonnee-
     <img src="assets/illustrations/eglise/eglisevitraildeux185.JPG" alt="Vitrail" width="600" height="400">
   </a>
   <div class="desc">Vitrail de l'église de Flaux</div>
+</div>
+
+
+<div style="clear: both;"></div>
+
+
+<div class="gallery">
+  <a target="_blank" href="assets/illustrations/eglise/gallery-400h-egliseinterieur.JPG">
+    <img src="assets/illustrations/eglise/gallery-400h-egliseinterieur.JPG" alt="Eglise Flaux" width="600" height="400">
+  </a>
+  <div class="desc">Eglise de Flaux</div>
 </div>
 
 <div class="gallery">
