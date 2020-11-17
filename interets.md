@@ -45,29 +45,43 @@ Pour les randonneurs, [voici un lien utile](https://www.visorando.com/randonnee-
 
 
 <div class="gallery">
-  <a target="_blank" href="img_5terre.jpg">
-    <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+  <a target="_blank" href="assets/illustrations/eglise/eglisetombe 185.JPG">
+    <img src="assets/illustrations/eglise/eglisetombe 185.JPG" alt="Tombeau Gallo Romain" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Tombeau Gallo Romain dans l'église de Flaux</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="img_forest.jpg">
-    <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+  <a target="_blank" href="assets/illustrations/eglise/eglisetombedeux.JPG">
+    <img src="assets/illustrations/eglise/eglisetombedeux.JPG" alt="Tombeau Gallo Romain" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Tombeau Gallo Romain dans l'église de Flaux</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="img_lights.jpg">
-    <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+  <a target="_blank" href="assets/illustrations/eglise/egliseexplic185.JPG">
+    <img src="assets/illustrations/eglise/egliseexplic185.JPG" alt="Traduction Inscription Tombeau" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Traduction Inscription Tombeau</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="img_mountains.jpg">
-    <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+  <a target="_blank" href="assets/illustrations/eglise/egliseinterieurdeux185.JPG">
+    <img src="assets/illustrations/eglise/egliseinterieurdeux185.JPG" alt="Eglise Flaux" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Eglise de Flaux</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/illustrations/eglise/eglisevitrailun185.JPG">
+    <img src="img_mountains.jpg" alt="Vitrail" width="600" height="400">
+  </a>
+  <div class="desc">Vitrail de l'église de Flaux</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/illustrations/eglise/eglisevitraildeux185.JPG">
+    <img src="assets/illustrations/eglise/eglisevitraildeux185.JPG" alt="Vitrail" width="600" height="400">
+  </a>
+  <div class="desc">Vitrail de l'église de Flaux</div>
 </div>
