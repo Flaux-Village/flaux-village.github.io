@@ -65,6 +65,9 @@ Pour les randonneurs, [voici un lien utile](https://www.visorando.com/randonnee-
   <div class="desc">Eglise de Flaux</div>
 </div>
 
+
+<br>
+
 <div class="gallery">
   <a target="_blank" href="assets/illustrations/eglise/gallery-400h-vitrail1.JPG">
     <img src="assets/illustrations/eglise/gallery-400h-vitrail1.JPG" alt="Vitrail" width="600" height="400">
