@@ -25,24 +25,6 @@ Pour les randonneurs, [voici un lien utile](https://www.visorando.com/randonnee-
 
 # Notre église:
 
-![Some alt text](assets/illustrations/eglise/eglisetombe 185.JPG){:class="img-responsive"} <br>
-
-
-![Some alt text](assets/illustrations/eglise/eglisetombedeux.JPG){:class="img-responsive"}  <br>
-
-
-![Some alt text](assets/illustrations/eglise/egliseexplic185.JPG){:class="img-responsive"} <br>
-
-
-![Some alt text](assets/illustrations/eglise/egliseinterieurdeux185.JPG){:class="img-responsive"}  <br>
-
-
-![Some alt text](assets/illustrations/eglise/eglisevitrailun185.JPG){:class="img-responsive"} <br>
-
-
-![Some alt text](assets/illustrations/eglise/eglisevitraildeux185.JPG){:class="img-responsive"} <br>
-
-
 
 <div class="gallery">
   <a target="_blank" href="assets/illustrations/eglise/gallery-400h-eglisetombe.JPG">
