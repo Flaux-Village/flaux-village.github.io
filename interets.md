@@ -72,6 +72,9 @@ Pour les randonneurs, [voici un lien utile](https://www.visorando.com/randonnee-
   <div class="desc">Intérieur de l'église de Flaux</div>
 </div>
 
+<div style="clear: both;"></div>
+
+
 # Autre patrimoines:
 
 <div style="clear: both;"></div>
@@ -82,6 +85,13 @@ Pour les randonneurs, [voici un lien utile](https://www.visorando.com/randonnee-
     <img src="assets/illustrations/30-flaux-lavoir-1.jpg" alt="Lavoir Flaux" width="600" height="400">
   </a>
   <div class="desc">Lavoir place du lavoir</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/illustrations/30-flaux-chapelle.jpg">
+    <img src="assets/illustrations/30-flaux-chapelle.jpg" alt="Chapelle" width="600" height="400">
+  </a>
+  <div class="desc">Chapelle dans le village</div>
 </div>
 
 <div style="clear: both;"></div>
@@ -97,9 +107,4 @@ Pour les randonneurs, [voici un lien utile](https://www.visorando.com/randonnee-
 <div style="clear: both;"></div>
 
 
-<div class="gallery">
-  <a target="_blank" href="assets/illustrations/30-flaux-chapelle.jpg">
-    <img src="assets/illustrations/30-flaux-chapelle.jpg" alt="Chapelle" width="600" height="400">
-  </a>
-  <div class="desc">Chapelle dans le village</div>
-</div>
+
