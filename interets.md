@@ -94,9 +94,6 @@ Pour les randonneurs, [voici un lien utile](https://www.visorando.com/randonnee-
   <div class="desc">Chapelle dans le village</div>
 </div>
 
-<div style="clear: both;"></div>
-
-
 <div class="gallery">
   <a target="_blank" href="assets/illustrations/30-flaux-fontaine.jpg">
     <img src="assets/illustrations/30-flaux-fontaine.jpg" alt="Fontaine Flaux" width="600" height="400">
