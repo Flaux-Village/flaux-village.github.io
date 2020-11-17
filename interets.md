@@ -45,36 +45,29 @@ Pour les randonneurs, [voici un lien utile](https://www.visorando.com/randonnee-
 
 
 <div class="gallery">
-  <a target="_blank" href="assets/illustrations/eglise/eglisetombe 185.JPG">
-    <img src="assets/illustrations/eglise/eglisetombe 185.JPG" alt="Tombeau Gallo Romain" width="600" height="400">
+  <a target="_blank" href="assets/illustrations/eglise/gallery-400h-eglisetombe.JPG">
+    <img src="assets/illustrations/eglise/gallery-400h-eglisetombe.JPG" alt="Tombeau Gallo Romain" width="600" height="400">
   </a>
   <div class="desc">Tombeau Gallo Romain dans l'église de Flaux</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="assets/illustrations/eglise/eglisetombedeux.JPG">
-    <img src="assets/illustrations/eglise/eglisetombedeux.JPG" alt="Tombeau Gallo Romain" width="600" height="400">
-  </a>
-  <div class="desc">Tombeau Gallo Romain dans l'église de Flaux</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="assets/illustrations/eglise/egliseexplic185.JPG">
-    <img src="assets/illustrations/eglise/egliseexplic185.JPG" alt="Traduction Inscription Tombeau" width="600" height="400">
+  <a target="_blank" href="assets/illustrations/eglise/galleyr-400h-explic.JPG">
+    <img src="assets/illustrations/eglise/galleyr-400h-explic.JPG" alt="Traduction Inscription Tombeau" width="600" height="400">
   </a>
   <div class="desc">Traduction Inscription Tombeau</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="assets/illustrations/eglise/egliseinterieurdeux185.JPG">
-    <img src="assets/illustrations/eglise/egliseinterieurdeux185.JPG" alt="Eglise Flaux" width="600" height="400">
+  <a target="_blank" href="assets/illustrations/eglise/gallery-400h-egliseinterieur.JPG">
+    <img src="assets/illustrations/eglise/gallery-400h-egliseinterieur.JPG" alt="Eglise Flaux" width="600" height="400">
   </a>
   <div class="desc">Eglise de Flaux</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="assets/illustrations/eglise/eglisevitrailun185.JPG">
-    <img src="assets/illustrations/eglise/eglisevitrailun185.JPG" alt="Vitrail" width="600" height="400">
+  <a target="_blank" href="assets/illustrations/eglise/gallery-400h-vitrail1.JPG">
+    <img src="assets/illustrations/eglise/gallery-400h-vitrail1.JPG" alt="Vitrail" width="600" height="400">
   </a>
   <div class="desc">Vitrail de l'église de Flaux</div>
 </div>
@@ -84,4 +77,11 @@ Pour les randonneurs, [voici un lien utile](https://www.visorando.com/randonnee-
     <img src="assets/illustrations/eglise/eglisevitraildeux185.JPG" alt="Vitrail" width="600" height="400">
   </a>
   <div class="desc">Vitrail de l'église de Flaux</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/illustrations/eglise/gallery-400h-vitrail2.JPG">
+    <img src="assets/illustrations/eglise/gallery-400h-vitrail2.JPG" alt="Eglise de Flaux" width="600" height="400">
+  </a>
+  <div class="desc">Intérieur de l'église de Flaux</div>
 </div>
