@@ -26,7 +26,7 @@ documents:
   
   
 ---
-# S.I.R.P  La Capelle et Masmolène, Flaux, Saint Victor des Oules 
+# S.I.R.P.  La Capelle et Masmolène, Flaux, Saint Victor des Oules 
 
 1, place de Verdun<br>
 30700 - La CAPELLE et MASMOLENE<br>
@@ -37,6 +37,13 @@ Email: sirp30700@laposte.net<br>
 ## Année scolaire 2020/2021
 3 villages - 3 écoles - 4 classes<br>
 
+## Personnel du S.I.R.P.<br>
+
+Valérie LANGLASSE<br>
+Nathalie RIZZO<br>
+Christèle DUJARDIN<br>
+Magalie MOREAU<br>
+Mélanie Faurant<br>
 
 ## Les membres du Conseil Syndical<br>
 
@@ -51,3 +58,5 @@ Marie-Michèle ALVARO – Michel BRUN - Valérie UPPHOFF -Laetitia WADIN - Didie
 
 ### Membres suppléants :<br>
 Muriel NIGGEL,  Bernard CANAL, Séverine DAROCHA, Yannick PESIN, Patrica MICHOT, Alessandra STURANI<br>
+
+
