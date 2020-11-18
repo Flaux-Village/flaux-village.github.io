@@ -47,16 +47,16 @@ Mélanie Faurant<br>
 
 ## Les membres du Conseil Syndical<br>
 
-### Président : <br>
+*Président:* <br>
 Denis JUVIN<br>
 
-### Vice-présidents : <br>
+*Vice-présidents:* <br>
 Valérie UPPHOFF et Michel VAILLIES <br>
 
-### Membres titulaires : <br>
+*Membres titulaires:* <br>
 Marie-Michèle ALVARO – Michel BRUN - Valérie UPPHOFF -Laetitia WADIN - Didier MEJEAN – Viviane CREISSEN – Denis JUVIN – Michel VAILLIES – Xavier GAYTE<br>
 
-### Membres suppléants :<br>
+*Membres suppléants:*<br>
 Muriel NIGGEL,  Bernard CANAL, Séverine DAROCHA, Yannick PESIN, Patrica MICHOT, Alessandra STURANI<br>
 
 
