@@ -10,7 +10,7 @@ date_texte: 19 Novembre 2020
 date: 2020-11-19
 illustration: 
 description_illustration: 
-introduction: le power point de la réunion de présentation de la fibre optique (wigard)
+introduction: 
 documents:
 - fiche: Power point fibre optique (wigard)
   date_texte: 19 Novembre 2020
@@ -18,7 +18,7 @@ documents:
   type: pdf
 
 ---
-Voici power point de la réunion de présentation de la fibre optique (wigard)
+Voici le power point de la réunion de présentation de la fibre optique (wigard)
 
 Bien cordialement
 
