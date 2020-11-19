@@ -10,7 +10,7 @@ date_texte: 19 Novembre 2020
 date: 2020-11-19
 illustration: 
 description_illustration: 
-introduction: 
+introduction: La Fibre est arrivée!!
 documents:
 - fiche: Power point fibre optique (wigard)
   date_texte: 19 Novembre 2020
