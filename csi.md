@@ -28,10 +28,10 @@ documents:
 
 Flaux fait partie du regroupement du CSI de Saint-Quentin-la-Poterie, un organisme très utile pour tous les ages et tout besoins!<br>
 
-Garderies, voyages jeunes, familles et séniors<br>
-Activité physiques et culturelles<br>
-Actions sociales et écologiques<br>
-Conseils juridiques<br>
+* Garderies, voyages jeunes, familles et séniors<br>
+* Activité physiques et culturelles<br>
+* Actions sociales et écologiques<br>
+* Conseils juridiques<br>
 
 Voici le lien pour leur site: [Centre Socioculturel Intercommunal Pierre Mendes France](https://www.csipmf.fr/)
 
