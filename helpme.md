@@ -23,7 +23,7 @@ E-mail : secretariat@mairie-flaux.fr
 
 ### Nous avons des élus engagés dans l'action sociale:
 
-Catherine VINAS
-Catherine MARTEL
-Patricia MICHOT
-Alessandra STURANI
+Catherine VINAS <br>
+Catherine MARTEL <br>
+Patricia MICHOT <br>
+Alessandra STURANI <br>
