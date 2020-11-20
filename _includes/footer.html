@@ -47,18 +47,16 @@
       		<h2>Plan du site</h2>
       		<div class="row">
             <div class="footer-sitemap-col">
-              <h3>
-    					  <a href="/mairie.html">La mairie</a>
-    					</h3>
+              <h3>La mairie</h3>
               <ul>
                 <li><a href="/mairie.html">La mairie de Flaux</a></li>
-                <li><a href="/projets.html">Nos projets</a></li>
+                <li><a href="/elus.html">Les élus</a></li>
+                <li><a href="/helpme.html">S.O.S. Isolation</a></li>
+                <li><a href="/naturellementflaux.html">Notre Programme</a></li>
               </ul>
     				</div>
     				<div class="footer-sitemap-col">
-    					<h3>
-                <a href="/actualites.html">À la une</a>
-    					</h3>
+    					<h3>À la une</h3>
               <ul>
                 {% assign footer_sorted = (site.actualites | sort: 'date') | reverse %}
                 {% for article in footer_sorted limit:5 %}
@@ -67,23 +65,25 @@
               </ul>
             </div>
     				<div class="footer-sitemap-col">
-    				  <h3>
-    				    <a href="/vie.html">Vie du village</a>
-    				  </h3>
+    				  <h3>Vie du village</h3>
               <ul>
                 <li><a href="/ecole.html">École</a></li>
-                <li><a href="/infos.html">Infos pratiques</a></li>
-                <li><a href="/resources.html">Annuaire des resources</a></li>
+                <li><a href="/orgscolaire.html">Année scolaire 2020/2021</a></li>
+                <li><a href="/dechets.html">Le Tri des déchets - Le SICTOMU</a></li>
+                <li><a href="/eau.html">Eau</a></li>
+                <li><a href="/bibliotheque.html">Bibliothèque</a></li>
+                <li><a href="/csi.html">Centre Socioculturel - St Quentin-la-poterie</a></li>
+                <li><a href="/associations.html">Associations</a></li>
+                <li><a href="/hebergements.html">Hébergements et restauration</a></li>
+                <li><a href="/artisants.html">Artisans et entreprises</a></li>
               </ul>
             </div>
     				<div class="footer-sitemap-col">
-    				  <h3>
-    				    <a href="/decouvrir-flaux.html">Découvrir le village</a>
-    				  </h3>
+    				  <h3>Découvrir le village</h3>
               <ul>
-                <li><a href="/tourisme.html">Patrimoine touristique</a></li>
-                <li><a href="/plans.html">Plans</a></li>
-  				    </ul>
+                <li><a href="/histoire.html">Histoire du village</a></li>
+                <li><a href="/interets.html">Points d'intérêts</a></li>
+  			 </ul>
             </div>
   		    </div>
         </div>
