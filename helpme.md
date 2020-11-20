@@ -19,7 +19,7 @@ menu_secondaire:
 
 ## En difficulté? Ne restez pas isolés! 
 
-## Appelez nous à la mairie et vous mettre en contacte avec des personnes prêtes à vous aider!!
+## Appelez-nous à la mairie et on vous mettra en contacte avec des personnes prêtes à vous assister!!
 Téléphone : 04 66 22 17 92
 E-mail : secretariat@mairie-flaux.fr
 
