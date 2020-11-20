@@ -15,6 +15,8 @@ menu_secondaire:
   addresse: /eau.html
 - titre: Bibliothèque
   addresse: /bibliotheque.html
+- titre: CSI Saint-Quentin-la-Poterie
+  addresse: /csi.html
   
 documents:
 - fiche: Invitation Réouverture Bibliothèque 
