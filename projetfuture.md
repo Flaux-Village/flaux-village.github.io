@@ -50,7 +50,7 @@ Contenu à définir  Projet budgété pour intsaller un parafoudre
 À préciser
 
 # Actions sociales 
-Réactivation de la comission sociale CCRS
+MSA - Un accuoeil tous les mois de 9h à 12h - À préciser
 
 # Cérémonies, fetes locales Flaux, journées à thème  
 À préciser
