@@ -14,7 +14,7 @@ description_illustration: Stop devant l'école
 ---
 Nouveau passage piéton dès la rentrée des classes!
 
-La nouvelle équipe a, dès les élections, travaillé sure un passage piéton.
+La nouvelle équipe a, dès les élections, travaillé sur un passage piéton.
 
 > Denis se prononce:
 
