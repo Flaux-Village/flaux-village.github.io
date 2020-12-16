@@ -41,7 +41,7 @@ documents:
 
 * COLLECTE Flaux - JEUDI
 
-* Nouveaux arrivants : Un « Kit des nouveaux arrivants » est disponible en mairie
+* NOUVEAUX ARRIVANTS : Un « Kit des nouveaux arrivants » est disponible en mairie
 
 * Les sites SICTOMU les plus proches: Déchèterie de Vallabrix, Déchèterie d’Uzès Pont des charrettes
 Tous renseignements sur le site du <a href="http://www.sictomu.org">SICTOMU</a>
