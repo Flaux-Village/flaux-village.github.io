@@ -19,9 +19,11 @@ menu_secondaire:
   addresse: /artisants.html
 ---
 
+# [Centre Socioculturel Intercommunal Pierre Mendes France](https://www.csipmf.fr/)- Saint-Quentin la Poterie
+# COMITE DES FETES DE FLAUX LA FIESTA, Action socioculturelle, 115 Chemin du merlançon
+# TEAM 5 M RALLYE, Sports mécaniques, 145 Chemin du Jas
+# Société de chasse petits gibiers, LE MARINARD
+# Société de chasse grands gibiers, LA PIERRE PLANTEE
 # Archers de Flaux
 # Mission orthodoxe de la Sainte Croix
 # APE de Flaux, St Victor des Oules, La Capelle et Masmolène
-# [Centre Socioculturel Intercommunal Pierre Mendes France](https://www.csipmf.fr/)- Saint-Quentin la Poterie
-
-
