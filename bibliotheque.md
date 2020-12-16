@@ -27,14 +27,14 @@ documents:
 ---
 # Située aux 2°étage de la mairie (ascenseur)
 
-## Mail : bibliotheque@mairie-flaux.fr <br> 
-## Responsable bénévole : Sylvie Parent <br> 
-## Responsable élue : Catherine Vinas <br> 
+### Mail : bibliotheque@mairie-flaux.fr <br> 
+### Responsable bénévole : Sylvie Parent <br> 
+### Responsable élue : Catherine Vinas <br> 
 
 ## La bibliothèque de flaux fait partie du <a href="https://www.mediatheques.ccpaysduzes.fr/bibliotheques">réseau bibliothèques pays d'Uzès</a>  <br> 
 <img src="assets/images/bibliotheque.png" alt="réseau bibliothèques pays d'Uzès" width="336" height="140">
  
 # Horaires habituels
  
-## Les lundis de 16h à 18h30
-## Les mercredis de 10h à 12h 
+### Les lundis de 16h à 18h30
+### Les mercredis de 10h à 12h 
