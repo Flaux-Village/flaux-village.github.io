@@ -26,6 +26,11 @@ Fax : 04 66 22 02 66<br/>
 E-mail : secretariat@mairie-flaux.fr<br/>
 Secrétaire de mairie: Kristel GOMIS
 
+## Horaires de la mairie de Flaux en temps normaux!
+La mairie de Flaux est ouverte :<br/>
+Le lundi  de 09h00 à 12h30<br/>
+Le jeudi  de 09h00 à 12h30<br/>
+
 Lien utile pour [Démarches Administratives](https://www.annuaire-mairie.fr/mairie-flaux.html) 
 
 
@@ -47,12 +52,5 @@ Lien utile pour [Démarches Administratives](https://www.annuaire-mairie.fr/mair
 
 > Le Maire
 > Denis JUVIN
-
-
-
-## Horaires de la mairie de Flaux en temps normaux!
-La mairie de Flaux est ouverte :<br/>
-Le lundi : de 09h00 à 12h30<br/>
-Le jeudi : de 09h00 à 12h30<br/>
 
 
