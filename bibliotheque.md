@@ -30,6 +30,7 @@ documents:
 ## Mail : bibliotheque@mairie-flaux.fr <br> 
 ## Responsable bénévole : Sylvie Parent <br> 
 ## Responsable élue : Catherine Vinas <br> 
+
 ## La bibliothèque de flaux fait partie du réseau bibliothèques pays d'Uzès: <br> 
 <img src="assets/images/bibliotheque.png" alt="réseau bibliothèques pays d'Uzès" width="336" height="140">
  
