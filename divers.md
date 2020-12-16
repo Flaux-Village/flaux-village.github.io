@@ -28,6 +28,6 @@ menu_secondaire:
   addresse: /divers.html
 
 ---
-# Veuillez bien accéder aux documents divers suivants en case de besoin!
+# Veuillez bien accéder aux documents suivants en cas de besoin!
 
 
