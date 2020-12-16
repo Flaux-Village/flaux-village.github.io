@@ -22,7 +22,7 @@ documents:
 - fiche: Affiche
   date_texte: 5 juin 2020
   addresse: assets/images/lafarlede-depots-sauvage.png
-- fiche: Les consigners de tri
+- fiche: Les consignes de tri
   date_texte: 5 juin 2020
   addresse: assets/flyer/memo_dechets_hd_1291.pdf
 - fiche: Les consignes de tri fromat tryptique
