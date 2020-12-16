@@ -51,7 +51,8 @@ Mélanie Faurant<br>
 Denis JUVIN<br>
 
 *Vice-présidents:* <br>
-Valérie UPPHOFF et Michel VAILLIES <br>
+Madame Viviane CREISSEN <br>
+Monsieur Didier MEJEAN <br>
 
 *Membres titulaires:* <br>
 Marie-Michèle ALVARO – Michel BRUN - Valérie UPPHOFF -Laetitia WADIN - Didier MEJEAN – Viviane CREISSEN – Denis JUVIN – Michel VAILLIES – Xavier GAYTE<br>
