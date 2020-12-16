@@ -25,8 +25,13 @@ documents:
   
   
 ---
- 
-__A partir du 2 novembre et jusqu’à nouvel ordre. En vertu des consignes gouvernementales et afin de limiter la propagation du virus la bibliothèque sera fermée.__
+<p><b>Située aux 2°étage de la maire (ascenseur)</b></p> 
+
+Mail : bibliotheque@mairie-flaux.fr
+Responsable bénévole : Sylvie Parent
+Responsable élue : Catherine Vinas 
+La bibliothèque de flaux fait partie du
+<img src="assets/images/bibliotheque.png" alt="réseau bibliothèques pays d'Uzès" width="500" height="333">
  
 # Horaires habituels
  
