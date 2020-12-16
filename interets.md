@@ -105,7 +105,7 @@ Pour les randonneurs, [voici un lien utile](https://www.visorando.com/randonnee-
   <a target="_blank" href="assets/illustrations/gallery-400h-Cimetierechaine.JPG">
     <img src="assets/illustrations/gallery-400h-Cimetierechaine.JPG" alt="Arbre IF" width="600" height="400">
   </a>
-  <div class="desc">Notre arbre d'IF dans le cimetière</div>
+  <div class="desc">Notre arbre, un Cèdre Noir Du Liban dans le cimetière</div>
 </div>
 
 
