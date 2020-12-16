@@ -22,6 +22,13 @@ documents:
 - fiche: Affiche
   date_texte: 5 juin 2020
   addresse: assets/images/lafarlede-depots-sauvage.png
+- fiche: Les consigners de tri
+  date_texte: 5 juin 2020
+  addresse: assets/flyer/memo_dechets_hd_1291.pdf
+- fiche: Les consignes de tri fromat tryptique
+  date_texte: 5 juin 2020
+  addresse: assets/flyer/guide_tri-tryptique_1289.pdf
+  
 ---
 
 # Collecte sélective:
@@ -34,7 +41,8 @@ documents:
 
 * COLLECTE Flaux - JEUDI
 
-* Les sites proches: Pont des charrettes, SICTOMU Déchèterie de Vallabrix, SICTOMU Déchèterie d'Uzès, SICTOMU Déchèterie de Lussan, SICTOMU Argilliers, SICTOMU Déchèterie de Fournès
+* Les sites SICTOMU les plus proches: Déchèterie de Vallabrix, Déchèterie d’Uzès Pont des charrettes
+Tous renseignements sur le site du <a href="http://www.sictomu.org">SICTOMU</a>
 
 ## PROPRÉTAIRES DE LOCATIONS: 
 Il est demandé d'effectuer un rappel sur les consignes de tri aux locataire ainsi qu'à nos invités. C'est pour cela que nous préconisons un affichage des consignes de tri du SICTOMU
