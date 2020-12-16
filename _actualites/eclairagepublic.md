@@ -8,7 +8,7 @@ section: À la une
 addresse_section: /actualites.html
 date_texte:  Septembre 2020
 date: 2020-09-01
-illustration: /assets/illustrations/eauinnondlandscape_980.JPG
+illustration: /assets/illustrations/flauxfuturlandscape_980.JPG
 description_illustration: La Mairie de Flaux.</br>
 introduction:
 ---
