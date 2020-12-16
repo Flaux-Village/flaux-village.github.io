@@ -24,8 +24,8 @@ articles_en_vedette:
   description_illustration: La Mairie de Flaux.
 - titre: "Les navettes vers les marchés"
   addresse: /assets/flyer/Dépliant-NAVETTES_CCPU-2020.pdf
-  illustration: /assets/images/Navettes.jpg
-  description_illustration: Le clocher de l'église de Flaux.
+  illustration: /assets/images/Navettessmall.jpg
+  description_illustration: Dépliant Navette.
 - titre: "Tourisme"
   addresse: /hebergements.html
   illustration: /assets/illustrations/182_108_flauxtapas_3622.jpg
