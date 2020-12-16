@@ -25,5 +25,4 @@ menu_secondaire:
 # Société de chasse petits gibiers, LE MARINARD
 # Société de chasse grands gibiers, LA PIERRE PLANTEE
 # Archers de Flaux
-# Mission orthodoxe de la Sainte Croix
 # APE de Flaux, St Victor des Oules, La Capelle et Masmolène
