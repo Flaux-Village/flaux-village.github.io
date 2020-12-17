@@ -18,4 +18,4 @@ Le prix moyen de l’eau (eau potable et assainissement) est de 3,52 € /M3 po
 
 Afin d’inciter les citoyens à maitriser leur consommation en période estivale, nous avons mis en place une facturation par tranches. <br>
 
-Une étude des schémas directeurs de l’eau et de l’assainissement est par ailleurs en court. <br>
+Une étude des schémas directeurs de l’eau et de l’assainissement est par ailleurs en cours. <br>
