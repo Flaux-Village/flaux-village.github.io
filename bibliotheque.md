@@ -32,9 +32,25 @@ documents:
 ### Responsable élue : Catherine Vinas <br> 
 
 ## La bibliothèque de flaux fait partie du <a href="https://www.mediatheques.ccpaysduzes.fr/bibliotheques">réseau bibliothèques pays d'Uzès</a>  <br> 
-<img src="assets/images/bibliotheque.png" alt="réseau bibliothèques pays d'Uzès" width="336" height="140">
+<img src="assets/images/bibliotheque.png" alt="réseau bibliothèques pays d'Uzès" width="336" height="140">, portail à disposition pour connaître toutes les resources du réseau.
  
 # Horaires habituels
  
-### Les lundis de 16h à 18h30
-### Les mercredis de 10h à 12h 
+### Les lundis de 16h à 18h30 <br> 
+### Les mercredis de 10h à 12h30 <br> 
+
+Que vous habitiez le territoire de la CCPU ou non, avoir une carte du réseau, emprunter et réserver des documents, c'est simple et gratuit.<br> 
+La carte est utilisable sur l'ensemble du réseau. <br> 
+
+## Vous pouvez emprunter 5 livres à la bibliothèque de Flaux. <br> 
+
+## La durée du prêt est de 4 semaines. <br> 
+
+Vous pouvez prolonger la durée de prêt pour quatre semaines supplémentaires (sauf nouveautés et documents réservés par un autre usager).<br> 
+
+Une navette est mise à vore disposition pour emprunter ou rendre un document dans n'importe quelle bibliothèque.<br> 
+
+
+
+
+
