@@ -31,8 +31,8 @@ documents:
 ### Responsable bénévole : Sylvie Parent <br> 
 ### Responsable élue : Catherine Vinas <br> 
 
-## La bibliothèque de flaux fait partie du <a href="https://www.mediatheques.ccpaysduzes.fr/bibliotheques">réseau bibliothèques pays d'Uzès</a>  <br> 
-<img src="assets/images/bibliotheque.png" alt="réseau bibliothèques pays d'Uzès" width="336" height="140">, portail à disposition pour connaître toutes les resources du réseau.
+## La bibliothèque de flaux fait partie du <a href="https://www.mediatheques.ccpaysduzes.fr/bibliotheques">réseau bibliothèques pays d'Uzès, portail à disposition pour connaître toutes les resources du réseau.</a>  <br> 
+<img src="assets/images/bibliotheque.png" alt="réseau bibliothèques pays d'Uzès" width="336" height="140">
  
 # Horaires habituels
  
