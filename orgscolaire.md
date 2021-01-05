@@ -32,6 +32,9 @@ documents:
 30700 - La CAPELLE et MASMOLENE<br>
 Tél : 04.66.37.27.47<br>
 
+*Secrétaire:* <br>
+Christèle DUJARDIN<br>
+
 Email: sirp30700@laposte.net<br>
 
 ## Année scolaire 2020/2021
@@ -41,13 +44,12 @@ Email: sirp30700@laposte.net<br>
 
 Valérie LANGLASSE<br>
 Nathalie RIZZO<br>
-Christèle DUJARDIN<br>
 Magalie MOREAU<br>
 Mélanie Faurant<br>
 
 ## Les membres du Conseil Syndical<br>
 
-*Président:* <br>
+
 Denis JUVIN<br>
 
 *Vice-présidents:* <br>
