@@ -9,7 +9,7 @@ illustration: /assets/illustrations/eauinnondlandscape_980.JPG
 description_illustration: Flaux.
 introduction: 
 documents:
-- fiche: Flyere eau
+- fiche: Flyer eau
   date_texte: 3 Juillet 2020
   addresse: /assets/flyeer/FLYEReau202007.pdf
   type: pdf
