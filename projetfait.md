@@ -9,9 +9,9 @@ illustration: /assets/illustrations/eauinnondlandscape_980.JPG
 description_illustration: Flaux.
 introduction: 
 documents:
-- fiche: Flyer eau
-  date_texte: 3 Juillet 2020
-  addresse: /assets/flyeer/FLYEReau202007.pdf
+- fiche: Bassin de Vallagrand - BASSIN D’ORAGE
+  date_texte: 28 Juin 2020
+  addresse: /assets/documents/BASSIN VALLAGRAND - Note de synthèse.pdf
   type: pdf
 menu_secondaire:
 - titre: Notre programme
