@@ -22,3 +22,5 @@ menu_secondaire:
 - titre: Artisants et entreprises
   addresse: /artisants.html
 ---
+Si votre activité est basée sur Flaux et que vous souhaitez être répertoriés ci-dessous, merci de nous envoyer une demande: secretariat@mairie-flaux.fr
+
