@@ -53,6 +53,9 @@ L'installation de la fibre est en cours dans le village. En printemps les usager
 
 # Rénovation du lavoir des Auvis
 
+# Chemin de POUZILLAC - amanagé en chemin de liaison 
+Le fossé a été nettoyé pour permettre le passage des piétons, d'autres aménagements à venir.
+
 # Sécurité routière - en cours
 Les Auvis, passage à 50km/h au lieu des 70km/h courantes.
 
