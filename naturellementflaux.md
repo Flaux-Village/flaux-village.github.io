@@ -24,7 +24,7 @@ menu_secondaire:
 ---
 # L'engagement de notre maire, Denis JUVIN: 
 
-![Some alt text](assets/images/affiche Denis Thumbnail.png){:class="img-responsive"}
+![Affiche Denis Juvin](assets/images/affiche Denis Thumbnail.png){:class="img-responsive"}
 
 ## Lors des élections de l’année 2020:
 
