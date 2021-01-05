@@ -9,8 +9,8 @@ illustration: /assets/illustrations/flauxcloche_landscape_980.JPG
 description_illustration: La Mairie de Flaux.
 introduction:
 documents:
-- fiche: 
-  date_texte: 5 juin 2020
+- fiche: histoire de clochers
+  date_texte: 2 Visites de Flaux : 31 Juillet 2020 – 08 septembre 2020
   addresse: /assets/documents/200731 histoire de clochers.pdf
 - fiche: Etude du petit patrimoine
   date_texte: 5 juin 2020
