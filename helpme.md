@@ -23,9 +23,9 @@ menu_secondaire:
 Téléphone : 04 66 22 17 92
 E-mail : secretariat@mairie-flaux.fr
 
-### Nous avons des élus engagés dans l'action sociale:
+### Nous avons des élues engagées dans l'action sociale:
 
 Catherine VINAS <br>
-Catherine MARTEL <br>
 Patricia MICHOT <br>
+Catherine MARTEL <br>
 Alessandra STURANI <br>
