@@ -23,7 +23,7 @@ menu_secondaire:
   
 ---
 
-## RÉALISÉS:
+# RÉALISÉS:
 
 # Securité routière sur la commune  
 Mise en place des 2 stop devant l'école pour renforcer la sécurité de la sortie des enfants. 
@@ -43,8 +43,7 @@ Un nouveau bassin de rétention du chemin de Vallagrand. Un pas de plus dans la 
 # Site internet de la mairie
 
 
-## EN COURS:
-
+# EN COURS:
 
 # Réseau informatique fibre - en cours
 L'installation de la fibre est en cours dans le village. En printemps les usagers pourront demander d'y adhérer auprès de leurs opérateurs.
@@ -53,6 +52,9 @@ L'installation de la fibre est en cours dans le village. En printemps les usager
 
 # Sécurité routière - en cours
 Les Auvis, passage à 50km/h au lieu des 70km/h courantes.
+
+# Installation d'un défibrillateur
+Un défibrillateur sera installé sur la place du château.
   
 
 
