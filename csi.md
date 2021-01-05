@@ -11,7 +11,7 @@ description_illustration: La Mairie de Flaux.
 menu_secondaire:
 - titre: Le tri des déchets - SICTOMU
   addresse: /dechets.html
-- titre: Eau
+- titre: Eau - Assainissement
   addresse: /eau.html
 - titre: Bibliothèque
   addresse: /bibliotheque.html
