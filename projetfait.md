@@ -31,6 +31,14 @@ Mise en place des 2 stop devant l'école pour renforcer la sécurité de la sort
 # Station d'épuration 
 Révision du contrat avec Aliance prévoyant une prestation de mesure tous les 2 mois. 21M3 de boue ont été évacués, l'objectif est répondre aux normes d'oxygénation de l'eau rejettée.
 
+# Éclairage public
+Les travaux engagés sur l’éclairage public sont terminés depuis mai 2020. La moitié des luminaires communaux, ont été remplacés par des luminaires à diode. <br>
+Ces luminaires, sont programmés afin de diminuer l’intensité lumineuse de 50% de 24H à 5H.<br>
+L’autre moitié du parc est déjà équipée de lampes  à faible consommation d’énergie. <br>
+Le fonctionnement de l’éclairage public est réglé en fonction du calendrier solaire. <br>
+D’autre part, nous avons confié nos contrats d’éclairage public au SMEG (Syndicat Mixte d’Électrification du Gard) qui négocie un contrat de groupe afin de minimiser les couts pour la commune.<br>
+L’ensemble de ces mesures nous permettra, d’autre part, de réaliser des économies d’énergie et de lutter contre la pollution visuelle.
+
 # Usages eau été 
 Campagne de sensibilisation, invitant à la consommation modérée.
 
