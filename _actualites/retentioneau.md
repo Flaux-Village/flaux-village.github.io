@@ -10,9 +10,9 @@ date_texte: 8 juin 2020
 date: 2020-06-08
 illustration: /assets/illustrations/eauinnondlandscape_980.JPG
 description_illustration: La Mairie de Flaux.</br>
-introduction: Nous avons entamé des traveaux pour améliorer la rétention d'eau!
+introduction: 
 ---
-Dimanche 20/09/20 suite aux fortes précipitations de la nuit, le bassin joue son rôle d’écrêteur d’orage!
+# Dimanche 20/09/20 suite aux fortes précipitations de la nuit, le bassin joue son rôle d’écrêteur d’orage!
 
 ![Some alt text](assets/images/20_Bassin images.pdf){:class="img-responsive"}
 
