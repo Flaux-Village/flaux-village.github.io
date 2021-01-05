@@ -26,7 +26,7 @@ documents:
 
 ## Le Centre Socioculturel Intercommunal Pierre Mendes France- Saint-Quentin la Poterie <br>
 
-Flaux fait partie du regroupement du CSI de Saint-Quentin-la-Poterie, un organisme très utile pour tous les ages et tout besoins!<br>
+Flaux fait partie du regroupement du CSI de Saint-Quentin-la-Poterie, un organisme très utile pour tous les ages et tous les besoins!<br>
 
 * Garderies, voyages jeunes, familles et séniors<br>
 * Activité physiques et culturelles<br>
