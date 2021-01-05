@@ -48,8 +48,6 @@ La carte est utilisable sur l'ensemble du réseau. <br>
 
 Vous pouvez prolonger la durée de prêt pour quatre semaines supplémentaires (sauf nouveautés et documents réservés par un autre usager).<br> 
 
-Une navette est mise à vore disposition pour emprunter ou rendre un document dans n'importe quelle bibliothèque.<br> 
-
 
 
 
