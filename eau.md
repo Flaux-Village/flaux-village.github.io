@@ -27,4 +27,12 @@ documents:
   addresse: assets/documents/ars_eau.pdf
 ---
 
+La production et la distribution de l’eau ainsi que la gestion des eaux usées sont en régie municipale.<br>
+Ce service fonctionne grâce aux employés municipaux et à des contrats de maintenance externes.<br>
+Le prix moyen de l’eau (eau potable et assainissement) est de 3,52 € /M3 pour une consommation annuelle de 120M3. Ce qui nous situe dans la moyenne des autres villages. <br>
+
+Afin d’inciter les citoyens à maitriser leur consommation en période estivale, nous avons mis en place une facturation par tranches. <br>
+
+Une étude des schémas directeurs de l’eau et de l’assainissement est par ailleurs en cours. <br>
+
 # [L'eau potable de Flaux](http://www.services.eaufrance.fr/donnees/commune/30110/2019)
