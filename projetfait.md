@@ -45,6 +45,9 @@ Un nouveau bassin de rétention du chemin de Vallagrand. Un pas de plus dans la 
 
 # EN COURS:
 
+# PPRI/PLU
+.......
+
 # Réseau informatique fibre - en cours
 L'installation de la fibre est en cours dans le village. En printemps les usagers pourront demander d'y adhérer auprès de leurs opérateurs.
 
