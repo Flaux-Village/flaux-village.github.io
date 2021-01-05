@@ -3,7 +3,7 @@ layout: page
 titre: Accueil | Eau
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
-titre_page: Eau
+titre_page: Eau - assainissement
 date_texte: 1 juin 2020
 illustration: /assets/illustrations/940_250_Flauxbanner4_3596.jpg
 description_illustration: La Mairie de Flaux.
