@@ -1,9 +1,9 @@
 ---
 layout: page
-titre: Actualités | Bassin de rétention d’eau
+titre: Actualités | Bassin de rétention d’eau en action!
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Bassin de rétention d’eau
+titre_page: Bassin de rétention d’eau en action!
 section: À la une
 addresse_section: /actualites.html
 date_texte: 8 juin 2020
