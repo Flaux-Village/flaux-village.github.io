@@ -13,7 +13,7 @@ documents:
   date_texte: 28 Juin 2020
   addresse: /assets/documents/BASSIN VALLAGRAND - Note de synthèse.pdf
   type: pdf
- - fiche: Power point fibre optique (wigard)
+- fiche: Power point fibre optique (wigard)
   date_texte: 19 Novembre 2020
   addresse: /assets/documents/Présentation - CC PAYS D'UZES les 18 et 26 novembre 2020 V4.pdf
   type: pdf
