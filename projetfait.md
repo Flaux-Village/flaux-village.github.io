@@ -17,6 +17,15 @@ documents:
   date_texte: 19 Novembre 2020
   addresse: /assets/documents/Présentation - CC PAYS D'UZES les 18 et 26 novembre 2020 V4.pdf
   type: pdf
+- fiche: PLU vote pour garder la gestion communale
+  date_texte: 19 Novembre 2020
+  addresse: /assets/images/articlespress/articleoctobre2020PLU.pdf
+  type: pdf
+- fiche: Rhéabilitation du lavoir des Auvis-Patrimoine culturel
+  date_texte: 25 Novembre 2020
+  addresse: /assets/images/articlespress/reabilitationlavoirauvis2020article.pdf
+  type: pdf
+  
 menu_secondaire:
 - titre: Notre programme
   addresse: /naturellementflaux.html
