@@ -27,9 +27,9 @@ menu_secondaire:
 ---
 
 # Pour les randonneurs: <br>
-[voici visorando](https://www.visorando.com/randonnee-flaux.html "parcours")<br>
-[voici Uzes Veloclub](https://www.uzesveloclub.fr/)<br>
-[voici Rando Gard](https://rando.gard.fr/)<br>
+[Visorando](https://www.visorando.com/randonnee-flaux.html "parcours")<br>
+[Uzes Veloclub](https://www.uzesveloclub.fr/)<br>
+[Rando Gard](https://rando.gard.fr/)<br>
 
 
 # Offre touristique à proximité:  <br>
