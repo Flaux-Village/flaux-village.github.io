@@ -37,8 +37,8 @@ menu_secondaire:
 [Office du Tourisme Pays d’Uzès](https://www.ccpaysduzes.fr/culture/evenements.html)   
 
 
-
-# Notre église:
+# Dans notre village nous avons...
+## Notre église
 
 
 <div class="gallery">
@@ -90,7 +90,7 @@ menu_secondaire:
 <div style="clear: both;"></div>
 
 
-# Autre patrimoines:
+## Autre patrimoines:
 
 <div style="clear: both;"></div>
 
