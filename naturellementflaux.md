@@ -5,7 +5,7 @@ description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Notre projet 2020 – 2026
 date_texte: 1 juin 2020
-illustration: /assets/images/Equipenaturellement-banner.png
+illustration: /assets/images/equipenaturellement1.png
 description_illustration: Equippe.
 introduction:
 documents:
