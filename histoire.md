@@ -12,6 +12,7 @@ documents:
 - fiche: clocher
   date_texte: 5 juin 2020
   addresse: assets/flyer/clochers.pdf
+  type: pdf
 
 menu_secondaire:
 - titre: Histoire
