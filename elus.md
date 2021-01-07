@@ -4,7 +4,7 @@ titre: Nos élus | La mairie de Flaux
 description: Les conseillers et leurs responsabilités
 keywords: mairie, commune, flaux, gard, conseil
 titre_page: Nos élus
-illustration: /assets/images/elusbanner1-940x250.png
+illustration: /assets/images/equipenaturellement1.png
 description_illustration: Les élus.
 menu_secondaire:
 - titre: Horaires secrétariat
