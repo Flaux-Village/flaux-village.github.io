@@ -9,9 +9,13 @@ illustration: /assets/illustrations/Cimetierenouveau2landscape-980.JPG
 description_illustration: La Mairie de Flaux.
 introduction:
 documents:
+- fiche: histoire de clochers
+  date_texte: 31 Juillet 2020
+  addresse: /assets/documents/200731 histoire de clochers.pdf
+  type: pdf
 - fiche: clocher
   date_texte: 5 juin 2020
-  addresse: assets/flyer/clochers.pdf
+  addresse: /assets/flyer/clochers.pdf
   type: pdf
 
 menu_secondaire:
