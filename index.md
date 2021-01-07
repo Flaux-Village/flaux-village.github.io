@@ -11,7 +11,7 @@ onglets_principaux:
   description_illustration: La Mairie de Flaux.
 - titre: Pensez à protéger vos compteurs!
   addresse:
-  illustration: /assets/images/gèle.jpg
+  illustration: /assets/images/gelé.jpg
   description_illustration: gèle.
 - titre: Nos projets
   addresse: /projetfait.html
