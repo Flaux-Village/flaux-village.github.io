@@ -26,9 +26,10 @@ menu_secondaire:
 
 ---
 
-Pour les randonneurs, [voici un lien utile](https://www.visorando.com/randonnee-flaux.html "parcours")
+# Pour les randonneurs: <br>
+[voici un lien utile](https://www.visorando.com/randonnee-flaux.html "parcours")
 
-Offre touristique à proximité:  <br>
+# Offre touristique à proximité:  <br>
 [Pont du Gard](http://www.pontdugard.fr) <br>
 [Office du Tourisme Pays d’Uzès](https://www.ccpaysduzes.fr/culture/evenements.html)   
 
