@@ -13,8 +13,8 @@ menu_secondaire:
   addresse: /elus.html
 - titre: Comptes rendus
   addresse: /comptes.html
-- titre: Documents divers
-  addresse: /divers.html
+- titre: État Civil
+  addresse: /etatcivil.html
 ---
 
 ## En difficulté? Ne restez pas isolés! 
