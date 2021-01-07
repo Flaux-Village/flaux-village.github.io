@@ -28,6 +28,12 @@ menu_secondaire:
 
 Pour les randonneurs, [voici un lien utile](https://www.visorando.com/randonnee-flaux.html "parcours")
 
+Offre touristique à proximité:  
+[Pont du Gard](http://www.pontdugard.fr)
+[Office du Tourisme Pays d’Uzès](https://www.ccpaysduzes.fr/culture/evenements.html)   
+
+
+
 # Notre église:
 
 
