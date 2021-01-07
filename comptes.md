@@ -22,10 +22,5 @@ menu_secondaire:
 - titre: État Civil
   addresse: /etatcivil.html
 ---
-{% assign sorted = (site.comptes | sort: 'date') | reverse %}
-<ul>
-  {% for compte in sorted %}
-  <li><h2><a href="{{ compte.url }}">{{ compte.titre_page }}</a></h2>
-   - {{ compte.date_texte }}</li>
-  {% endfor %}
-</ul>
+
+Voici les comptes rendus que vous pouvez télécharger.
