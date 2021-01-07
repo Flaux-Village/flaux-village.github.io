@@ -12,9 +12,11 @@ documents:
 - fiche: histoire de clochers
   date_texte: 2 Visites de Flaux : 31 Juillet 2020 – 08 septembre 2020
   addresse: /assets/documents/200731 histoire de clochers.pdf
+  type: pdf
 - fiche: Etude du petit patrimoine
   date_texte: 5 juin 2020
   addresse: /assets/documents/FICHE_IPP_FLAUX.pdf
+  type: pdf
 
 menu_secondaire:
 - titre: Histoire
