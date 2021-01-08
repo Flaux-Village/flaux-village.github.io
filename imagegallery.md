@@ -20,27 +20,9 @@ menu_secondaire:
 ---
 
 
-href="assets/illustrations/eglise/gallery-400h-eglisetombe.JPG">
-Tombeau Gallo Romain dans l'église de Flaux</div>
- href="assets/illustrations/eglise/galleyr-400h-explic.JPG">
-Traduction Inscription Tombeau</div>
-href="assets/illustrations/eglise/gallery-400h-vitrail1.JPG">
-Vitrail de l'église de Flaux</div>
-href="assets/illustrations/eglise/eglisevitraildeux185.JPG">
-href="assets/illustrations/eglise/gallery-400h-egliseinterieur.JPG">
- Eglise de Flaux</div>
-href="assets/illustrations/eglise/gallery-400h-egliseflaux.JPG">
- Intérieur de l'église de Flaux</div>
-href="assets/illustrations/30-flaux-lavoir-1.jpg">
-Lavoir place du lavoir</div>
-href="assets/illustrations/30-flaux-chapelle.jpg">
-  Chapelle dans le village</div>
- href="assets/illustrations/30-flaux-fontaine.jpg">
-  Fontaine place du lavoir</div>
-href="assets/illustrations/gallery-400h-Cimetierechaine.JPG">
-  Notre arbre, un Cèdre Noir Du Liban dans le cimetière</div>
 
-<!DOCTYPE html>
+
+
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
