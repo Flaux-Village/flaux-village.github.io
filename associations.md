@@ -11,12 +11,13 @@ introduction:
 
 
 menu_secondaire:
-- titre: Associations
-  addresse: /associations.html
 - titre: Hébergements et restauration
   addresse: /hebergements.html
 - titre: Artisants et entreprises
   addresse: /artisants.html
+- titre: Associations
+  addresse: /associations.html
+  
 ---
 
 # [Centre Socioculturel Intercommunal Pierre Mendes France](https://www.csipmf.fr/)- Saint-Quentin la Poterie
