@@ -21,7 +21,7 @@ menu_secondaire:
 
 Si votre activité est basée sur Flaux et que vous souhaitez être répertoriés ci-dessous, merci de nous envoyer une demande: secretariat@mairie-flaux.fr
 
-# [Chambres d'hôtes et Restaurant TOUT SIMPLEMENT](http://www.chambres-hotes-uzes.com/)
+# [Chambres d'hôtes et Restaurant TOUT SIMPLEMENT](https://www.facebook.com/tsflaux/)
 
 # [Le Blanc Murier](https://www.leblancmurier.fr/fr/)
 
