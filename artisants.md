@@ -15,12 +15,12 @@ documents:
   type: 
 
 menu_secondaire:
-- titre: Associations
-  addresse: /associations.html
 - titre: Hébergements et restauration
   addresse: /hebergements.html
 - titre: Artisants et entreprises
   addresse: /artisants.html
+- titre: Associations
+  addresse: /associations.html
 ---
 Si votre activité est basée sur Flaux et que vous souhaitez être répertoriés ci-dessous, merci de nous envoyer une demande: secretariat@mairie-flaux.fr
 
