@@ -19,10 +19,10 @@ documents:
   type: pdf
 
 menu_secondaire:
-- titre: Histoire
-  addresse: /histoire.html
 - titre: Points d'intérêts
   addresse: /interets.html
+- titre: Histoire
+  addresse: /histoire.html
 
 ---
 
