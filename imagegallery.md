@@ -20,93 +20,25 @@ menu_secondaire:
 ---
 
 
-<div class="gallery">
-  <a target="_blank" href="assets/illustrations/eglise/gallery-400h-eglisetombe.JPG">
-    <img src="assets/illustrations/eglise/gallery-400h-eglisetombe.JPG" alt="Tombeau Gallo Romain" width="600" height="400">
-  </a>
-  <div class="desc">Tombeau Gallo Romain dans l'église de Flaux</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="assets/illustrations/eglise/galleyr-400h-explic.JPG">
-    <img src="assets/illustrations/eglise/galleyr-400h-explic.JPG" alt="Traduction Inscription Tombeau" width="600" height="400">
-  </a>
-  <div class="desc">Traduction Inscription Tombeau</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="assets/illustrations/eglise/gallery-400h-vitrail1.JPG">
-    <img src="assets/illustrations/eglise/gallery-400h-vitrail1.JPG" alt="Vitrail" width="600" height="400">
-  </a>
-  <div class="desc">Vitrail de l'église de Flaux</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="assets/illustrations/eglise/eglisevitraildeux185.JPG">
-    <img src="assets/illustrations/eglise/eglisevitraildeux185.JPG" alt="Vitrail" width="600" height="400">
-  </a>
-  <div class="desc">Vitrail de l'église de Flaux</div>
-</div>
-
-
-<div style="clear: both;"></div>
-
-
-<div class="gallery">
-  <a target="_blank" href="assets/illustrations/eglise/gallery-400h-egliseinterieur.JPG">
-    <img src="assets/illustrations/eglise/gallery-400h-egliseinterieur.JPG" alt="Eglise Flaux" width="600" height="400">
-  </a>
-  <div class="desc">Eglise de Flaux</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="assets/illustrations/eglise/gallery-400h-egliseflaux.JPG">
-    <img src="assets/illustrations/eglise/gallery-400h-egliseflaux.JPG" alt="Eglise de Flaux" width="600" height="400">
-  </a>
-  <div class="desc">Intérieur de l'église de Flaux</div>
-</div>
-
-<div style="clear: both;"></div>
-
-
-## Autre patrimoines:
-
-<div style="clear: both;"></div>
-
-
-<div class="gallery">
-  <a target="_blank" href="assets/illustrations/30-flaux-lavoir-1.jpg">
-    <img src="assets/illustrations/30-flaux-lavoir-1.jpg" alt="Lavoir Flaux" width="600" height="400">
-  </a>
-  <div class="desc">Lavoir place du lavoir</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="assets/illustrations/30-flaux-chapelle.jpg">
-    <img src="assets/illustrations/30-flaux-chapelle.jpg" alt="Chapelle" width="600" height="400">
-  </a>
-  <div class="desc">Chapelle dans le village</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="assets/illustrations/30-flaux-fontaine.jpg">
-    <img src="assets/illustrations/30-flaux-fontaine.jpg" alt="Fontaine Flaux" width="600" height="400">
-  </a>
-  <div class="desc">Fontaine place du lavoir</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="assets/illustrations/gallery-400h-Cimetierechaine.JPG">
-    <img src="assets/illustrations/gallery-400h-Cimetierechaine.JPG" alt="Arbre IF" width="600" height="400">
-  </a>
-  <div class="desc">Notre arbre, un Cèdre Noir Du Liban dans le cimetière</div>
-</div>
-
-
-
-<div style="clear: both;"></div>
-
-
+href="assets/illustrations/eglise/gallery-400h-eglisetombe.JPG">
+Tombeau Gallo Romain dans l'église de Flaux</div>
+ href="assets/illustrations/eglise/galleyr-400h-explic.JPG">
+Traduction Inscription Tombeau</div>
+href="assets/illustrations/eglise/gallery-400h-vitrail1.JPG">
+Vitrail de l'église de Flaux</div>
+href="assets/illustrations/eglise/eglisevitraildeux185.JPG">
+href="assets/illustrations/eglise/gallery-400h-egliseinterieur.JPG">
+ Eglise de Flaux</div>
+href="assets/illustrations/eglise/gallery-400h-egliseflaux.JPG">
+ Intérieur de l'église de Flaux</div>
+href="assets/illustrations/30-flaux-lavoir-1.jpg">
+Lavoir place du lavoir</div>
+href="assets/illustrations/30-flaux-chapelle.jpg">
+  Chapelle dans le village</div>
+ href="assets/illustrations/30-flaux-fontaine.jpg">
+  Fontaine place du lavoir</div>
+href="assets/illustrations/gallery-400h-Cimetierechaine.JPG">
+  Notre arbre, un Cèdre Noir Du Liban dans le cimetière</div>
 
 <!DOCTYPE html>
 <html>
@@ -225,7 +157,7 @@ img {
 
   <div class="mySlides">
     <div class="numbertext">3 / 6</div>
-    <img src="img_mountains_wide.jpg" style="width:100%">
+    <img src="assets/illustrations/eglise/gallery-400h-vitrail1.JPG" style="width:100%">
   </div>
     
   <div class="mySlides">
@@ -252,13 +184,13 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="img_woods.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+      <img class="demo cursor" src="assets/illustrations/eglise/gallery-400h-eglisetombe.JPG" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img_5terre.jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
+      <img class="demo cursor" src="assets/illustrations/eglise/galleyr-400h-explic.JPG" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img_mountains.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+      <img class="demo cursor" src="assets/illustrations/eglise/gallery-400h-vitrail1.JPG" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
     </div>
     <div class="column">
       <img class="demo cursor" src="img_lights.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
