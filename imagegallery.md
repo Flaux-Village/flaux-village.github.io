@@ -147,32 +147,32 @@ img {
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 6</div>
-    <img src="assets/illustrations/eglise/gallery-400h-eglisetombe.JPG" style="width:100%">
+    <img src="assets/illustrations/eglise/auvis-lavoir-2.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 6</div>
-    <img src="assets/illustrations/eglise/galleyr-400h-explic.JPG" style="width:100%">
+    <img src="assets/illustrations/eglise/auvis-lavoir.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 6</div>
-    <img src="assets/illustrations/eglise/gallery-400h-vitrail1.JPG" style="width:100%">
+    <img src="assets/illustrations/eglise/flaux-chappelle.jpg" style="width:100%">
   </div>
     
   <div class="mySlides">
     <div class="numbertext">4 / 6</div>
-    <img src="img_lights_wide.jpg" style="width:100%">
+    <img src="assets/illustrations/eglise/flaux-eglise-escalier2.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 6</div>
-    <img src="img_nature_wide.jpg" style="width:100%">
+    <img src="assets/illustrations/eglise/flaux-eglise-tombe.JPG" style="width:100%">
   </div>
     
   <div class="mySlides">
     <div class="numbertext">6 / 6</div>
-    <img src="img_snow_wide.jpg" style="width:100%">
+    <img src="assets/illustrations/eglise/flaux-eglise-vitrail.JPG" style="width:100%">
   </div>
     
   <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -184,22 +184,22 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="assets/illustrations/eglise/gallery-400h-eglisetombe.JPG" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+      <img class="demo cursor" src="assets/illustrations/eglise/auvis-lavoir-2.jpg" style="width:100%" onclick="currentSlide(1)" alt="Lavoir des Auvis">
     </div>
     <div class="column">
-      <img class="demo cursor" src="assets/illustrations/eglise/galleyr-400h-explic.JPG" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
+      <img class="demo cursor" src="assets/illustrations/eglise/auvis-lavoir.jpg" style="width:100%" onclick="currentSlide(2)" alt="Lavoir des Auvis">
     </div>
     <div class="column">
-      <img class="demo cursor" src="assets/illustrations/eglise/gallery-400h-vitrail1.JPG" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+      <img class="demo cursor" src="assets/illustrations/eglise/flaux-chappelle.jpg" style="width:100%" onclick="currentSlide(3)" alt="Église de Flaux">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img_lights.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
+      <img class="demo cursor" src="assets/illustrations/eglise/flaux-eglise-escalier2.JPG" style="width:100%" onclick="currentSlide(4)" alt="Église de Flaux, escalier pour clocher">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img_nature.jpg" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
+      <img class="demo cursor" src="assets/illustrations/eglise/flaux-eglise-tombe.JPG" style="width:100%" onclick="currentSlide(5)" alt="Tombeau époque Gallo-Romaine">
     </div>    
     <div class="column">
-      <img class="demo cursor" src="img_snow.jpg" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
+      <img class="demo cursor" src="assets/illustrations/eglise/flaux-eglise-vitrail.JPG" style="width:100%" onclick="currentSlide(6)" alt="Église de Flaux, vitrail">
     </div>
   </div>
 </div>
