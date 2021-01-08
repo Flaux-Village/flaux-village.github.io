@@ -26,6 +26,9 @@ menu_secondaire:
 
 ---
 
+# En savoir plus sur the village:<br>
+[Annuaire Mairies](https://www.annuaire-mairie.fr/carte-identite-flaux.html)<br>
+
 # Pour les randonneurs: <br>
 [Visorando](https://www.visorando.com/randonnee-flaux.html "parcours")<br>
 [Uzes Veloclub](https://www.uzesveloclub.fr/)<br>
