@@ -27,6 +27,6 @@ Si votre activité est basée sur Flaux et que vous souhaitez être répertorié
 
 # [Clos de la Madone – Gîte et Chambres](https://closdelamadone.fr/)
 
-# [Mas Archimbelle](https://mas-archimbelle-fr.book.direct/en-us)
+# [Mas Archimbelle](http://mas-archimbelle-guest-house.languedoc-hotels.com/en/)
 
-# [I'm an inline-style link](https://www.google.com)
+
