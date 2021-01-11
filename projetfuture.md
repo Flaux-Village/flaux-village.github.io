@@ -29,15 +29,15 @@ menu_secondaire:
 Un  espace  de jeux dans le parc du château pour début 2022!  Lancement su projet dans sa première étape prospective de devis pour les travaux à conduire . À suivre!  
 
 # Aménagement village (bancs, parkings, panneau information)
-Engagement/Etat d'avancement
+Actuellement en phase d’évaluation
 
 # Aménagements espaces verts 
-Allées du château/parc 
+Allées du château et parc actuellement à l’étude
 
 # Campanile
-Réfection du Campanile et installation d'un parafoudre supplémentaire.
+Actuellement à l‘étude: Réfection du Campanile et installation d’un parafoudre supplémentaire.
 
-# Traveaux de rénovation château 
+# Travaux de rénovation château 
 Réfection en cours pour utilisation de l'aile inutilisée du château.
 
 # Actions sociales 
