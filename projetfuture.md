@@ -44,7 +44,12 @@ Réfection en cours pour utilisation de l'aile inutilisée du château.
 MSA - Une permanence mensuelle est prévue.
 
 # Cérémonies, fêtes locales Flaux, journées à thème  
-À préciser
+En programme:
+- Cérémonie  du 8 mai
+- 14 juillet
+- 15 août marché  nocturne ( sous réserve  d'accaptation)
+- Cérémonie  du 11 novembre
+Tout  ceci  en fonction de la situation sanitaire.
 
 
 
