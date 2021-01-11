@@ -46,43 +46,43 @@ Par ailleurs 2 panneaux "30" ont été installés sur le chemin du Seryonel afi
 ![flaux panneau 30](/assets/images/panneau30.png){:class="img-responsive"} <br>
 
 # Station d'épuration 
-Révision du contrat avec Aliance prévoyant une prestation de mesure tous les 2 mois. 21M3 de boue ont été évacués, l'objectif est répondre aux normes d'oxygénation de l'eau rejettée.
+Révision du contrat avec Aliance, notre prestataire de maintenance prévoyant une prestation de mesure tous les 2 mois. 21M3 de boue ont été évacués, l’objectif est de répondre aux normes d’oxygénation de l’eau rejetée.
 
 # Éclairage public
-Les travaux engagés sur l’éclairage public sont terminés depuis mai 2020. La moitié des luminaires communaux, ont été remplacés par des luminaires à diode. <br>
+Les travaux engagés sur l’éclairage public sont terminés depuis mai 2020. La moitié des luminaires communaux, ont été remplacés par des luminaires à diode.<br>
+Le fonctionnement de l’éclairage public est réglé en fonction du calendrier solaire.<br>
 Ces luminaires, sont programmés afin de diminuer l’intensité lumineuse de 50% de 24H à 5H.<br>
-L’autre moitié du parc est déjà équipée de lampes  à faible consommation d’énergie. <br>
-Le fonctionnement de l’éclairage public est réglé en fonction du calendrier solaire. <br>
+L’autre moitié du parc est déjà équipée de lampes à faible consommation d’énergie.<br>
 D’autre part, nous avons confié nos contrats d’éclairage public au SMEG (Syndicat Mixte d’Électrification du Gard) qui négocie un contrat de groupe afin de minimiser les couts pour la commune.<br>
-L’ensemble de ces mesures nous permettra, d’autre part, de réaliser des économies d’énergie et de lutter contre la pollution visuelle.
+Avec l’ensemble de ces mesures nous progressons dans nos  économies d’énergie et la diminution de la pollution visuelle.<br>
 
-# Usages eau été 
+# Usage de l'eau l'été 
 Campagne de sensibilisation, invitant à la consommation modérée.
 
 # Histoires de clochers
 Visite guidée.
 
 # Bassin de retention du chemin de vallagrand 
-Un nouveau bassin de rétention du chemin de Vallagrand. Un pas de plus dans la prevention des risques d'innondation.
+Un nouveau bassin de rétention du chemin de Vallagrand. Un pas de plus dans la prévention des risques d’inondation.
 
-# Site internet de la mairie
+# Site internet de la commune
 
 
 # EN COURS:
 
 # PPRI/PLU
-La carte du débordement du PPRI a été révisée. Elle charactérise les zones à innondation sur la commune . Un arreté préfectoral ouvre sur une instruction échelonnée sur 3 ans pour aboutir sur un PPRI opérationel. Nous sommes donc au tout début du processus. La prochaine étape est l’engagement d’une étude des zones pluviales . Nous reviendrons regulièrement vous informer de son état d’avancement!
+La carte du débordement du PPRI a été révisée. Elle caractérise les zones à inondation sur la commune. Un arrêté préfectoral ouvre sur une instruction échelonnée sur 3 ans pour aboutir sur un PPRI opérationnel. Nous sommes donc au tout début du processus. La prochaine étape est l’engagement d’une étude des zones pluviales. Nous reviendrons régulièrement vous informer de son état d’avancement !
 
 # Réseau informatique fibre - en cours
-L'installation de la fibre est en cours dans le village. En printemps les usagers pourront demander d'y adhérer auprès de leurs opérateurs.
+L'installation de la fibre est en cours dans le village. Au printemps les usagers pourront demander d'y adhérer auprès de leurs opérateurs.
 
 # Rénovation du lavoir des Auvis
 
-# Chemin de POUZILLAC - amanagé en chemin de liaison 
-Le fossé a été nettoyé pour permettre le passage des piétons, d'autres aménagements à venir.
+# Chemin de POUZILLAC - aménagé en chemin de liaison 
+Le fossé a été nettoyé pour permettre le passage des piétons, d’autres aménagements sont à l’étude.
 
 # Sécurité routière - en cours
-Les Auvis, passage à 50km/h au lieu des 70km/h courantes.
+Aux Auvis, passage prochain à 50km/h au lieu des 70km/h courantes.
 
 # Installation d'un défibrillateur
 Un défibrillateur sera installé sur la place du château.
