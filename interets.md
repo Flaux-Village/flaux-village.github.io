@@ -26,7 +26,7 @@ menu_secondaire:
 
 ---
 
-# En savoir plus sur the village:<br>
+# En savoir plus sur le village:<br>
 [Annuaire Mairies](https://www.annuaire-mairie.fr/carte-identite-flaux.html)<br>
 
 # Pour les randonneurs: <br>
@@ -40,7 +40,7 @@ menu_secondaire:
 [Office du Tourisme Pays d’Uzès](https://www.ccpaysduzes.fr/culture/evenements.html)   
 
 
-# Dans notre village nous avons...
+# Dans notre village nous avons à découvrir …
 ## Notre église
 
 
