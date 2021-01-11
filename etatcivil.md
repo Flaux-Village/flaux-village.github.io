@@ -29,7 +29,7 @@ Demandes d'actes d'Etat civil
 Ouverture et suivi du livret de famille
  • Mise à jour du livret de famille lors d’une naissance, d’un divorce et/ou d’un décès.
 
-[Cliquez ici pour les démarches concernant les NAISSANCES]({{ site.baseurl }}{% /naissance.md %})
+[les démarches administratives](/naissance.html) 
 
 
 ## Annonce année 2020 sur Flaux
