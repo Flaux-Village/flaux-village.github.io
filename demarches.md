@@ -74,7 +74,7 @@ La personne qui déclare le décès doit se rendre en mairie avec :
    • si possible, le certificat de décès délivré par le médecin, le commissariat de police ou la gendarmerie
    • tout document (si elle en possède) concernant l'identité du défunt : livret de famille, pièce d'identité, ou acte de naissance par exemple
     
-#### RECENSEMENT MILITAIRE
+### RECENSEMENT MILITAIRE
 
 Tout jeune Français qui a 16 ans doit faire la démarche de se faire recenser :
    • auprès de la mairie de son domicile,
