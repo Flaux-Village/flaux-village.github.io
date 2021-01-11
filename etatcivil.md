@@ -19,6 +19,21 @@ menu_secondaire:
   addresse: /etatcivil.html
 
 ---
-Denis et Kristel, texte
+
+## Décès :
+
+Henri DUSSERRE
+
+Yvan DUSSERRE
+
+Daniel LETOFFE
+
+Jean PASCAL
+
+Marlise VON AESCH
+
+## Naissance:
+
+Lilio ZYCH
 
 
