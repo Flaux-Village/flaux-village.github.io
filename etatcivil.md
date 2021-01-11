@@ -20,6 +20,16 @@ menu_secondaire:
 
 ---
 
+Demandes d'actes d'Etat civil
+ • Copies intégrales
+ • Extraits avec ou sans filiation
+ • Actes de naissance et de mariage
+ • Copies intégrales des actes de décès
+ 
+Ouverture et suivi du livret de famille
+ • Mise à jour du livret de famille lors d’une naissance, d’un divorce et/ou d’un décès.
+
+[Cliquez ici pour les démarches concernant les NAISSANCES]({{ site.baseurl }}{% /naissance.md %})
 
 
 ## Annonce année 2020 sur Flaux
