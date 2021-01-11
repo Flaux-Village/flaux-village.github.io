@@ -39,7 +39,11 @@ menu_secondaire:
 # RÉALISÉS:
 
 # Securité routière sur la commune  
-Mise en place des 2 stop devant l'école pour renforcer la sécurité de la sortie des enfants. 
+Plus de sécurité autour de l'école et de la mairie depuis la dernière rentrée des classes !
+La mise en place de 2 panneaux stop réduisent la vitesse d'améliorer la sécurité du croisement et des piétons.  
+Par ailleurs 2 panneaux "30" ont été installés sur le chemin du Seryonel afin de rappeler que cette zone est limitée à 30 km/h.<br>
+
+![flaux panneau 30](/assets/images/panneau30.png){:class="img-responsive"} <br>
 
 # Station d'épuration 
 Révision du contrat avec Aliance prévoyant une prestation de mesure tous les 2 mois. 21M3 de boue ont été évacués, l'objectif est répondre aux normes d'oxygénation de l'eau rejettée.
