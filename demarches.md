@@ -1,9 +1,9 @@
 ---
 layout: section
-titre: La mairie | Naissance
+titre: La mairie | Démarches administratives
 description: La mairie de Flaux
 keywords: mairie, commune, flaux, gard
-titre_page: Naissance
+titre_page: Démarches administratives
 
 ---
 
@@ -20,10 +20,7 @@ titre_page: Naissance
 
 ## Pièces à réunir dans tous les cas
    • Dossier mariage à compléter : mettre un lien vers le document à compléter 
-   • Copie intégrale de l’acte de naissance des futurs (es) époux (ses)
-    
-*(Moins de 3 mois à la date de dépôt du dossier)*
-
+   • Copie intégrale de l’acte de naissance des futurs (es) époux (ses) *(Moins de 3 mois à la date de dépôt du dossier)*
    • Photocopie pièce d’identité valide des futurs (es) époux (ses)
    • Une pièce justificative de domicile pour chaque époux (se) :
 *(Bail locatif, quittance de loyer, facture EDF ou télécom, (facture de portable refusées), avis d’imposition ou de non imposition, taxe d’habitation, attestation ASSEDIC, attestation employeur de – de 3 mois, …)*
@@ -43,9 +40,7 @@ PIÈCES SPÉCIALES :
   *(Traduit en Français par un traducteur agréé ou par le consulat)*
    • Copie intégrale de l’acte de naissance
   *(De moins de 6 mois à la date de dépôt du dossier + traduit en français par un traducteur agréé ou par le consulat).*
-
-[Cliquez ici pour accéder au dossier Mariage.][https://www.gard.gouv.fr/Demarches-administratives/Autres-demarches/Vous-etes/Particuliers-demarches-administratives#!/particuliers/page/N142]
-
+[Dossier Mariage](https://www.gard.gouv.fr/Demarches-administratives/Autres-demarches/Vous-etes/Particuliers-demarches-administratives#!/particuliers/page/N142)<br>
 
 ### PACS – PIÈCES À PRODUIRE
 
@@ -64,7 +59,7 @@ En mairie
 
 Pour la déclaration conjointe d'enregistrement du Pacs, les futurs partenaires doivent se présenter en personne et ensemble à l'officier d'état civil de la mairie où ils déposent leur Pacs, munis des documents originaux et de leur pièce d'identité en cours de validité.
 Vous pouvez imprimer et transmettre le dossier ci-dessous à la commune.
-https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15725.do
+[Dossier](https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15725.do)
 
 ### DÉCÈS
 
@@ -90,4 +85,4 @@ Il doit se rendre à sa mairie avec les documents suivants :
     
 Le jeune titulaire d'une carte d'invalidité à 80% minimum peut demander à être exempté de la JDC en fournissant dès le recensement une photocopie de sa carte.
 Le jeune atteint d'un handicap ou d'une maladie invalidante peut également demander à être exempté de la JDC dès le recensement. Un certificat médical lui sera demandé ultérieurement lors de l'examen de sa demande.
-Pour plus de renseignements : https://www.service-public.fr/particuliers/vosdroits/F870
+[Pour plus de renseignements](https://www.service-public.fr/particuliers/vosdroits/F870)
