@@ -20,16 +20,16 @@ menu_secondaire:
 
 ---
 
-Demandes d'actes d'Etat civil
- • Copies intégrales
- • Extraits avec ou sans filiation
- • Actes de naissance et de mariage
- • Copies intégrales des actes de décès
+Demandes d'actes d'Etat civil <br>
+ • Copies intégrales <br>
+ • Extraits avec ou sans filiation <br>
+ • Actes de naissance et de mariage <br>
+ • Copies intégrales des actes de décès <br>
  
-Ouverture et suivi du livret de famille
- • Mise à jour du livret de famille lors d’une naissance, d’un divorce et/ou d’un décès.
+Ouverture et suivi du livret de famille <br>
+ • Mise à jour du livret de famille lors d’une naissance, d’un divorce et/ou d’un décès. <br>
 
-[les démarches administratives](/naissance.html) 
+[les démarches administratives](https://www.gard.gouv.fr/Demarches-administratives/Autres-demarches) 
 
 
 ## Annonce année 2020 sur Flaux
