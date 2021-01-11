@@ -20,6 +20,10 @@ menu_secondaire:
 
 ---
 
+
+
+## Annonce année 2020 sur Flaux
+
 ## Décès :
 
 Henri DUSSERRE
