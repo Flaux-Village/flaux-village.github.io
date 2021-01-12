@@ -30,6 +30,7 @@ Ouverture et suivi du livret de famille <br>
  • Mise à jour du livret de famille lors d’une naissance, d’un divorce et/ou d’un décès. <br>
 
 [les démarches administratives](https://www.gard.gouv.fr/Demarches-administratives/Autres-demarches) 
+[Page d'info sur notre site](https://flaux-village.github.io/demarches.html) 
 
 
 ## Annonce année 2020 sur Flaux
