@@ -1,13 +1,13 @@
 ---
 layout: page
-titre: Actualités | Coronavirus
+titre: Actualités | Coronavirus COVID-19
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Arrêté préfectoral publié le 24 Octobre mesures visant à renforcer la luttre contre la propagation du virus Covid 19 dans le gard
+titre_page: Coronavirus COVID-19
 section: À la une
 addresse_section: /actualites.html
 date_texte: 24 octobre 2020
-date: 2020-09-04
+date: 2020-12-15
 illustration: 
 description_illustration: 
 introduction: Covid 19, Arrêté préfectoral
@@ -18,9 +18,7 @@ documents:
   type: pdf
 
 ---
-Voici l'Arrêté préfectoral n°30-2020-10-24-001 publié le 24 octobre mesures visant à renforcer la luttre contre la propagation du virus Covid 19 dans le Gard.
 
-Bien cordialement
-
-Denis JUVIN
-Le Maire
+## Port du masque obligatoire
+Pour renforcer la lutte contre la propagation du virus Covid-19, Monsieur le Préfet du Gard communique un nouveau arrêté sur le port du masque obligatoire.
+[Dernier arrêté gouvernemental](https://www.gard.gouv.fr/Actualites/COVID-19-Levee-du-confinement-et-couvre-feu) 
