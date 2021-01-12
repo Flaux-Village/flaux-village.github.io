@@ -23,40 +23,72 @@ menu_secondaire:
 ## Maire de Flaux
 <a href="/assets/flyer/affiche Denis 2-3-2_compressed.pdf">**Denis JUVIN**</a> <br/>
 Maire de Flaux depuis le 25/05/2020<br/>
-Conseiller communautaire - président du SIRP - Titulaire PETR (SCOT) - Titulaire SMEG - finances - eau et assainissement - sécurité/accessibilité - actions sociales - environment - dynamique locale - informatique - PPRI/PLU - appel d'offres
 
 ## Première adjointe
 **Muriel NIGGEL**  <br/>
-Commissions: des réseaux eau et assainissement - finances - sécurité/accessibilité - Titulaire PETR (SCOT) - Titulaire SICTOMU - finances - eau et assainissement - sécurité/accessibilité - environment - informatique - PPRI/PLU - appel d'offres
-
 
 ## Deuxième adjointe 
 **Catherine VINAS** <br/>
-Commissions: dynamique locale - finances - eau et assainissement - actions sociales - environment - informatique - PPRI/PLU - appel d'offres
+
+## LES COMMISSIONS COMMUNALES :<br>
+Le Maire, Denis Juvin préside de droit toutes les commissions communales. <br>
+
+### COMMISSION FINANCES :<br>
+Muriel Niggel – Catherine Martel – Philippe Rouvier-Corouge – Catherine Vinas <br>
+
+### COMMISSION DYNAMIQUE LOCALE :<br>
+Catherine Vinas – Catherine Martel – Patricia Michot - Philippe Rouvier-Corouge – Alessandra Sturani – Valérie Upphoff - Michel Vaillies<br>
+
+### COMMISSION EAU ET ASSAINISSEMENT :<br>
+Muriel Niggel – Jean Pierre Plus – Philippe Rouvier-Corouge – Michel Vaillies – Catherine Vinas – Philippe Vinçon <br>
+
+### COMMISSION ACTION SOCIALE :<br>
+Patricia Michot - Catherine Martel – Alessandra Sturani - Catherine Vinas<br>
+
+### COMMISSION TRAVAUX :<br>
+Muriel Niggel – Jean Pierre Plus – Philippe Rouvier-Corouge – Michel Vaillies – Catherine Vinas – Philippe Vinçon <br>
+
+### COMMISSION ENVIRONNEMENT ET DEVELOPPEMENT DURABLE :<br>
+ Catherine Martel – Patricia Michot - Muriel Niggel – Jean Pierre Plus – Philippe Rouvier-Corouge – Alessandra Sturani – Valérie Upphoff - Michel Vaillies – Catherine Vinas – Philippe Vinçon <br>
+ 
+### COMMISSION COMMUNICATION – INFORMATIQUE :<br>
+Alessandra Sturani – Catherine Martel – Muriel Niggel - Valérie Upphoff - Michel Vaillies –
+Catherine Vinas<br>
+
+### COMMISSION URBANISME : PPRI / PLU <br>
+Muriel Niggel – Catherine Martel – Philippe Rouvier-Corouge – Catherine Vinas - Philippe Vinçon<br>
+
+### COMMISSION SECURITE – ACCESSIBILITE :<br>
+Muriel Niggel – Catherine Martel – Alessandra Sturani - Michel Vaillies <br>
+
+### COMMISSION APPEL D'OFFRES :<br>
+Muriel Niggel – Jean Pierre Plus – Philippe Rouvier-Corouge - Michel Vaillies – Catherine Vinas – Philippe Vinçon <br>
 
 
-## Les conseillers
-**Catherine MARTEL** <br/>
-Commissions: sécurité/accessibilité - actions sociales - environment - dynamique locale - informatique - PPRI/PLU<br/>
+## Les représentants dans les syndicats et autres organismes.
 
-**Patricia MICHOT** <br/>
-Commissions: centre socioculturel intercommunal de Saint Qentin la Poterie (CSI) - actions sociales - environment - dynamique locale<br/>
+### SIRP (Syndicat Intercommunal de Regroupement Pédagogique)
+Titulaires: Juvin Denis, Upphoff Valérie, Vaillies Michel
+Suppléants: Niggel Muriel, Sturani Alessandra, Michot Patricia
 
-**Jean Pierre PLUS** <br/>
-Commissions: Titulaire SMEG - eau et assainissement - environment - appel d'offres<br/>
+### CCPU (Communauté de Communes Pays d'Uzes)
+Titulaires: Juvin Denis
+Suppléants: Niggel Muriel
 
-**Philippe ROUVIER-COROUGE** <br/>
-Commissions: Titulaire SICTOMU - finances - eau et assainissement - environment - dynamique locale - PPRI/PLU - appel d'offres
-<br/>
+### SICTOMU (Syndicat Intercommunal de Collecte et de Traitement des Ordures Ménagères de l’Uzege)
+Titulaires: Rouvier-Corouge Philippe, Vinçon Philippe
+Suppléants: Vinas Catherine, Juvin Denis
 
-**Alessandra STURANI** <br/>
-Commissions: sécurité/accessibilité - actions sociales - environment - dynamique locale - informatique<br/>
+### CSI (Centre Social Intercommunal de Syndicat Intercommunal de Saint Quentin la Poterie)
+Titulaires: Michot Patricia
+Suppléants: Sturani Alessandra
 
-**Valérie UPPHOFF** <br/>
-Commissions: Titulaire SIRP - environment - dynamique locale - informatique<br/>
+### SMEG (Syndicat Mixte d'Électrification du Gard)
+Titulaires: Juvin Denis, Plus Jean Pierre
+Suppléants: Niggel Muriel, Vinçon Philippe
 
-**Michel VAILLIES**<br/>
-Commissions: Titulaire SIRP - eau et assainissement - sécurité/accessibilité - environment - informatique - appel d'offres<br/>
+### CAUE  (Conseil d'Architecture, d'Urbanisme et de l' Environnement)
+Titulaires:  Vinçon Philippe
+Suppléants: Rouvier-Corouge Philippe
 
-**Philppe VINÇON** <br/>
-Commissions: l'eau et assainissement - environment - PPRI/PLU - appel d'offres<br/>
+
