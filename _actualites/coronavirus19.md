@@ -6,7 +6,7 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Coronavirus COVID-19
 section: À la une
 addresse_section: /actualites.html
-date_texte: 24 octobre 2020
+date_texte: 15 Décembre 2020
 date: 2020-12-15
 illustration: 
 description_illustration: 
