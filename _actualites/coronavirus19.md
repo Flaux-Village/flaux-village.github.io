@@ -12,9 +12,13 @@ illustration:
 description_illustration: 
 introduction: Covid 19, Arrêté préfectoral
 documents:
-- fiche: Mon document
-  date_texte: 24 Octobre 2020
-  addresse: /assets/documents/2020 - 30-20250-10-24-001 .pdf
+- fiche: Décret Covid 
+  date_texte: 15 Décembre 2020
+  addresse: /assets/documents/Decret_Covid_modifie_au_15_12_20.pdf
+  type: pdf
+- fiche: Arrêté Covid 
+  date_texte: 04 Janvier 2021
+  addresse: /assets/documents/arrete_20210105_081455.pdf
   type: pdf
 
 ---
