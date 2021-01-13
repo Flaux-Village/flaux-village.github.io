@@ -20,7 +20,15 @@ documents:
   date_texte: 04 Janvier 2021
   addresse: /assets/documents/arrete_20210105_081455.pdf
   type: pdf
-
+- fiche: Tableau des mesures EUS 
+  date_texte: 04 Janvier 2021
+  addresse: /assets/documents/2020.12.27 PROJET - TABLEAU DES MESURES EUS couvre-feu actualisé au 4 janvier 2021.odt
+  type: odt
+- fiche: Avis Sanitaire ARS 
+  date_texte: 04 Janvier 2021
+  addresse: /assets/documents/AVIS SANITAIRE ARS DD30.pdf
+  type: pdf
+  
 ---
 
 ## Port du masque obligatoire
