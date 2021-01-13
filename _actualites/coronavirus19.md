@@ -12,10 +12,7 @@ illustration:
 description_illustration: 
 introduction: Covid 19, Arrêté préfectoral
 documents:
-- fiche: Décret Covid 
-  date_texte: 15 Décembre 2020
-  addresse: /assets/documents/Decret_Covid_modifie_au_15_12_20.pdf
-  type: pdf
+
 - fiche: Arrêté Covid 
   date_texte: 04 Janvier 2021
   addresse: /assets/documents/arrete_20210105_081455.pdf
@@ -28,6 +25,11 @@ documents:
   date_texte: 04 Janvier 2021
   addresse: /assets/documents/AVIS SANITAIRE ARS DD30.pdf
   type: pdf
+- fiche: Décret Covid 
+  date_texte: 15 Décembre 2020
+  addresse: /assets/documents/Decret_Covid_modifie_au_15_12_20.pdf
+  type: pdf
+
   
 ---
 
