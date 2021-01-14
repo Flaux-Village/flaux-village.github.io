@@ -67,28 +67,28 @@ Muriel Niggel – Jean Pierre Plus – Philippe Rouvier-Corouge - Michel Vaillie
 
 ## Les représentants dans les syndicats et autres organismes.
 
-### SIRP (Syndicat Intercommunal de Regroupement Pédagogique)
-Titulaires: Juvin Denis, Upphoff Valérie, Vaillies Michel
-Suppléants: Niggel Muriel, Sturani Alessandra, Michot Patricia
+### SIRP (Syndicat Intercommunal de Regroupement Pédagogique)<br>
+Titulaires: Juvin Denis, Upphoff Valérie, Vaillies Michel<br>
+Suppléants: Niggel Muriel, Sturani Alessandra, Michot Patricia<br>
 
-### CCPU (Communauté de Communes Pays d'Uzes)
-Titulaires: Juvin Denis
-Suppléants: Niggel Muriel
+### CCPU (Communauté de Communes Pays d'Uzes)<br>
+Titulaires: Juvin Denis<br>
+Suppléants: Niggel Muriel<br>
 
-### SICTOMU (Syndicat Intercommunal de Collecte et de Traitement des Ordures Ménagères de l’Uzege)
-Titulaires: Rouvier-Corouge Philippe, Vinçon Philippe
-Suppléants: Vinas Catherine, Juvin Denis
+### SICTOMU (Syndicat Intercommunal de Collecte et de Traitement des Ordures Ménagères de l’Uzege)<br>
+Titulaires: Rouvier-Corouge Philippe, Vinçon Philippe<br>
+Suppléants: Vinas Catherine, Juvin Denis<br>
 
-### CSI (Centre Social Intercommunal de Syndicat Intercommunal de Saint Quentin la Poterie)
-Titulaires: Michot Patricia
-Suppléants: Sturani Alessandra
+### CSI (Centre Social Intercommunal de Syndicat Intercommunal de Saint Quentin la Poterie)<br>
+Titulaires: Michot Patricia<br>
+Suppléants: Sturani Alessandra<br>
 
-### SMEG (Syndicat Mixte d'Électrification du Gard)
-Titulaires: Juvin Denis, Plus Jean Pierre
-Suppléants: Niggel Muriel, Vinçon Philippe
+### SMEG (Syndicat Mixte d'Électrification du Gard)<br>
+Titulaires: Juvin Denis, Plus Jean Pierre<br>
+Suppléants: Niggel Muriel, Vinçon Philippe<br>
 
-### CAUE  (Conseil d'Architecture, d'Urbanisme et de l' Environnement)
-Titulaires:  Vinçon Philippe
-Suppléants: Rouvier-Corouge Philippe
+### CAUE  (Conseil d'Architecture, d'Urbanisme et de l' Environnement)<br>
+Titulaires:  Vinçon Philippe<br>
+Suppléants: Rouvier-Corouge Philippe<br>
 
 
