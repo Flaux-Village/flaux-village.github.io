@@ -34,6 +34,17 @@ documents:
 ## La bibliothèque de flaux fait partie du <a href="https://www.mediatheques.ccpaysduzes.fr/bibliotheques">réseau bibliothèques pays d'Uzès, portail à disposition pour connaître toutes les resources du réseau.</a>  <br> 
 <img src="assets/images/bibliotheque.png" alt="réseau bibliothèques pays d'Uzès" width="336" height="140">
  
+# Horaires exceptionnels
+Comme vous le savez, le couvre-feu démarre maintenant à 18h.... La fermeture de la bibliothèque se fera donc à 17h30 le lundi.(au lieu de 18h30) Pour permettre peut-être à certains de profiter de la bibliothèque, le mercredi elle sera ouverte jusqu'à 13h30, au lieu de 12h30 actuellement.
+
+Donc:<br>
+*Lundi de 16h à 17h30 <br>
+Mercredi de 10h à 13h30*
+
+Ces horaires seront appliqués tant que le couvre-feu sera à 18h.
+Nous ferons le point dans quelque temps pour savoir si cela est
+judicieux ou non.
+ 
 # Horaires habituels
  
 ### Les lundis de 16h à 18h30 <br> 
