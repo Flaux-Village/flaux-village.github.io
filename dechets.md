@@ -5,8 +5,8 @@ description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Le tri des déchets - SICTOMU
 date_texte: 1 juin 2020
-illustration: /assets/illustrations/940_250_Flauxbanner4_3596.jpg
-description_illustration: La Mairie de Flaux.
+illustration: /assets/illustrations/dechetterie-banner.jpg
+description_illustration: Colonne de tri de Flaux.
 
 menu_secondaire:
 - titre: Le tri des déchets - SICTOMU
