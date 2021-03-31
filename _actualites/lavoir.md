@@ -13,7 +13,7 @@ description_illustration: lavoir du hameau des Auvis</br>
 introduction: 
 ---
 
-# Malgré le Covid, nous avons peu reçevoir le père Noël en toute sécurité!<br>
+# Une bonne action pour notre patrimoine! Nous Réhabilitation notre lavoir aux Auvis<br>
 
 Grâce à la sollicitation de subventions, nous sommes ravis d'annoncer que nous nous engageons à réhabiliter le lavoir en le remettant en eau.
 
