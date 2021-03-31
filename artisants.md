@@ -8,11 +8,7 @@ date_texte: 1 juin 2020
 illustration: /assets/illustrations/flauxgeneral3landscape_980.JPG
 description_illustration: La Mairie de Flaux.
 introduction:
-documents:
-- fiche: 
-  date_texte:
-  addresse: 
-  type: 
+
 
 menu_secondaire:
 - titre: Hébergements et restauration
