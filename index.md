@@ -10,7 +10,7 @@ onglets_principaux:
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
 - titre: Réhabilitation du lavoir du hameau des Auvis
-  addresse: /lavoir.html
+  addresse: /actualites/lavoir.html
   illustration: /assets/illustrations/news/lavoirtravauxauvis-frontpage525-320.jpg
   description_illustration: lavoir Auvis.
 - titre: Nos projets
