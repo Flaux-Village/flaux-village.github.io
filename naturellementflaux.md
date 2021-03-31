@@ -13,6 +13,11 @@ documents:
   date_texte: 8 Février 2020
   addresse: /assets/documents/Programme finalisé (1).pdf
   type: pdf
+- fiche: Denis Juvin, maire de Flaux
+  date_texte: 10 Février 2021
+  addresse: /assets/documents/Denis Juvin 04_10_02_21.pdf
+  type: pdf  
+   
 
 menu_secondaire:
 - titre: Notre programme
