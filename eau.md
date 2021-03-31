@@ -35,4 +35,6 @@ Afin d’inciter les citoyens à maitriser leur consommation en période estival
 
 Une étude des schémas directeurs de l’eau et de l’assainissement est par ailleurs en cours. <br>
 
+![Chateau d'eau de Flaux](/assets/illustrations/chateaueau-banner.jpg){:class="img-responsive"}
+
 # [L'eau potable de Flaux](http://www.services.eaufrance.fr/donnees/commune/30110/2019)
