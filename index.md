@@ -9,10 +9,10 @@ onglets_principaux:
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
-- titre: Pensez à protéger vos compteurs!
+- titre: Réhabilitation du lavoir du hameau des Auvis
   addresse:
-  illustration: /assets/images/gelé.jpg
-  description_illustration: gèle.
+  illustration: /assets/illustrations/news/lavoirtravauxauvis-frontpage525-320.jpg
+  description_illustration: lavoir Auvis.
 - titre: Nos projets
   addresse: /projetfait.html
   illustration: /assets/illustrations/525_320_flauxecole_3617.jpg
