@@ -4,7 +4,7 @@ titre: Vie du village | Année scolaire 2020/2021
 description: L'école de Flaux
 keywords: mairie, commune, flaux, gard, ecole, vie
 titre_page: Année scolaire 2020/2021
-illustration: /assets/illustrations//ecoleflauxlandscape_980.JPG
+illustration: /assets/illustrations/ecolecar-banner.jpeg
 description_illustration: École de Flaux
 
 menu_secondaire:
