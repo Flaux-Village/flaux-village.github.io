@@ -38,7 +38,7 @@ Allées du château et parc actuellement à l’étude
 Actuellement à l‘étude: Réfection du Campanile et installation d’un parafoudre supplémentaire.
 
 # Travaux de rénovation château 
-Réfection en cours pour utilisation de l'aile inutilisée du château.
+Réfection à l'étude pour utilisation de l'aile inutilisée du château.
 
 # Actions sociales 
 MSA - Une permanence mensuelle est prévue.
@@ -47,8 +47,8 @@ MSA - Une permanence mensuelle est prévue.
 En programme:
 - Cérémonie  du 8 mai
 - 14 juillet
-- 15 août marché  nocturne ( sous réserve  d'accaptation)
-- Cérémonie  du 11 novembre
+- 18 août 2021 marché  nocturne
+- Cérémonie du 11 novembre
 Tout  ceci  en fonction de la situation sanitaire.
 
 
