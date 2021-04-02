@@ -20,7 +20,7 @@ documents:
 
 # La fibre arrive, on va pouvoir s'y brancher. <br>
 
-Nous avons également fait installer des rembardes protectrice du tableau.
+Nous avons également fait installer des rembardes protectrice pour le tableau.
 
 ![Tableau de fibre](/assets/illustrations/news/Fibre2.jpg){:class="img-responsive"}
 
