@@ -3,7 +3,7 @@ layout: page
 titre: Actualités | Installation défibrillateur
 description: Défibrillateur
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Nous venons d'installer un défibrillateur dans le centre du village
+titre_page: Défibrillateur en plein centre du village
 section: À la une
 addresse_section: /actualites.html
 date_texte: 01 Avril 2021
@@ -13,10 +13,7 @@ description_illustration: Défibrillateur</br>
 introduction: 
 ---
 
-# Voici notre nouveau défibrillateur, en plein centre du village<br>
-
-Nous venons d'installer un nouveau défibrillateur au centre du village, proche de l'entrée de l'ancienne bibliothèque du château. <br>
-
+# Voici notre nouveau défibrillateur, en plein centre du village, proche de l'entrée de l'ancienne bibliothèque du château. <br>
 
 ![Au château de Flaux, défibrillateur](/assets/illustrations/news/defibrillateur-banner.jpg){:class="img-responsive"}
 
