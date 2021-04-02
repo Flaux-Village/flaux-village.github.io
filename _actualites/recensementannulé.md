@@ -1,9 +1,9 @@
 ---
 layout: page
-titre: Actualités | Recencement annulé 
+titre: Actualités | Recensement annulé 
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Recencement annulé!
+titre_page: Recensement annulé!
 section: À la une
 addresse_section: /actualites.html
 date_texte: 11 Janvier 2021
