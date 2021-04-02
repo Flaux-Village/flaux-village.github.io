@@ -44,7 +44,8 @@ En programme:
 - Cérémonie  du 8 mai
 - 14 juillet
 - 18 août 2021 marché  nocturne
-- Cérémonie du 11 novembre
+- Cérémonie du 11 novembre<br>
+
 Tout  ceci  en fonction de la situation sanitaire.
 
 
