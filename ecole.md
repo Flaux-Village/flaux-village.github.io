@@ -46,5 +46,4 @@ Le portail est ouvert 10 minutes avant, le matin et l’après-midi soit à 8h40
 
 Les enfants sont sous votre responsabilité avant l’ouverture de l’école et après l’heure de sortie.<br>
 
-![École de Flaux](/assets/illustrations/ecoleflauxlandscape_980.JPG){:class="img-responsive"}
 ![Sortie pédagogique dans la guarrigue](/assets/illustrations/ecole-group.jpg){:class="img-responsive"}
