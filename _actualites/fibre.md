@@ -18,7 +18,7 @@ documents:
   type: pdf
 ---
 
-# La fibre arrive, on va pouvoir s'y brancher. <br>
+# La fibre arrive, on va pouvoir s'y brancher bientôt... <br>
 
 Nous avons également fait installer des rembardes protectrice pour le tableau.
 
