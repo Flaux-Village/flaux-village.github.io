@@ -14,7 +14,7 @@ menu_secondaire:
 - titre: Eau - Assainissement
   addresse: /eau.html
 - titre: Défibrillateur
-  addresse: /actualités/defibrillateur.html
+  addresse: /actualites/defibrillateur.html
 - titre: Bibliothèque
   addresse: /bibliotheque.html
 - titre: CSI Saint-Quentin-la-Poterie
