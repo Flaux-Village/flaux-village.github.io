@@ -22,7 +22,7 @@ menu_secondaire:
 
 
 # Jeux enfants  
-Un  espace  de jeux dans le parc du château pour début 2022!  Lancement su projet dans sa première étape prospective de devis pour les travaux à conduire . À suivre!  
+Un  espace  de jeux dans le parc du château pour début 2022!  Lancement du projet dans sa première étape, prospective de devis pour les travaux à conduire. À suivre!  
 
 # Aménagement village (bancs, parkings, panneau information)
 Actuellement en phase d’évaluation
