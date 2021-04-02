@@ -8,11 +8,7 @@ date_texte: 1 juin 2020
 illustration: /assets/images/Equipenaturellement-banner.png
 description_illustration: Flaux.
 introduction: 
-documents:
-- fiche: 
-  date_texte: 
-  addresse: 
-  type: 
+
 menu_secondaire:
 - titre: Notre programme
   addresse: /naturellementflaux.html
