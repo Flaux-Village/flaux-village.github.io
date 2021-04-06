@@ -100,4 +100,6 @@ Le fossé a été nettoyé pour permettre le passage des piétons, d’autres am
 Aux Auvis, prochainement installation des panneaux "Les Auvis-commune de Flaux" par le conseil départemental ce qui réduira la vitesse de 70km/h à 50km/h.
 
 
+# Convention pour la capture des chats en vue de leur stérilisation
+Nous voulons procéder à la stérilisation de la population féline libre, nous établissons donc une convention pour capturer les chats libres avec l’association CHAVAMIEUX de Saint Quentin la Poterie, les chats seront capturés, transportés chez le vétérinaire pour pratiquer la stérilisation, il sera ensuite relâché sur son lieu de capture. Les chats déjà stérélisés seront reconaissables par une encoche sur l'oreille et un "S" tatoué à l'oreille. Nous conseillons durant cette opération de s'assurer que vos chats domestiques soient soit marqués, pucés ou alors avec un collier. Nous vous signalerons dès que cette intervenition sera active!
 
