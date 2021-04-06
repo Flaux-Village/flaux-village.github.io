@@ -16,7 +16,7 @@ documents:
   date_texte: 6 Avril 2021
   addresse: /assets/documents/LAVOIR DES AUVIS - Dossier de présentation 1.2-DC.pdf
   type: pdf
-- fiche: Le Républicain 
+- fiche: Le Républicain - Article sur le projet du Lavoir
   date_texte: 20 Janvier 2021
   addresse: /assets/documents/Répu du 14_01.pdf
   type: pdf
