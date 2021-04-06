@@ -78,8 +78,12 @@ Un nouveau bassin de rétention du chemin de Vallagrand. Un pas de plus dans la 
 # Installation d'un défibrillateur
 Un défibrillateur sera installé sur la place du château.
 
+# Cantine à Flaux, Covid19
+Flaux acceuille les enfants de l'école de Flaux pour que nous puissions respecter les distances, normalement ils mangent tous à la cantine de l'école de La Capelle et Masmolène. Les enfants sont ravis!
+
 # Site internet de la commune
 Site internet tant attendu réalisé en interne grâce au travail des élus!
+
 
 
 # EN COURS:
