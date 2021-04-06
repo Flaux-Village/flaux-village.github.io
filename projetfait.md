@@ -74,7 +74,7 @@ Un nouveau bassin de rétention du chemin de Vallagrand. Un pas de plus dans la 
 La carte du débordement du PPRI a été révisée. Elle caractérise les zones à inondation sur la commune. Un arrêté préfectoral ouvre sur une instruction échelonnée sur 3 ans pour aboutir sur un PPRI opérationnel. Nous sommes donc au tout début du processus. La prochaine étape est l’engagement d’une étude des zones pluviales. Nous reviendrons régulièrement vous informer de son état d’avancement !
 
 # Réseau informatique fibre - en cours
-L'installation de la fibre est en cours dans le village. Au printemps les usagers pourront demander d'y adhérer auprès de leurs opérateurs.
+L'installation de la fibre est en cours dans le village. Les usagers pourront demander d'y adhérer auprès de leurs opérateurs dès nous serons éligibles.
 
 # Rénovation du lavoir des Auvis
 
