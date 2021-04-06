@@ -18,5 +18,5 @@ menu_secondaire:
 - titre: Associations
   addresse: /associations.html
 ---
-Si votre activité est basée sur Flaux et que vous souhaitez être répertoriés ci-dessous, merci de nous envoyer une demande: secretariat@mairie-flaux.fr
+Si votre activité et votre siège social sont basés sur Flaux et vous souhaitez être répertoriés ci-dessous, merci de nous envoyer une demande: secretariat@mairie-flaux.fr
 
