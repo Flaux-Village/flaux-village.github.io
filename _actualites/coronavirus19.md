@@ -13,21 +13,9 @@ description_illustration:
 introduction: Covid 19, Arrêté préfectoral
 documents:
 
-- fiche: Arrêté Covid 
-  date_texte: 04 Janvier 2021
-  addresse: /assets/documents/arrete_20210105_081455.pdf
-  type: pdf
-- fiche: Tableau des mesures EUS 
-  date_texte: 04 Janvier 2021
-  addresse: /assets/documents/2020.12.27 PROJET - TABLEAU DES MESURES EUS couvre-feu actualisé au 4 janvier 2021.odt
-  type: odt
-- fiche: Avis Sanitaire ARS 
-  date_texte: 04 Janvier 2021
-  addresse: /assets/documents/AVIS SANITAIRE ARS DD30.pdf
-  type: pdf
 - fiche: Décret Covid 
-  date_texte: 15 Décembre 2020
-  addresse: /assets/documents/Decret_Covid_modifie_au_15_12_20.pdf
+  date_texte: 04 Avril 2021
+  addresse: /assets/documents/covid-Avril-2021.pdf
   type: pdf
 
   
