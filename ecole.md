@@ -47,3 +47,6 @@ Le portail est ouvert 10 minutes avant, le matin et l’après-midi soit à 8h40
 Les enfants sont sous votre responsabilité avant l’ouverture de l’école et après l’heure de sortie.<br>
 
 ![Sortie pédagogique dans la guarrigue](/assets/illustrations/ecole-group.jpg){:class="img-responsive"}
+
+# Nous avons aussi une APE de Flaux, St Victor des Oules, La Capelle et Masmolène
+
