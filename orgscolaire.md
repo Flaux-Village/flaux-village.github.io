@@ -17,9 +17,6 @@ documents:
 - fiche: Dossier d'accueil 2020-2021
   date_texte: 1 Septembre 2020
   addresse: /assets/documents/dossier d'accueil 2020-2021.docx
-- fiche: Reprise suite Covid19
-  date_texte: 1 Septembre 2020
-  addresse: /assets/documents/2020-06.19 - reprise ecole suite covid.pdf
 - fiche: Cantine espace famille
   date_texte: 1 Septembre 2020
   addresse: /assets/documents/Cantine_espacefamille.pdf
