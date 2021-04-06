@@ -1,9 +1,9 @@
 ---
 layout: page
-titre: La mairie | Naturellement Flaux, Notre programme
+titre: La mairie | Naturellement Flaux, mot du Maire
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
-titre_page: Notre projet 2020 – 2026
+titre_page: Mot du Maire
 date_texte: 1 juin 2020
 illustration: /assets/images/equipenaturellement1.png
 description_illustration: Equippe.
@@ -16,7 +16,7 @@ documents:
    
 
 menu_secondaire:
-- titre: Notre programme
+- titre: Mot du Maire
   addresse: /naturellementflaux.html
 - titre: Projets réalisés et en cours
   addresse: /projetfait.html
@@ -27,7 +27,8 @@ menu_secondaire:
 
 ![Affiche Denis Juvin](assets/images/affiche Denis Thumbnail.png){:class="img-responsive"}
 
-Chères concitoyennes, Chers concitoyens,
+Chères concitoyennes, Chers concitoyens,<br/>
+
 Une année s’achève et quelle année ! <br/>
 Toute d’abord à toutes et à tous, je veux exprimer en mon nom et au nom du conseil municipal tous nos vœux de bonheur et de santé à chacune et chacun de vous pour cette nouvelle année 2021. <br/>
 
