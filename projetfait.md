@@ -62,10 +62,14 @@ Campagne de sensibilisation, invitant à la consommation modérée.
 # Histoires de clochers
 Visite guidée.
 
-# Bassin de retention du chemin de vallagrand 
+# Bassin de retention du chemin de Vallagrand 
 Un nouveau bassin de rétention du chemin de Vallagrand. Un pas de plus dans la prévention des risques d’inondation.
 
+# Installation d'un défibrillateur
+Un défibrillateur sera installé sur la place du château.
+
 # Site internet de la commune
+Site internet tant attendu réalisé en interne grâce au travail des élus!
 
 
 # EN COURS:
@@ -78,14 +82,12 @@ L'installation de la fibre est en cours dans le village. Les usagers pourront de
 
 # Rénovation du lavoir des Auvis
 
-# Chemin de POUZILLAC - aménagé en chemin de liaison 
+
+# Chemin de Pouzilhac - aménagé en chemin de liaison 
 Le fossé a été nettoyé pour permettre le passage des piétons, d’autres aménagements sont à l’étude.
 
 # Sécurité routière - en cours
-Aux Auvis, passage prochain à 50km/h au lieu des 70km/h courantes.
+Aux Auvis, prochainement installation des panneaux "Les Auvis-commune de Flaux" par le conseil départemental ce qui réduira la vitesse de 70km/h à 50km/h.
 
-# Installation d'un défibrillateur
-Un défibrillateur sera installé sur la place du château.
-  
 
 
