@@ -3,7 +3,7 @@ layout: page
 titre: La mairie | Projets dans notre programme
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
-titre_page: Projets dans notre programme
+titre_page: Projets à venir
 date_texte: 1 juin 2020
 illustration: /assets/images/Equipenaturellement-banner.png
 description_illustration: Flaux.
@@ -37,13 +37,13 @@ Actuellement à l‘étude: Réfection du Campanile et installation d’un paraf
 Réfection à l'étude pour utilisation de l'aile inutilisée du château.
 
 # Actions sociales 
-MSA - Une permanence mensuelle est prévue.
+Maison des services, une permanance mensuelle est prévue en Mairie bientôt, en cours d'installation.
 
 # Cérémonies, fêtes locales Flaux, journées à thème  
 En programme:
 - Cérémonie  du 8 mai
 - 14 juillet
-- 18 août 2021 marché  nocturne
+- 18 août 2021 marché nocturne
 - Cérémonie du 11 novembre<br>
 
 Tout  ceci  en fonction de la situation sanitaire.
