@@ -8,7 +8,7 @@ illustration: /assets/illustrations/archives_landscape980.JPG
 description_illustration: Mairie de Flaux.
 documents:
 
-- fiche: Compte Rendu Séance du 11 Mars 2021
+- fiche: Compte rendu séance du 11 Mars 2021
   date_texte: 11 Mars 2021
   addresse: /assets/documents/comptesrendus/compte rendu du 11 mars 2021.pdf
   type: pdf
