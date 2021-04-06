@@ -17,7 +17,7 @@ documents:
   date_texte: 5 juin 2020
   addresse: /assets/flyer/clochers.pdf
   type: pdf
-- fiche: L'histoire du bandit de flaux, raccontée par Denis Juvin à l'age de 13 ans
+- fiche: L'histoire du bandit de Flaux, raccontée par Denis Juvin à l'age de 13 ans
   date_texte: 6 Avril 2021
   addresse: /assets/documents/bandit-de-flaux.pdf
   type: pdf
