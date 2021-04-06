@@ -20,6 +20,10 @@ documents:
 - fiche: Cantine espace famille
   date_texte: 1 Septembre 2020
   addresse: /assets/documents/Cantine_espacefamille.pdf
+- fiche: Livret parents covid19
+  date_texte: 1 Septembre 2020
+  addresse: /assets/documents/Livret-parents-rentree-2020-covid19 (1).pdf
+  
   
   
 ---
