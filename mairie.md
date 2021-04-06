@@ -36,9 +36,9 @@ Lien utile pour en savoir plus sur Flaux et [les démarches administratives](htt
 
 # Communiqué aux administrés:
 
-> Pour la santé et la sécurité de tous, l'ouverture au public sera assurée sous certaines conditions à partir du 2 novembre
+> Pour la santé et la sécurité de tous, l'ouverture au public sera assurée sous certaines conditions à partir du 6 Avril.
 
-> pour venir en mairie il faudra dans un premier temps envoyer un mail à infos@mairie-flaux.fr qui sera traité rapidement suivi d'un rendez-vous si nécessaire
+> Pour venir en mairie il faudra dans un premier temps envoyer un mail à infos@mairie-flaux.fr qui sera traité rapidement suivi d'un rendez-vous si nécessaire
 > fixé par la secrétaire, ou par téléphone 04.66.22.17.92 si pas d'adresse mail.
 
 > Le portail automatique sera fermé, il faudra sonner - donner votre nom et l'heure de votre rendez-vous et IMPERATIVEMENT avoir un masque. Vous serez reçu par la > secrétaire dans l'entrée de la Mairie, en respectant les gestes barrières mis à votre disposition (une table pour la distance et du gel hydroalcoolique).
