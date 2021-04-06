@@ -30,6 +30,7 @@ menu_secondaire:
 Chères concitoyennes, Chers concitoyens,<br/>
 
 Une année s’achève et quelle année ! <br/>
+
 Toute d’abord à toutes et à tous, je veux exprimer en mon nom et au nom du conseil municipal tous nos vœux de bonheur et de santé à chacune et chacun de vous pour cette nouvelle année 2021. <br/>
 
 J’ai avant tout une pensée particulière pour ceux qui nous ont quittés durant cette année 2020 et assurer de mon soutien à leur famille dont le deuil s’inscrit dans les circonstances plus difficiles et douloureuses. <br/>
