@@ -24,7 +24,7 @@ documents:
 
 # Une bonne action pour notre patrimoine! Nous réhabilitons notre lavoir aux Auvis<br>
 
-Grâce à la sollicitation de subventions, nous sommes ravis d'annoncer que nous nous engageons à réhabiliter le lavoir en le remettant en eau.
+Nous sommes ravis d'annoncer que nous nous engageons à réhabiliter le lavoir en le remettant en eau. Cet ouvrage fait partie du « petit patrimoine » de l’ Uzège dans la période de la fin du XIXe siècle, bien qu ‘il ne soit pas inscrit à l’inventaire des monuments historiques.
 
 
 
