@@ -51,7 +51,7 @@ Marlise VON AESCH
 
 Max CABANEL
 
-Marilise LEROUGE - à vérifier
+Marie-Thérèse LEROUGE
 
 
 ## Naissance:
@@ -66,4 +66,4 @@ Raphael JUVIN - Charlie MONAMY
 
 ## Mariage:
 
-TIRADO - BLUNDY - à vérifier
+Sabine BLANCHET - Ludovic TIRADO 
