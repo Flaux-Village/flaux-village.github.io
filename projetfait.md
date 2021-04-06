@@ -23,7 +23,7 @@ documents:
   type: pdf
 - fiche: Rhéabilitation du lavoir des Auvis-Patrimoine culturel
   date_texte: 25 Novembre 2020
-  addresse: /assets/images/articlespress/reabilitationlavoirauvis2020article.pdf
+  addresse: /assets/images/
   type: pdf
   
 menu_secondaire:
