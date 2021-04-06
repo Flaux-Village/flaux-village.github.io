@@ -48,5 +48,5 @@ Les enfants sont sous votre responsabilité avant l’ouverture de l’école et
 
 ![Sortie pédagogique dans la guarrigue](/assets/illustrations/ecole-group.jpg){:class="img-responsive"}
 
-# Nous avons aussi une APE de Flaux, St Victor des Oules, La Capelle et Masmolène
+Nous avons aussi une APE de Flaux, St Victor des Oules, La Capelle et Masmolène
 
