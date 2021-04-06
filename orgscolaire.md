@@ -45,11 +45,11 @@ Email: sirp30700@laposte.net<br>
 Valérie LANGLASSE<br>
 Nathalie RIZZO<br>
 Magalie MOREAU<br>
-Mélanie Faurant<br>
+Mélanie FAURENT<br>
 
 ## Les membres du Conseil Syndical<br>
 
-
+*présidents:* <br>
 Denis JUVIN<br>
 
 *Vice-présidents:* <br>
