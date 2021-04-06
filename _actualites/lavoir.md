@@ -11,6 +11,15 @@ date: 2021-03-31
 illustration: /assets/illustrations/news/lavoir-banner.jpg
 description_illustration: lavoir du hameau des Auvis</br>
 introduction: 
+documents:
+- fiche: Dossier de présentation du lavoir
+  date_texte: 6 Avril 2021
+  addresse: /assets/documents/LAVOIR DES AUVIS - Dossier de présentation 1.2-DC.pdf
+  type: pdf
+- fiche: Le Républicain 
+  date_texte: 20 Janvier 2021
+  addresse: /assets/documents/Répu du 14_01.pdf
+  type: pdf
 ---
 
 # Une bonne action pour notre patrimoine! Nous réhabilitons notre lavoir aux Auvis<br>
