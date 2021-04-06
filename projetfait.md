@@ -21,10 +21,20 @@ documents:
   date_texte: 19 Novembre 2020
   addresse: /assets/images/articlespress/articleoctobre2020PLU.pdf
   type: pdf
-- fiche: Rhéabilitation du lavoir des Auvis-Patrimoine culturel
-  date_texte: 25 Novembre 2020
-  addresse: /assets/images/
+- fiche: Dossier de présentation du lavoir
+  date_texte: 6 Avril 2021
+  addresse: /assets/documents/LAVOIR DES AUVIS - Dossier de présentation 1.2-DC.pdf
   type: pdf
+- fiche: Le Républicain - Article sur le projet du Lavoir
+  date_texte: 20 Janvier 2021
+  addresse: /assets/documents/Répu du 14_01.pdf
+  type: pdf
+- fiche: Le Républicain - Article sur le projet du Lavoir
+  date_texte: 20 Janvier 2021
+  addresse: /assets/documents/Réhabilitation du lavoir.pdf
+  type: pdf
+  
+  
   
 menu_secondaire:
 - titre: Notre programme
@@ -81,7 +91,7 @@ La carte du débordement du PPRI a été révisée. Elle caractérise les zones 
 L'installation de la fibre est en cours dans le village. Les usagers pourront demander d'y adhérer auprès de leurs opérateurs dès nous serons éligibles.
 
 # Rénovation du lavoir des Auvis
-
+Nous sommes ravis d'annoncer que nous nous engageons à réhabiliter le lavoir en le remettant en eau. Cet ouvrage fait partie du « petit patrimoine » de l’ Uzège dans la période de la fin du XIXe siècle, bien qu ‘il ne soit pas inscrit à l’inventaire des monuments historiques.
 
 # Chemin de Pouzilhac - aménagé en chemin de liaison 
 Le fossé a été nettoyé pour permettre le passage des piétons, d’autres aménagements sont à l’étude.
