@@ -37,7 +37,7 @@ documents:
   
   
 menu_secondaire:
-- titre: Notre programme
+- titre: Mot du Maire
   addresse: /naturellementflaux.html
 - titre: Projets réalisés et en cours
   addresse: /projetfait.html
