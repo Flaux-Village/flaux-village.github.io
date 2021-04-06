@@ -34,7 +34,8 @@ Ouverture et suivi du livret de famille <br>
 [Page d'info sur notre site](https://flaux-village.github.io/demarches.html)  <br>
 
 
-## Annonce année 2020 sur Flaux
+
+## Annonce année 2020/21 sur Flaux
 
 ## Décès :
 
@@ -48,8 +49,21 @@ Jean PASCAL
 
 Marlise VON AESCH
 
+Max CABANEL
+
+Marilise LEROUGE - à vérifier
+
+
 ## Naissance:
 
 Lilio ZYCH
 
+Romy MAALEM
 
+## Pax:
+
+Raphael JUVIN - Charlie MONAMY
+
+## Mariage:
+
+TIRADO - BLUNDY - à vérifier
