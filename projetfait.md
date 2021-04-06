@@ -29,7 +29,7 @@ documents:
   date_texte: 20 Janvier 2021
   addresse: /assets/documents/Répu du 14_01.pdf
   type: pdf
-- fiche: Le Républicain - Article sur le projet du Lavoir
+- fiche: Fiche de projet du lavoir
   date_texte: 20 Janvier 2021
   addresse: /assets/documents/Réhabilitation du lavoir.pdf
   type: pdf
