@@ -17,6 +17,10 @@ documents:
   date_texte: 5 juin 2020
   addresse: /assets/flyer/clochers.pdf
   type: pdf
+- fiche: L'histoire du bandit de flaux, raccontée par Denis Juvin à l'age de 13 ans
+  date_texte: 6 Avril 2021
+  addresse: /assets/documents/bandit-de-flaux.pdf
+  type: pdf
 
 menu_secondaire:
 - titre: Points d'intérêts
@@ -32,4 +36,4 @@ Venez arpenter ce village avec son château du XIIIe siècle et son parc.
 
 L’église recèle de petits trésors. Dans le village ainsi que dans les hameaux, le petit patrimoine est présent partout: lavoir, croix, puits et fontaines, lavognes…
 
-Et si vous ne connaissez pas l’histoire du bandit de Flaux, elle vous sera racontée.
+Voici en lien l'histoire du bandit de Flaux, raccontée par Denis Juvin à l'âge de 13 ans pour un devoir à l'école!
