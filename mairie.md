@@ -32,7 +32,7 @@ Le lundi  de 09h00 à 12h30<br/>
 Le jeudi  de 09h00 à 12h30<br/>
 
 Lien utile pour en savoir plus sur Flaux et [les démarches administratives](https://www.gard.gouv.fr/Demarches-administratives/Autres-demarches) <br/>
-La mairie de Flaux fait partie de la Communauté de Communes Pays D’Uzès(CCPU)](https://www.ccpaysduzes.fr/) 
+La mairie de Flaux fait partie de la Communauté de Communes Pays D’Uzès (CCPU)](https://www.ccpaysduzes.fr/) 
 
 
 
