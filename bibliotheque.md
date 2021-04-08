@@ -32,7 +32,7 @@ menu_secondaire:
 ## La bibliothèque de flaux fait partie du <a href="https://www.mediatheques.ccpaysduzes.fr/bibliotheques">réseau bibliothèques pays d'Uzès, portail à disposition pour connaître toutes les resources du réseau.</a>  <br> 
 <img src="assets/images/bibliotheque.png" alt="réseau bibliothèques pays d'Uzès" width="336" height="140">
 
-# Bibliothèque fermée en ce moment
+# Bibliothèque fermée en ce moment <br> 
 
 # Horaires habituels
  
