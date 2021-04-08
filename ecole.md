@@ -60,20 +60,20 @@ autour d'une mare de la Capelle.
 
 Le financement est pris totalement en charge par le site Natura 2000.
 
-Objectifs généraux:
--Permettre une découverte concrète de la nature qui entoure l’enfant.
+Objectifs généraux:<br/>
+-Permettre une découverte concrète de la nature qui entoure l’enfant.<br/>
 -Acquérir des connaissances générales sur les espèces prioritaires du
-site N2000, en particulier le groupe des odonates.
+site N2000, en particulier le groupe des odonates.<br/>
 -S’initier à l’utilisation d’outils et méthodes d’observation, d’écoute,
-à des pratiques respectueuses de l’environnement.
--Adopter un comportement adéquat pour fréquenter le milieu naturel.
+à des pratiques respectueuses de l’environnement.<br/>
+-Adopter un comportement adéquat pour fréquenter le milieu naturel.<br/>
 -Faire émerger des solutions et entreprendre une ou plusieurs actions
-simples pour lutter contre l’érosion de la biodiversité.
+simples pour lutter contre l’érosion de la biodiversité.<br/>
 
 Par ailleurs, un intervenant en Anglais intervient 1 heure par semaine,
-ce qui renforce les cours quotidiens (20 minutes par jour). Nous
-participons aussi à un projet plastique avec le collège, autour d'un
-film d'animation.
+ce qui renforce les cours quotidiens (20 minutes par jour). <br/>
+Nous participons aussi à un projet plastique avec le collège, autour d'un
+film d'animation.<br/>
 
 Stéphane André
 
