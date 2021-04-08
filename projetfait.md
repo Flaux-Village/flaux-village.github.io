@@ -29,11 +29,6 @@ documents:
   date_texte: 20 Janvier 2021
   addresse: /assets/documents/Répu du 14_01.pdf
   type: pdf
-- fiche: Fiche de projet du lavoir
-  date_texte: 20 Janvier 2021
-  addresse: /assets/documents/Réhabilitation du lavoir.pdf
-  type: pdf
-  
   
   
 menu_secondaire:
@@ -76,7 +71,7 @@ Visite guidée.
 Un nouveau bassin de rétention du chemin de Vallagrand. Un pas de plus dans la prévention des risques d’inondation.
 
 # Installation d'un défibrillateur
-Un défibrillateur sera installé sur la place du château.
+Un défibrillateur a été installé sur la place du château.
 
 # Cantine à Flaux, Covid19
 Flaux acceuille les enfants de l'école de Flaux pour que nous puissions respecter les distances, normalement ils mangent tous à la cantine de l'école de La Capelle et Masmolène. Les enfants sont ravis!
