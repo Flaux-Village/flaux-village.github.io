@@ -75,6 +75,6 @@ ce qui renforce les cours quotidiens (20 minutes par jour). <br/>
 Nous participons aussi à un projet plastique avec le collège, autour d'un
 film d'animation.<br/>
 
-Stéphane André
+Maître Stéphane André
 
 
