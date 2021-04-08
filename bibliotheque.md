@@ -20,10 +20,6 @@ menu_secondaire:
 - titre: CSI Saint-Quentin-la-Poterie
   addresse: /csi.html
   
-documents:
-- fiche: Invitation Réouverture Bibliothèque 
-  date_texte: 19 Novembre 2019
-  addresse: assets/flyer/2019 - 11-19 - affiche invitation réouverture bibliothèque.docx
   
   
 ---
@@ -35,7 +31,9 @@ documents:
 
 ## La bibliothèque de flaux fait partie du <a href="https://www.mediatheques.ccpaysduzes.fr/bibliotheques">réseau bibliothèques pays d'Uzès, portail à disposition pour connaître toutes les resources du réseau.</a>  <br> 
 <img src="assets/images/bibliotheque.png" alt="réseau bibliothèques pays d'Uzès" width="336" height="140">
- 
+
+# Bibliothèque fermée en ce moment
+
 # Horaires habituels
  
 ### Les lundis de 16h à 18h30 <br> 
