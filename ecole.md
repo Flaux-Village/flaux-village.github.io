@@ -50,3 +50,31 @@ Les enfants sont sous votre responsabilité avant l’ouverture de l’école et
 
 Nous avons aussi une APE de Flaux, St Victor des Oules, La Capelle et Masmolène
 
+# En programme à St Victor des Oules qui accueille les CM1 et CM2:
+
+Nous travaillons sur un projet sur le thème des Odonates dont voici les
+détails:
+
+3 séances se déroulent en classe et une journée entière sur le terrain,
+autour d'une mare de la Capelle.
+
+Le financement est pris totalement en charge par le site Natura 2000.
+
+Objectifs généraux:
+-Permettre une découverte concrète de la nature qui entoure l’enfant.
+-Acquérir des connaissances générales sur les espèces prioritaires du
+site N2000, en particulier le groupe des odonates.
+-S’initier à l’utilisation d’outils et méthodes d’observation, d’écoute,
+à des pratiques respectueuses de l’environnement.
+-Adopter un comportement adéquat pour fréquenter le milieu naturel.
+-Faire émerger des solutions et entreprendre une ou plusieurs actions
+simples pour lutter contre l’érosion de la biodiversité.
+
+Par ailleurs, un intervenant en Anglais intervient 1 heure par semaine,
+ce qui renforce les cours quotidiens (20 minutes par jour). Nous
+participons aussi à un projet plastique avec le collège, autour d'un
+film d'animation.
+
+Stéphane André
+
+
