@@ -3,7 +3,7 @@ layout: page
 titre: Actualités | Fibre Optique
 description: Fibre Optique
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: La fibre dans nôtre village!
+titre_page: La fibre dans notre village!
 section: À la une
 addresse_section: /actualites.html
 date_texte: 2 Avril 2021
