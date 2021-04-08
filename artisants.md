@@ -20,7 +20,7 @@ menu_secondaire:
 ---
 Si votre activité et votre siège social sont basés sur Flaux et vous souhaitez être répertoriés ci-dessous, merci de nous envoyer une demande: secretariat@mairie-flaux.fr
 
-# Vgtaldeco atelier d art végétal japonais les kokedamas 
+# Vgtaldeco atelier d'art végétal japonais les kokedamas 
 185 chemin de collias à FLaux
 T: 04 66 22 06 56
 
