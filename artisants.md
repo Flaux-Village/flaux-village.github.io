@@ -23,6 +23,7 @@ Si votre activité et votre siège social sont basés sur Flaux et vous souhaite
 # Vgtaldeco atelier d art végétal japonais les kokedamas 
 185 chemin de collias à FLaux
 T: 04 66 22 06 56
+
 ![Vgtaldeco](assets/images/Vgtaldeco-cartevisite.jpg){:class="img-responsive"}
 
 
