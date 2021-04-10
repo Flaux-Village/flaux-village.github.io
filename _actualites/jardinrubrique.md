@@ -21,6 +21,5 @@ Si le nom des saints de glace a changé, les dates quant à elles restent fidèl
 - le 13 mai, "Avant saint Servais point d'été, après saint Servais plus de gelée"<br>
 - Le 25 mai, qui n'est pas un saint de glace mais qui y est rattaché, indique : "Mamert, Pancrace et Servais sont des saints de glace, mais saint Urbain les tient tous les trois dans sa main".<br>
 
-<b>Que planter avant les saints de glace ?</b><br>
-
+# Que planter avant les saints de glace ?<br>
 Les jardiniers avisés préféreront donc attendre que les saints de glace soient passés pour réaliser leurs plantations mais sachez qu'il est tout de même possible de planter avant les saints de glace. On privilégie donc les plantes qui ne craignent pas le gel soit les plantes non gélives. [Les plantes vivaces](https://www.journaldesfemmes.fr/jardin/conseils-jardinage/2580502-plante-vivace/), les fleurs comme les primevères et les arbustes comme le buis pourront s'installer au jardin avant ces dates. Si vous avez réalisé d'autres plantations avant les saints de glaces, soyez vigilants et surveillez les températures. Il ne faudra pas hésiter à protéger les plantes à l'aide d'une voile d'hivernage ou d'un [paillage](https://www.journaldesfemmes.fr/jardin/conseils-jardinage/1859929-paillage-au-jardin-pourquoi-et-comment-pailler-vegetaux/) pour limiter les dégâts des dernières gelées.<br>
