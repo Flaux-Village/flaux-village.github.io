@@ -8,7 +8,7 @@ section: À la une
 addresse_section: /actualites.html
 date_texte: 10 Avril 2021
 date: 2021-04-10
-illustration: /assets/illustrations/printempsjardin1.jpg
+illustration: /assets/illustrations/imagejardin2.jpg
 description_illustration: jardin</br>
 introduction: 
 ---
