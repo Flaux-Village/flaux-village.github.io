@@ -15,6 +15,7 @@ introduction:
 
 # Voici notre nouveau défibrillateur, en plein centre du village, proche de l'entrée de l'ancienne bibliothèque du château. <br>
 
+
 ![Au château de Flaux, défibrillateur](/assets/illustrations/news/defibrillateur-banner.jpg){:class="img-responsive"}
 
 
