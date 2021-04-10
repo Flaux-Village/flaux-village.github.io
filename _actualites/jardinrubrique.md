@@ -13,8 +13,6 @@ description_illustration: jardin</br>
 introduction: 
 ---
 
-# [paillage](https://www.journaldesfemmes.fr/jardin/conseils-jardinage/1859929-paillage-au-jardin-pourquoi-et-comment-pailler-vegetaux/)
-
 # Les dates des saints de glace <br>
 Si le nom des saints de glace a changé, les dates quant à elles restent fidèles aux origines. Il s'agit des  [11, 12 et 13 mai](https://www.journaldesfemmes.fr/jardin/conseils-jardinage/1835301-que-faire-au-jardin-en-mai/). Une quatrième date, le <b>25 mai</b>, est souvent évoquée. Ces saints ont chacun non seulement leur date mais également leur <b>dicton</b> qui donnent des indications sur la météo à venir :<br>
 
