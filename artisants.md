@@ -33,6 +33,6 @@ Sculpteur, activité artistique relevant des arts plastiques.  <br>
 Sculpture - peinture - décoration intérieure et extérieure - métal - céramique - verre....<br>
 +33 (0)6 05 46 61 85  <br>
 alexandrasculpture@gmail.com <br>
-Instagram: aleandra.schuch <br>
+Instagram: alexandra.schuch <br>
 
 ![Schuch sculpteur](assets/illustrations/alexschuch.jpg){:class="img-responsive"}
