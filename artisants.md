@@ -27,4 +27,11 @@ T: 04 66 22 06 56
 ![Vgtaldeco](assets/images/Vgtaldeco-cartevisite.jpg){:class="img-responsive"}
 
 
+# Ateliers Schuch - Alexandra Schuch <br>
+Sculpteur, activité artistique relevant des arts plastiques.  <br>
+Sculpture - peinture - décoration intérieure et extérieure - métal - céramique - verre....<br>
++33 (0)6 05 46 61 85  <br>
+alexandrasculpture@gmail.com <br>
+Instagram: aleandra.schuch <br>
 
+![Schuch sculpteur](assets/images/alexschuch.jpg){:class="img-responsive"}
