@@ -42,7 +42,8 @@ Grâce au RPI, les trois communes ont toujours une école qui fonctionne. Tellem
 
 Autre avantage, et non des moindres, nos enfants acquièrent très tôt un début d'autonomie et une meilleure gestion du temps de travail grâce aux classes à double niveau. Cela stimule leurs capacités d’adaptation et les incite également à plus de coopération. <br>
 
-« La classe est souvent plus vivante, et les échanges et l’entraide entre les élèves plus nombreux. En termes d’autonomie, de participation en classe, la classe multi-niveaux apporte une vraie plus-value. L’élève comprend mieux le sens de l’école, devient plus autonome. Et du point de vue des compétences sociales, c’est indéniable, les élèves sont mieux préparés, et c’est déterminant pour le collège car ils seront moins encadrés. De plus, nous avons la chance d’avoir des classes à petits effectifs, un gros avantage pour faire de la différenciation pédagogique et suivre chaque enfant de près. » confirme Mme Michel, directrice de l’école de Faux. <br>
+« La classe est souvent plus vivante, et les échanges et l’entraide entre les élèves plus nombreux. En termes d’autonomie, de participation en classe, la classe multi-niveaux apporte une vraie plus-value. L’élève comprend mieux le sens de l’école, devient plus autonome. Et du point de vue des compétences sociales, c’est indéniable, les élèves sont mieux préparés, et c’est déterminant pour le collège car ils seront moins encadrés. De plus, nous avons la chance d’avoir des classes à petits effectifs, un gros avantage pour faire de la différenciation pédagogique et suivre chaque enfant de près. » <br/>
+confirme Mme Michel, directrice de l’école de Faux. <br>
 
 # S.I.R.P.  La Capelle et Masmolène, Flaux, Saint Victor des Oules 
 
