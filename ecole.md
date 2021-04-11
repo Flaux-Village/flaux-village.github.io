@@ -50,13 +50,25 @@ Les enfants sont sous votre responsabilité avant l’ouverture de l’école et
 
 Nous avons aussi une APE de Flaux, St Victor des Oules, La Capelle et Masmolène
 
+
+# Au programme à l’école de Flaux, GS au CE2:
+
+Cette année toute l’école embarque pour un voyage autour du monde avec le projet <b>« Tour du monde : les 5 continents »<b/>. L’occasion de faire du lien avec une multitude de domaines d’apprentissage ! Chaque période, nous découvrons un nouveau continent à travers la littérature, les arts visuels, des exposés sur les pays préparés par les élèves, mais aussi des écoutes musicales et des ateliers de cuisine. <br/>
+
+L’école est également affiliée à l’<b>USEP<b/> (L’Union sportive de l’enseignement du premier degré) afin de participer à des rencontres sportives et de bénéficier de séances encadrées par des intervenants spécialisés (handball cette année). <br/>
+
+Nous faisons également des langues notre priorité : à partir du CE1, les élèves bénéficient d’une séance hebdomadaire d’<b>anglais<b/> en présence d’un intervenant anglophone, en renfort des rituels quotidiens.<br/>
+
+L’équipe enseignante<br/>
+
+
 # En programme à St Victor des Oules qui accueille les CM1 et CM2:
 
 Nous travaillons sur un projet sur le thème des Odonates dont voici les
-détails:
+détails:<br/>
 
 3 séances se déroulent en classe et une journée entière sur le terrain,
-autour d'une mare de la Capelle.
+autour d'une mare de la Capelle.<br/>
 
 Le financement est pris totalement en charge par le site Natura 2000.
 
