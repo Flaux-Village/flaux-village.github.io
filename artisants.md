@@ -34,4 +34,4 @@ Sculpture - peinture - décoration intérieure et extérieure - métal - cérami
 alexandrasculpture@gmail.com <br>
 Instagram: aleandra.schuch <br>
 
-![Schuch sculpteur](assets/images/alexschuch.jpg){:class="img-responsive"}
+![Schuch sculpteur](assets/illustrations/alexschuch.jpg){:class="img-responsive"}
