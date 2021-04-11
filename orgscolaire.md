@@ -30,6 +30,20 @@ documents:
   
   
 ---
+# Le regroupement pédagogique intercommunal <br>
+
+Le regroupement pédagogique intercommunal (RPI) regroupe les écoles de La Capelle-et-Masmolène, Flaux et Saint-Victor-des-Oules. <br>
+
+Les élèves du RPI sont répartis entre les quatre classes de ces 3 villages : La classe de La Capelle-et-Masmolène accueille les GS-MS, les 2 classes de Flaux les élèves de la GS au CE2 et celle de Saint-Victor-des-Oules les CM1-CM2. Selon les effectifs, la répartition des niveaux entre les 3 villages est amenée à varier.  Un service de bus spécialement réservé pour le RPI est mis en place pour accompagner les élèves à leur école. <br>
+
+Le collège de secteur est le collège Jean Louis Trintignant à Uzès. <br>
+
+Grâce au RPI, les trois communes ont toujours une école qui fonctionne. Tellement important pour la vie d’un petit village ! Cette structure permet aux communes associées de regrouper les effectifs d'enfants à scolariser en constituant des classes homogènes à petit effectif et de les accueillir dans les meilleures conditions. La mise en commun des moyens et des équipements permet en effet d'offrir aux enfants des zones rurales des prestations de qualité équivalentes à celles des enfants des zones urbaines (service de garderie, cantine, équipement informatique, etc.)<br>
+
+Autre avantage, et non des moindres, nos enfants acquièrent très tôt un début d'autonomie et une meilleure gestion du temps de travail grâce aux classes à double niveau. Cela stimule leurs capacités d’adaptation et les incite également à plus de coopération. <br>
+
+« La classe est souvent plus vivante, et les échanges et l’entraide entre les élèves plus nombreux. En termes d’autonomie, de participation en classe, la classe multi-niveaux apporte une vraie plus-value. L’élève comprend mieux le sens de l’école, devient plus autonome. Et du point de vue des compétences sociales, c’est indéniable, les élèves sont mieux préparés, et c’est déterminant pour le collège car ils seront moins encadrés. De plus, nous avons la chance d’avoir des classes à petits effectifs, un gros avantage pour faire de la différenciation pédagogique et suivre chaque enfant de près. » confirme Mme Michel, directrice de l’école de Faux. <br>
+
 # S.I.R.P.  La Capelle et Masmolène, Flaux, Saint Victor des Oules 
 
 1, place de Verdun<br>
