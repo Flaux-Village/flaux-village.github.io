@@ -53,11 +53,11 @@ Nous avons aussi une APE de Flaux, St Victor des Oules, La Capelle et Masmolène
 
 # Au programme à l’école de Flaux, GS au CE2:
 
-Cette année toute l’école embarque pour un voyage autour du monde avec le projet <b>« Tour du monde : les 5 continents »<b/>. L’occasion de faire du lien avec une multitude de domaines d’apprentissage ! Chaque période, nous découvrons un nouveau continent à travers la littérature, les arts visuels, des exposés sur les pays préparés par les élèves, mais aussi des écoutes musicales et des ateliers de cuisine. <br/>
+Cette année toute l’école embarque pour un voyage autour du monde avec le projet <b>« Tour du monde : les 5 continents »</b>. L’occasion de faire du lien avec une multitude de domaines d’apprentissage ! Chaque période, nous découvrons un nouveau continent à travers la littérature, les arts visuels, des exposés sur les pays préparés par les élèves, mais aussi des écoutes musicales et des ateliers de cuisine. <br/>
 
-L’école est également affiliée à l’<b>USEP<b/> (L’Union sportive de l’enseignement du premier degré) afin de participer à des rencontres sportives et de bénéficier de séances encadrées par des intervenants spécialisés (handball cette année). <br/>
+L’école est également affiliée à l’<b>USEP</b> (L’Union sportive de l’enseignement du premier degré) afin de participer à des rencontres sportives et de bénéficier de séances encadrées par des intervenants spécialisés (handball cette année). <br/>
 
-Nous faisons également des langues notre priorité : à partir du CE1, les élèves bénéficient d’une séance hebdomadaire d’<b>anglais<b/> en présence d’un intervenant anglophone, en renfort des rituels quotidiens.<br/>
+Nous faisons également des langues notre priorité : à partir du CE1, les élèves bénéficient d’une séance hebdomadaire d’<b>anglais</b> en présence d’un intervenant anglophone, en renfort des rituels quotidiens.<br/>
 
 L’équipe enseignante<br/>
 
