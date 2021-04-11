@@ -11,7 +11,7 @@ documents:
 
 
 ---
-D'ici peu nous aurons une nouvelle boulangerie dans le centre du village de Flaux!
+# D'ici peu nous aurons une nouvelle BOULANGERIE dans le centre du village de Flaux!
 
 {% assign sorted = (site.actualites | sort: 'date') | reverse %}
 <ul>
