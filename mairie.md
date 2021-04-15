@@ -27,7 +27,7 @@ E-mail : secretariat@mairie-flaux.fr<br/>
 Secrétaire de mairie: Kristel GOMIS
 
 ## Horaires de la mairie de Flaux en temps normaux!
-La mairie de Flaux est ouverte :<br/>
+La mairie de Flaux est ouverte au public :<br/>
 Le lundi  de 09h00 à 12h30<br/>
 Le jeudi  de 09h00 à 12h30<br/>
 
