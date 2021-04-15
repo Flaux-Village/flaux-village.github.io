@@ -3,7 +3,7 @@ layout: page
 titre: Actualités | Chats errants, réunion d'information Samedi 17 avril 2021 à 15h00
 description: Chats errants
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Chats errants: Réunion d'information Samedi 17 avril 2021 à 15h00
+titre_page: Chats errants, Réunion d'information Samedi 17 avril 2021 à 15h00
 section: À la une
 addresse_section: /actualites.html
 date_texte: 15 Avril 2021
