@@ -36,7 +36,7 @@ Le regroupement pédagogique intercommunal (RPI) regroupe les écoles de La Cape
 
 Les élèves du RPI sont répartis entre les quatre classes de ces 3 villages : La classe de La Capelle-et-Masmolène accueille les GS-MS, les 2 classes de Flaux les élèves de la GS au CE2 et celle de Saint-Victor-des-Oules les CM1-CM2. Selon les effectifs, la répartition des niveaux entre les 3 villages est amenée à varier.  Un service de bus spécialement réservé pour le RPI est mis en place pour accompagner les élèves à leur école. <br>
 
-Le collège de secteur est le collège Jean Louis Trintignant à Uzès. <br>
+Le collège de secteur est le collège [Jean Louis Trintignant à Uzès](https://jean-louis-trintignant.mon-ent-occitanie.fr/).<br>
 
 Grâce au RPI, les trois communes ont toujours une école qui fonctionne. Tellement important pour la vie d’un petit village ! Cette structure permet aux communes associées de regrouper les effectifs d'enfants à scolariser en constituant des classes homogènes à petit effectif et de les accueillir dans les meilleures conditions. La mise en commun des moyens et des équipements permet en effet d'offrir aux enfants des zones rurales des prestations de qualité équivalentes à celles des enfants des zones urbaines (service de garderie, cantine, équipement informatique, etc.)<br>
 
