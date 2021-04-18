@@ -6,8 +6,8 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Opération chats errants
 section: À la une
 addresse_section: /actualites.html
-date_texte: 18 Avril 2021
-date: 2021-04-18
+date_texte: 17 Avril 2021
+date: 2021-04-17
 
 description_illustration: 
 introduction: 
