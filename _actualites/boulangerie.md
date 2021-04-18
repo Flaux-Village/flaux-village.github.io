@@ -16,7 +16,7 @@ introduction:
 
 Rémy va travailler avec des matières locales, et bio, levain naturel fabriqué par ses soins, il fera différents pains, viennoiseries, pâtisseries, commandes pour les évènements festifs, et très prochainement mise en place des pizzas à emporter également bio et produits locaux.
 
-![Au château de Flaux, défibrillateur](/assets/illustrations/epiflutesfront.jpg){:class="img-responsive"}
+![Au château de Flaux, défibrillateur](/assets/illustrations/episfluteflyer.jpg){:class="img-responsive"}
 
 
 # [Suivez nous sur Facebook](https://www.facebook.com/EpisFlute/)
