@@ -9,10 +9,10 @@ onglets_principaux:
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
-- titre: Réhabilitation du lavoir du hameau des Auvis
-  addresse: /actualites/lavoir.html
-  illustration: /assets/illustrations/news/lavoirtravauxauvis-frontpage525-320.jpg
-  description_illustration: lavoir Auvis.
+- titre: Ouverture 23 Avril, Epis Flûte, Boulangerie Pâtisserie
+  addresse: /actualites/boulangerie.html
+  illustration: /assets/illustrations/epiflutesfront.jpg
+  description_illustration: Epis Flûte, Boulangerie Pâtisserie.
 - titre: Nos projets
   addresse: /projetfait.html
   illustration: /assets/illustrations/525_320_flauxecole_3617.jpg
