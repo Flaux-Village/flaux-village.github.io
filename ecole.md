@@ -92,12 +92,14 @@ Maître Stéphane André
 ## Petite Section et Moyenne Section Maternelle de La Capelle-et-Masmolène:
 
 ![bac à sable La Capelle-et-Masmolène](/assets/illustrations/PS-MS photo bac à sable.JPG){:class="img-responsive"}
-La cour de récréation: un nouveau bac à sable installé en complément des jeux déjà présents.
+La cour de récréation: un nouveau bac à sable installé en complément des jeux déjà présents.<br/>
+
 
 ![bibliothèque de la mairie](/assets/illustrations/PS-MS Photo Bibliothèque.JPG){:class="img-responsive"}
-Un projet autour du livre: Emprunt et lecture offerte à la bibliothèque de la mairie
+Un projet autour du livre: Emprunt et lecture offerte à la bibliothèque de la mairie<br/>
 
-![découverte nature La Capelle](/assets/illustrations/PS-MS Photo balade 1.JPG){:class="img-responsive"}
-![découverte nature La Capelle](/assets/illustrations/PS-MS Photo balade 2.JPG){:class="img-responsive"}
+
+![découverte nature La Capelle](/assets/illustrations/PS-MS Photo balade 1.JPG){:class="img-responsive"}<br/>
+![découverte nature La Capelle](/assets/illustrations/PS-MS Photo balade 2.JPG){:class="img-responsive"}<br/>
 Balades organisées pour découvrir la nature et le patrimoine autour de La Capelle.
 
