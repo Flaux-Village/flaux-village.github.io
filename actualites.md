@@ -13,8 +13,6 @@ documents:
 ---
 ## Le secrétariat sera FERMÉ du 19 au 23 avril 2021
 
-## D'ici peu nous aurons une nouvelle BOULANGERIE dans le centre de Flaux!
-
 {% assign sorted = (site.actualites | sort: 'date') | reverse %}
 <ul>
   {% for article in sorted %}
