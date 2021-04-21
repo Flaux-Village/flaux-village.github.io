@@ -23,6 +23,19 @@ Si votre activité est basée sur Flaux et que vous souhaitez être répertorié
 
 # [Chambres d'hôtes et Restaurant TOUT SIMPLEMENT](https://www.facebook.com/tsflaux/)
 
+DIMANCHE 25 AVRIL
+PAELLA
+13€ la portion
+
+DESSERT
+Tiramisu Fraises - Speculoos 4€
+
+A EMPORTER (11H30 - 13H00)
+
+Caveau Ouvert (nouvelles cuvées)
+Réservation 0466584209
+
+
 # [Le Blanc Murier](https://www.leblancmurier.fr/fr/)
 
 # [Clos de la Madone – Gîte et Chambres](https://closdelamadone.fr/)
