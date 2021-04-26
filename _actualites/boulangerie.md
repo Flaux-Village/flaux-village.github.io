@@ -3,7 +3,7 @@ layout: page
 titre: Actualités | Epis Flûte, Boulangerie Pâtisserie
 description: Boulangerie
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Boulangerie Pâtisserie, ouvert depuis 23 Avril 2021
+titre_page: Boulangerie Pâtisserie, ouverte depuis 23 Avril 2021
 section: À la une
 addresse_section: /actualites.html
 date_texte: 26 Avril 2021
