@@ -15,7 +15,7 @@ introduction:
 
 
 L’équipe municipale souhaiterait rassembler des souvenirs du passé de FLAUX afin de les diffuser en accès libre par l’intermédiaire du site Internet de la ville.<br>
-Denis Juvin nous a déjà conté l’histoire du « Bandit de Flaux » (accessible en ligne).<br>
+Denis Juvin nous a déjà conté l’histoire du « Bandit de Flaux » (rubrique Histoire du site).<br>
 Pourquoi ne pas partager d’autres souvenirs ?<br>
 Si vous êtes en possession d’anciennes photos du village, de cartes postales, de coupures de journaux, gravures, dessins, textes, récits, etc..., nous serions heureux de les faire partager et conserver ainsi une trace du passé du village.
 Confiez nous ces précieux documents que nous nous efforcerons de numériser avec votre autorisation avant de vous les restituer. D’avance, merci pour votre aimable collaboration.<br>
