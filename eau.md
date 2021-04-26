@@ -27,6 +27,12 @@ documents:
 - fiche: ARS
   date_texte: 5 juin 2020
   addresse: assets/documents/ars_eau.pdf
+- fiche: Avis de sécheresse - communiqué de presse
+  date_texte: 26 Avril 2021
+  addresse: assets/documents/communiqué de Presse.pdf
+- fiche: Avis de sécheresse - arrêté 30-2021 sécheresse
+  date_texte: 26 Avril 2021
+  addresse: assets/documents/arrêté 30-2021 sécheresse.pdf
 ---
 
 La production et la distribution de l’eau ainsi que la gestion des eaux usées sont en régie municipale.<br>
