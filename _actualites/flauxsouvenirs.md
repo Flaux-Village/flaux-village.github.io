@@ -13,7 +13,6 @@ description_illustration:
 introduction: 
 ---
 
-# APPEL À TÉMOINS...DU PASSÉ
 
 L’équipe municipale souhaiterait rassembler des souvenirs du passé de FLAUX afin de les diffuser en accès libre par l’intermédiaire du site Internet de la ville.<br>
 Denis Juvin nous a déjà conté l’histoire du « Bandit de Flaux » (accessible en ligne).<br>
