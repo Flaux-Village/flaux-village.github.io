@@ -37,3 +37,12 @@ Venez arpenter ce village avec son château du XIIIe siècle et son parc.
 L’église recèle de petits trésors. Dans le village ainsi que dans les hameaux, le petit patrimoine est présent partout: lavoir, croix, puits et fontaines, lavognes…
 
 Voici en lien l'histoire du bandit de Flaux, raccontée par Denis Juvin, notre Maire, à l'âge de 13 ans pour un devoir à l'école! 
+
+
+# APPEL À TÉMOINS...DU PASSÉ
+L’équipe municipale souhaiterait rassembler des souvenirs du passé de FLAUX afin de les diffuser en accès libre par l’intermédiaire du site Internet de la ville.<br>
+Denis Juvin nous a déjà conté l’histoire du « Bandit de Flaux » (accessible en ligne).<br>
+Pourquoi ne pas partager d’autres souvenirs ?<br>
+Si vous êtes en possession d’anciennes photos du village, de cartes postales, de coupures de journaux, gravures, dessins, textes, récits, etc..., nous serions heureux de les faire partager et conserver ainsi une trace du passé du village.
+Confiez nous ces précieux documents que nous nous efforcerons de numériser avec votre autorisation avant de vous les restituer. D’avance, merci pour votre aimable collaboration.<br>
+Contact : Secrétariat de la Mairie.
