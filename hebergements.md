@@ -23,15 +23,6 @@ Si votre activité est basée sur Flaux et que vous souhaitez être répertorié
 
 # [Chambres d'hôtes et Restaurant TOUT SIMPLEMENT](https://www.facebook.com/tsflaux/)
 
-DIMANCHE 25 AVRIL <br>
-PAELLA<br>
-13€ la portion<br>
-
-DESSERT<br>
-Tiramisu Fraises - Speculoos 4€<br>
-
-A EMPORTER (11H30 - 13H00)<br>
-
 Caveau Ouvert (nouvelles cuvées)<br>
 Réservation 04 66 58 42 09<br>
 
