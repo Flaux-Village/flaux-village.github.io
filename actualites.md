@@ -11,7 +11,6 @@ documents:
 
 
 ---
-## Le secrétariat sera FERMÉ du 19 au 23 avril 2021
 
 {% assign sorted = (site.actualites | sort: 'date') | reverse %}
 <ul>
