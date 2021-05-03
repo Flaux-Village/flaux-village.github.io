@@ -39,7 +39,7 @@ menu_secondaire:
 ### Les lundis de 16h à 18h30 <br> 
 ### Les mercredis de 10h à 12h30 <br> 
 
-Masque OBLIGATOIRE et GEL hydro-alcoolique à l’entrée de la mairie et à l’accueil de labibliothèque.<br> 
+<b>Masque OBLIGATOIRE et GEL hydro-alcoolique à l’entrée de la mairie et à l’accueil de labibliothèque.<b/><br> 
 
 Que vous habitiez le territoire de la CCPU ou non, avoir une carte du réseau, emprunter et réserver des documents, c'est simple et gratuit.<br> 
 La carte est utilisable sur l'ensemble du réseau. <br> 
