@@ -1,9 +1,9 @@
 ---
 layout: page
-titre: Actualités | Vendredi 7 Mai 2021, Service Public Itinérant, à la mairie de Flaux de 14H00 à 16h30
+titre: Actualités | Service Public Itinérant
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Service Public Itinérant
+titre_page: Vendredi 7 Mai 2021, Service Public Itinérant, à la mairie de Flaux de 14H00 à 16h30
 section: À la une
 addresse_section: /actualites.html
 date_texte: 03 May 2021
@@ -11,8 +11,8 @@ date: 2020-05-03
 illustration: 
 description_illustration: 
 introduction: 
-documents:
 
+documents:
 - fiche: Service Public Itinerant
   date_texte: 03 Mai 2021
   addresse: /assets/documents/servicepublicitinerant.pdf
