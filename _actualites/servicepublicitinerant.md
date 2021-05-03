@@ -21,6 +21,7 @@ documents:
 ---
 
 # Prochaine permanence Vendredi 7 Mai 2021 à la mairie de Flaux de 14H00 à 16h30
+
 Pour vous accompagner dans vos démarches administratives une permanence est assurée à Flaux tous les premiers vendredis de chaque mois de 14H00 à 16H30.<br/>
 Pour en savoir plus une note d'information à consulter.
 
