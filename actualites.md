@@ -13,8 +13,7 @@ documents:
 ---
 
 ## Réouverture de la BIBLIOTHEQUE, Mercredi 5 mai 2021 à 10h.
-### Masque OBLIGATOIRE
-### GEL hydro-alcoolique à l’entrée de la mairie et à l’accueil de la bibliothèque.
+### Masque OBLIGATOIRE, GEL hydro-alcoolique à l’entrée de la mairie et à l’accueil de la bibliothèque.
 
 {% assign sorted = (site.actualites | sort: 'date') | reverse %}
 <ul>
