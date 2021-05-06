@@ -1,13 +1,16 @@
 ---
 layout: page
 titre: Actualités | Recensement des bacs ordures ménagères
-description: Méthodologie
+description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Recensement des bacs ordures ménagères
+titre_page: Vendredi 7 Mai 2021, Service Public Itinérant, à la mairie de Flaux de 14H00 à 16h30
 section: À la une
 addresse_section: /actualites.html
 date_texte: 06 Mai 2021
 date: 2021-05-06
+illustration: 
+description_illustration: 
+introduction: 
 documents:
 - fiche: Methodologie pour usagers.jpg
   date_texte: 6 Avril 2021
@@ -17,7 +20,11 @@ documents:
   date_texte: 6 Avril 2021
   addresse: /assets/documents/methodologie_002.pdf
   type: pdf
+
+  
 ---
+
+
 
 # Dans le cadre de la modernisation des services du SICTOMU et dans l'objectif de réduction des déchets, tous les bacs mis à disposition sur le territoire devront être rattachés à un compte usager pour être collectés.<br>
 Les véhicules de collecte du SICTOMU sont aujourd'hui dotés d'un système d'identification des  bacs, des colonnes... permettant de les  géolocaliser et d'assurer le suivi des levées en les associant à  une adresse . Vous trouverez dans les prochains jours une information ( en PJ) dans vos boites aux lettres vous indiquant qu'une équipe d’agents “enquêteurs” de la société SCHAEFER va passer chez tous les habitants de Flaux à  partir du 3 mai et  jusqu’au 30 juin afin de :<br>
@@ -32,7 +39,26 @@ L’agent-enquêteur remettra aussi à l’usager un guide sur le tri et la réd
       
 
 
+## Communiqué:
+Mesdames, Messieurs, Bonjour<br>
+veuillez trouver ci-joint un document expliquant la procédure de recensement des bacs ordures ménagères.<br>
+Pour réaliser cette enquête, la société SCHAEFER propose de recruter localement des agents enquêteurs (au nombre de 6) à travers un CDI de 1 mois renouvelable (support en pièce jointe)
 
+ [Voici également un lien de notre vidéo explicative](https://youtu.be/T_JZjFn1GwQ)
+
+Vous pouvez également l’utiliser sur vos réseaux.<br>
+
+### Pour toutes questions sur cette procédure, Madame IVARS de la société Schaefer, responsable de l’enquête se tient à votre disposition : enquete332@gmail.com
+
+Cordialement.<br>
+
+Audrey MONDOLONI<br>
+
+Directrice Générale Adjointe<br>
+
+Relations Usagers et Prévention<br>
+
+Syndicat Intercommunal de Collecte et de Traitement des Ordures<br>
 
 
 
