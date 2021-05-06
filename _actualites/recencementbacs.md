@@ -47,9 +47,9 @@ Cordialement.<br>
 
 Audrey MONDOLONI<br>
 
-_Directrice Générale Adjointe _<br>
+Directrice Générale Adjointe<br>
 
-_Relations Usagers et Prévention_<br>
+Relations Usagers et Prévention<br>
 
 Syndicat Intercommunal de Collecte et de Traitement des Ordures<br>
 Ménagères de la région d’Uzès<br>
@@ -58,9 +58,7 @@ Quartier Bord Nègre - D3 bis - 30210 ARGILLIERS<br>
 
 Téléphone : 04 66 22 13 70<br>
 
- _www.sictomu.fr [1]_<br>
-
-De : Enquete 332 <enquete332<br>
+ [sictomu](www.sictomu.fr)
 
 
 
