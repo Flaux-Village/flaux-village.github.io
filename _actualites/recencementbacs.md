@@ -37,4 +37,24 @@ L’agent-enquêteur remettra aussi à l’usager un guide sur le tri et la réd
 # Vous serez  informés de la date du passage de l’enquêteur quelques jours avant celle-ci. A l’issue de cette enquête, seuls les bacs mis en place par le SICTOMU, équipés d’une puce et rattachés à un compte usager pourront être collectés. <br>      
       
 
+## Communiqué:
+Mesdames, Messieurs, Bonjour<br>
+veuillez trouver ci-joint un document expliquant la procédure de recensement des bacs ordures ménagères.<br>
+Pour réaliser cette enquête, la société SCHAEFER propose de recruter localement des agents enquêteurs (au nombre de 6) à travers un CDI de 1 mois renouvelable (support en pièce jointe)
+
+ [Voici également un lien de notre vidéo explicative](https://youtu.be/T_JZjFn1GwQ)
+
+Vous pouvez également l’utiliser sur vos réseaux.<br>
+
+### Pour toutes questions sur cette procédure, Madame IVARS de la société Schaefer, responsable de l’enquête se tient à votre disposition : enquete332@gmail.com
+
+Cordialement.<br>
+
+Audrey MONDOLONI<br>
+
+Directrice Générale Adjointe<br>
+
+Relations Usagers et Prévention<br>
+
+Syndicat Intercommunal de Collecte et de Traitement des Ordures<br>
 
