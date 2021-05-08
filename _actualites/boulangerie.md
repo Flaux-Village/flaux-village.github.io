@@ -19,7 +19,7 @@ Rémy va travailler avec des matières locales, et bio, levain naturel fabriqué
 Note: Pour le respect de tous, nous vous demandons de porter le masque à l'intérieur de notre jolie petite boulangerie comme nous le portons depuis hier, nous vous remercions de votre soutien! <br>
 Rémy et Suzy
 
-![Au château de Flaux, défibrillateur](/assets/illustrations/episfluteflyer.jpg){:class="img-responsive"}
+![episflute](/assets/illustrations/episfluteflyer.jpg){:class="img-responsive"}
 
 
 # [Suivez nous sur Facebook](https://www.facebook.com/EpisFlute/)
