@@ -1,4 +1,3 @@
-
 ---
 layout: page
 titre: Actualités | Panne pompe à eau
@@ -9,7 +8,6 @@ section: À la une
 addresse_section: /actualites.html
 date_texte: 08 Mai 2021
 date: 2021-05-08
-
 description_illustration: 
 introduction: 
 ---
