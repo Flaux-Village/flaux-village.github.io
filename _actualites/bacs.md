@@ -3,20 +3,17 @@ layout: page
 titre: Actualités | Recensement des bacs ordures ménagères
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Vendredi 7 Mai 2021, Service Public Itinérant, à la mairie de Flaux de 14H00 à 16h30
+titre_page: Recensement des bacs ordures ménagères
 section: À la une
 addresse_section: /actualites.html
 date_texte: 06 Mai 2021
 date: 2021-05-06
-illustration: 
-description_illustration: 
-introduction: 
 documents:
 - fiche: Methodologie pour usagers.jpg
   date_texte: 6 Avril 2021
   addresse: /assets/documents/Methodologie pour usagers.jpg
   type: pdf
-  - fiche: Methodologie pour usagers 2.jpg
+- fiche: Methodologie pour usagers 2.jpg
   date_texte: 6 Avril 2021
   addresse: /assets/documents/methodologie_002.pdf
   type: pdf
