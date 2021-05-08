@@ -38,7 +38,7 @@ Mesdames, Messieurs, Bonjour<br>
 veuillez trouver ci-joint un document expliquant la procédure de recensement des bacs ordures ménagères.<br>
 Pour réaliser cette enquête, la société SCHAEFER propose de recruter localement des agents enquêteurs (au nombre de 6) à travers un CDI de 1 mois renouvelable (support en pièce jointe)
 
- [Voici également un lien de notre vidéo explicative](https://youtu.be/T_JZjFn1GwQ)
+ [Voici également un lien de NOTRE VIDÉO explicative](https://youtu.be/T_JZjFn1GwQ)
 
 Vous pouvez également l’utiliser sur vos réseaux.<br>
 
