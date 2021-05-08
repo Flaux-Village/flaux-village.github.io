@@ -1,6 +1,6 @@
 ---
 layout: page
-titre: Actualités | Recensement des bacs ordures ménagères
+titre: Actualités | RECENSEMENT des BACS ORDURES ménagères!
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
 titre_page: Recensement des bacs ordures ménagères
