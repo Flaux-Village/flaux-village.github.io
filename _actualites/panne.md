@@ -3,7 +3,7 @@ layout: page
 titre: Actualités | Panne pompe à eau
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Panne pompe à eau
+titre_page: Panne pompe à eau, nous faisons le nécessaire le plus rapidement!
 section: À la une
 addresse_section: /actualites.html
 date_texte: 08 Mai 2021
