@@ -22,7 +22,7 @@ documents:
 # Dans le cadre de la modernisation des services du SICTOMU et dans l'objectif de réduction des déchets, tous les bacs mis à disposition sur le territoire devront être rattachés à un compte usager pour être collectés.<br>
 Les véhicules de collecte du SICTOMU sont aujourd'hui dotés d'un système d'identification des  bacs, des colonnes... permettant de les  géolocaliser et d'assurer le suivi des levées en les associant à  une adresse . Vous trouverez dans les prochains jours une information ( en PJ) dans vos boites aux lettres vous indiquant qu'une équipe d’agents “enquêteurs” de la société SCHAEFER va passer chez tous les habitants de Flaux à  partir du 3 mai et  jusqu’au 30 juin afin de :<br>
 
-- s'assurer que vous avez crée un  compte en ligne  ou retourné la  carte T jointe au flyer<br>                                                                   - de vérifier la conformité des bacs et leur signalétique, <br>
+- s'assurer que vous avez crée un  compte en ligne  ou retourné la  carte T jointe au flyer<br>                                                                   - de vérifier la conformité des bacs et leur signalétique <br>
 - d’adapter leur contenance (en fonction du nombre d’habitants par foyer notamment),<br> 
 - de vérifier l’état de ces matériels, <br>
 - d’informer les usagers sur la gestion des déchets. <br>
