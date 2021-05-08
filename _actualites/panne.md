@@ -16,7 +16,7 @@ Suite à  une grosse panne de pompe à notre forage, la distribution de l'eau se
 
 Nous faisons le nécessaire pour rétablir la distribution le plus rapidement possible.<br>
 
-merci de votre compréhension<br>
+Merci de votre compréhension<br>
 
 
 
