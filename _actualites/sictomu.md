@@ -1,9 +1,9 @@
 ---
 layout: page
 titre: Actualités | SICTOMU Jeudi 13 mai collecte maintenue
-description: 13 mai collecte est maintenue
+description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: 
+titre_page: Information SICTOMU Jeudi 13 mai Jour de l’Ascension
 section: À la une
 addresse_section: /actualites.html
 date_texte: 08 Mai 2021
@@ -15,7 +15,7 @@ introduction:
 
 
 
-# Information SICTOMU Jeudi 13 mai Jour de l’Ascension
+
 La collecte est maintenue<br>
 Les déchèteries seront fermées<br>
 
