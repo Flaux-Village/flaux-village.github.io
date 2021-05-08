@@ -1,9 +1,9 @@
 ---
 layout: page
-titre: Actualités | SICTOMU RECENSEMENT des BACS ORDURES ménagères!
+titre: Actualités | RECENSEMENT des BACS ORDURES ménagères!
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Recensement des bacs ordures ménagères
+titre_page: SICTOMU RECENSEMENT des BACS ORDURES ménagères!
 section: À la une
 addresse_section: /actualites.html
 date_texte: 06 Mai 2021
