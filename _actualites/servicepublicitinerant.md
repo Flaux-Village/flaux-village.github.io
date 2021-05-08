@@ -3,7 +3,7 @@ layout: page
 titre: Actualités | Service Public Itinérant
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Vendredi 7 Mai 2021, Service Public Itinérant, à la mairie de Flaux de 14H00 à 16h30
+titre_page: Tous les premiers vendredis de chaque mois, Service Public Itinérant
 section: À la une
 addresse_section: /actualites.html
 date_texte: 03 Mai 2021
@@ -16,13 +16,10 @@ documents:
   date_texte: 03 Mai 2021
   addresse: /assets/documents/servicepublicitinerant.pdf
   type: pdf
-
-  
 ---
 
-Prochain rendez-vous, le Vendredi 7 Mai 2021 à la mairie de Flaux de 14H00 à 16h30<br/>
-
-Pour vous accompagner dans vos démarches administratives une permanence est assurée à Flaux <b>tous les premiers vendredis de chaque mois</b> de 14H00 à 16H30.<br/>
+Pour vous accompagner dans vos démarches administratives une permanence est assurée à la mairie de Flaux tous les premiers vendredis de chaque mois</b> 
+de 14H00 à 16H30.<br/>
 Pour en savoir plus, une note d'information à consulter.
 
 
