@@ -3,7 +3,7 @@ layout: page
 titre: Actualités | 14 Mai, Permanance inscription sur listes électorales
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: La fibre dans notre village!
+titre_page: 14 Mai, Permanance inscription sur listes électorales
 section: À la une
 addresse_section: /actualites.html
 date_texte: 11 Mai 2021
