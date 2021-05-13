@@ -49,7 +49,7 @@ Instagram: alexandra.schuch <br>
 
 
 # Mickaël - Tous travaux d'espaces verts <br>
-Elagage, Abattage, Taille de haie, Débroussaillage et broyage des végétaux, travaux avec nacelle, pose de clôture, petite maçonnerie, agaencement de cours  <br>
+Elagage, Abattage, Taille de haie, Débroussaillage et broyage des végétaux, travaux avec nacelle, pose de clôture, petite maçonnerie, agencement de cours<br>
 
 +33 (0)6 26 49 12 43  <br>
 +33 (0)4 66 37 91 48  <br>
