@@ -12,4 +12,4 @@ date: 2021-05-17
 
 
 
-![Remerciment du maire](/assets/illustrations/2021 - 05.17 - remerciement panne eau 8 mai 2021.pdf){:class="img-responsive"}
+![Remerciment du maire](/assets/illustrations/202105.17remerciement panne eau 8 mai 2021.png){:class="img-responsive"}
