@@ -9,14 +9,14 @@ onglets_principaux:
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
+- titre: Service Public Itinérant, Vendredi 04 Juin de 14h00 à 16h30, à la mairie de Flaux
+  addresse: /servicepublicitinerant.html
+  illustration: /assets/flyer/spiFront.jpg
+  description_illustration: Service Public Itinérant.
 - titre: Epis Flûte, Boulangerie Pâtisserie, Pizzas à emporter les mercredis
   addresse: /actualites/boulangerie.html
   illustration: /assets/illustrations/Flyer Pizza front.jpg
   description_illustration: Epis Flûte, Boulangerie Pâtisserie.
-- titre: Nos projets
-  addresse: /projetfait.html
-  illustration: /assets/illustrations/525_320_flauxecole_3617.jpg
-  description_illustration: École de Flaux.
 articles_en_vedette:
 - titre: Où sommes-nous?
   addresse: https://www.google.com/maps/dir//Mairie,+7+Rue+de+la+Mairie,+30700+Flaux/@44.0126437,4.4763609,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x12b5b63c3159cc4b:0x9feb3ce2c7fcb932!2m2!1d4.504586!2d44.020724modestes_frontpageactussecondaires.png
