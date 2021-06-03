@@ -10,7 +10,7 @@ onglets_principaux:
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
 - titre: Service Public Itinérant, Vendredi 04 Juin de 14h00 à 16h30, à la mairie de Flaux
-  addresse: /servicepublicitinerant.html
+  addresse: /actualites/servicepublicitinerant.html
   illustration: /assets/flyer/spiFront.jpg
   description_illustration: Service Public Itinérant.
 - titre: Epis Flûte, Boulangerie Pâtisserie, Pizzas à emporter les mercredis
