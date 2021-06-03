@@ -9,9 +9,9 @@ onglets_principaux:
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
-- titre: Ouverture 23 Avril, Epis Flûte, Boulangerie Pâtisserie
+- titre: Epis Flûte, Boulangerie Pâtisserie, Pizzas à emporter les mercredis
   addresse: /actualites/boulangerie.html
-  illustration: /assets/illustrations/epiflutesfront.jpg
+  illustration: /assets/illustrations/Flyer Pizza front.jpg
   description_illustration: Epis Flûte, Boulangerie Pâtisserie.
 - titre: Nos projets
   addresse: /projetfait.html
