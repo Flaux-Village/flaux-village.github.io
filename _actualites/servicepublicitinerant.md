@@ -23,5 +23,5 @@ de 14H00 à 16H30.<br>
 
 Pour en savoir plus, une note d'information à consulter.<br>
 
-Prochaine permanence à Flaux, Vendredi 04 Juin de 14h00 à 16h30 
+Prochaine permanence à Flaux, vendredi 04 Juin de 14h00 à 16h30 
 
