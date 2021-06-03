@@ -24,7 +24,7 @@ Vous pourrez y acheter le Républicain chaque semaine
 
 # Pizza les mercredis soir <br>
 
-![episflute](/assets/flyer/Flyer Pizza recto (1).pdf){:class="img-responsive"}
-![episflute](/assets/flyer/Flyer Pizza verso (1).pdf){:class="img-responsive"}
+![episflute](/assets/flyer/Flyer Pizza recto.jpg){:class="img-responsive"}
+![episflute](/assets/flyer/Flyer Pizza verso.jpg){:class="img-responsive"}
 
 # [Suivez nous sur Facebook](https://www.facebook.com/EpisFlute/)
