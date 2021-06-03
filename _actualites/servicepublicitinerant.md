@@ -3,7 +3,7 @@ layout: page
 titre: Actualités | Service Public Itinérant
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Service Public Itinérant, Vendredi 04 Juin de 14h00 à 16h30
+titre_page: Service Public Itinérant, vendredi 04 Juin de 14h00 à 16h30
 section: À la une
 addresse_section: /actualites.html
 date_texte: 02 Juin 2021
