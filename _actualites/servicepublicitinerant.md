@@ -20,6 +20,8 @@ documents:
 
 Pour vous accompagner dans vos démarches administratives une permanence est assurée à la mairie de Flaux tous les premiers vendredis de chaque mois 
 de 14H00 à 16H30.<br>
-Pour en savoir plus, une note d'information à consulter.
+
+Pour en savoir plus, une note d'information à consulter.<br>
+
 Prochaine permanence à Flaux, Vendredi 04 Juin de 14h00 à 16h30 
 
