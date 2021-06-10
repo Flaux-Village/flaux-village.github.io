@@ -9,10 +9,10 @@ onglets_principaux:
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
-- titre: Service Public Itinérant, vendredi 04 Juin de 14h00 à 16h30, à la mairie de Flaux
-  addresse: /actualites/servicepublicitinerant.html
-  illustration: /assets/flyer/spiFront.jpg
-  description_illustration: Service Public Itinérant.
+- titre: Sictomu, 2 collectes par semaine!
+  addresse: /actualites/collectesete.html
+  illustration: /assets/flyer/2021 - sictomu-collecte-ete-front.jpg
+  description_illustration: Sictomu collectes été.
 - titre: Epis Flûte, Boulangerie Pâtisserie, Pizzas à emporter les mercredis
   addresse: /actualites/boulangerie.html
   illustration: /assets/illustrations/Flyer Pizza front.jpg
