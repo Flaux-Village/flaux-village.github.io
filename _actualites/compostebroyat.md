@@ -1,9 +1,9 @@
 ---
 layout: page
-titre: Actualités | Inscriptions aux transports scolaires, 14 Juin au 31 Juillet 2021
+titre: Actualités | Mise à disposition de compost et broyat
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Inscriptions aux transports scolaires, 14 Juin au 31 Juillet 2021
+titre_page: Mise à disposition de compost et broyat
 section: À la une
 addresse_section: /actualites.html
 date_texte: 10 Juin 2021
