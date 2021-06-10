@@ -15,7 +15,7 @@ onglets_principaux:
   description_illustration: Sictomu collectes été.
 - titre: Mercredi 23 Juin matin, portes ouvertes jeunes!
   addresse: /actualites/portesouvertesjeunes.html
-  illustration: /assets/flyere/EEE_portes-ouvertes-jeunes_A3_Front.png
+  illustration: /assets/flyer/EEE_portes-ouvertes-jeunes_A3_Front.png
   description_illustration: portes ouvertes jeunes.
 articles_en_vedette:
 - titre: Où sommes-nous?
