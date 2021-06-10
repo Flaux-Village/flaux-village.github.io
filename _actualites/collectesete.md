@@ -12,4 +12,4 @@ date: 2021-06-10
 
 
 
-![Remerciment du maire](/assets/flyer/C2 2021 - sictomu-collectes-ete.jpg){:class="img-responsive"}
+![Remerciment du maire](/assets/flyer/C2 2021 - sictomu-collectes-ete.png){:class="img-responsive"}
