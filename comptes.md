@@ -12,6 +12,10 @@ documents:
   date_texte: 11 Mars 2021
   addresse: /assets/documents/comptesrendus/compte rendu du 11 mars 2021.pdf
   type: pdf
+- fiche: Compte rendu séance du 31 Mars 2021
+  date_texte: 31 Mars 2021
+  addresse: /assets/documents/comptesrendus/COMPTE RENDU DU 31 MARS 2021.pdf
+  type: pdf
 
   
 menu_secondaire:
