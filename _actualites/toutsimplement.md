@@ -3,7 +3,7 @@ layout: page
 titre: Actualités | Tout Simplement, Tout l'été... Mardi soir PAELLA, Mercredi au Samedi soir TAPAS
 description: Site de Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Tout Simplement, Tout l'été... Mardi soir PAELLA, Mercredi au Samedi soir TAPAS
+titre_page: Tout Simplement, Tout l'été... Mardi soir PAELLA (sur place et à emporter), Mercredi au Samedi soir TAPAS (sur
 section: À la une
 addresse_section: /actualites.html
 date_texte: 18 Juin 2021
