@@ -4,7 +4,7 @@ titre: La mairie | Projets réalisés et en cours
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Projets réalisés et en cours
-date_texte: 6 Avril 2021
+date_texte: 18 Juin 2021
 illustration: /assets/images/equipenaturellement2.png
 description_illustration: Flaux.
 introduction: 
@@ -50,6 +50,16 @@ Par ailleurs 2 panneaux "30" ont été installés sur le chemin du Seryonel afi
 
 ![stop devant l'école](/assets/illustrations/news/stopecole-home-525x320.png){:class="img-responsive"} <br>
 
+# Sécurité routière 
+Aux Auvis, installation des panneaux "Les Auvis-commune de Flaux" par le conseil départemental ce qui a réduit la vitesse de 70km/h à 50km/h.
+
+# Chemin de Pouzilhac - aménagé en chemin de liaison 
+Le fossé a été nettoyé pour permettre le passage des piétons, d’autres aménagements sont à l’étude.
+
+# Convention pour la capture des chats en vue de leur stérilisation
+La mairie vous informe qu'une stérilisation des chats va être mise en place afin de gérer la prolifération de cette population souvent livrée à elle-même pour diverses raisons. La règlementation nous impose désormais de ne plus fermer les yeux sur cette problématique et d'ignorer ce triste constat. Grâce à l'aide et la compétence de l'association CHAVAMIEUX de St Quentin La Poterie, nous allons pouvoir concrétiser cette action, les chats errants vont donc être stérilisés et identifiés progressivement. Cela a évidemment un coût et la mairie a consenti un budget pour cette année en vue de commencer la stérilisation des chats et chattes. Cette campagne commencera donc au plus tôt et nous vous remercions d'être vigilants pour vos chats qui ne sont pas identifiés (nous vous rappelons que l'identification est désormais obligatoire pour les chats de compagnie).
+
+
 # Station d'épuration 
 Révision du contrat avec Aliance, notre prestataire de maintenance prévoyant une prestation de mesure tous les 2 mois. 21M3 de boue ont été évacués, l’objectif est de répondre aux normes d’oxygénation de l’eau rejetée.
 
@@ -60,6 +70,7 @@ Ces luminaires, sont programmés afin de diminuer l’intensité lumineuse de 50
 L’autre moitié du parc est déjà équipée de lampes à faible consommation d’énergie.<br>
 D’autre part, nous avons confié nos contrats d’éclairage public au SMEG (Syndicat Mixte d’Électrification du Gard) qui négocie un contrat de groupe afin de minimiser les couts pour la commune.<br>
 Avec l’ensemble de ces mesures nous progressons dans nos  économies d’énergie et la diminution de la pollution visuelle.<br>
+
 
 # Usage de l'eau l'été 
 Campagne de sensibilisation, invitant à la consommation modérée.
@@ -92,13 +103,6 @@ L'installation de la fibre est en cours dans le village. Les usagers pourront de
 # Rénovation du lavoir des Auvis
 Nous sommes ravis d'annoncer que nous nous engageons à réhabiliter le lavoir en le remettant en eau. Cet ouvrage fait partie du « petit patrimoine » de l’ Uzège dans la période de la fin du XIXe siècle, bien qu ‘il ne soit pas inscrit à l’inventaire des monuments historiques.
 
-# Chemin de Pouzilhac - aménagé en chemin de liaison 
-Le fossé a été nettoyé pour permettre le passage des piétons, d’autres aménagements sont à l’étude.
-
-# Sécurité routière - en cours
-Aux Auvis, prochainement installation des panneaux "Les Auvis-commune de Flaux" par le conseil départemental ce qui réduira la vitesse de 70km/h à 50km/h.
 
 
-# Convention pour la capture des chats en vue de leur stérilisation
-La mairie vous informe qu'une stérilisation des chats va être mise en place afin de gérer la prolifération de cette population souvent livrée à elle-même pour diverses raisons. La règlementation nous impose désormais de ne plus fermer les yeux sur cette problématique et d'ignorer ce triste constat. Grâce à l'aide et la compétence de l'association CHAVAMIEUX de St Quentin La Poterie, nous allons pouvoir concrétiser cette action, les chats errants vont donc être stérilisés et identifiés progressivement. Cela a évidemment un coût et la mairie a consenti un budget pour cette année en vue de commencer la stérilisation des chats et chattes. Cette campagne commencera donc au plus tôt et nous vous remercions d'être vigilants pour vos chats qui ne sont pas identifiés (nous vous rappelons que l'identification est désormais obligatoire pour les chats de compagnie).
 
