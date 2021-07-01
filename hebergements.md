@@ -28,6 +28,8 @@ Réservation 04 66 58 42 09<br>
 
 
 ![toutsimplement](/assets/illustrations/tapas2021small.png){:class="img-responsive"}
+![toutsimplement](/assets/illustrations/tapaschambre2021small.png){:class="img-responsive"}
+
 
 # [Le Blanc Murier](https://www.leblancmurier.fr/fr/)
 
