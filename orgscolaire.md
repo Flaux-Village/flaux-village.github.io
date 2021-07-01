@@ -88,7 +88,7 @@ Muriel NIGGEL,  Bernard CANAL, Séverine DAROCHA, Yannick PESIN, Patrica MICHOT,
 
 ## Mot du S.I.R.P.<br>
 En lien le dossier d'accueil pour la rentrée de septembre 2021.<br>
-Pour les nouveaux élèves je vous enverrez ( courant du mois d'août) un lien afin de pouvoir créer votre compte en ligne pour la réservation de la cantine
+Pour les nouveaux élèves je vous enverrai ( courant du mois d'août) un lien afin de pouvoir créer votre compte en ligne pour la réservation de la cantine
 Le secrétariat sera fermé du 07/07/2021 au 06/08/2021.<br>
 Pour tous renseignements complémentaires je serai à votre disposition :<br>
 le lundi mardi jeudi et vendredi de 8h à 12h à compter du Lundi 09 Aout 2021 au secrétariat du SIRP et par téléphone au 04.66.37.27.47<br>
