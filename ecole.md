@@ -10,7 +10,7 @@ description_illustration: Lanternes Chinoises faites par les enfants de l'école
 menu_secondaire:
 - titre: Notre école
   addresse: /ecole.html
-- titre: Année scolaire 2020/2021
+- titre: Année scolaire 2021/2022
   addresse: /orgscolaire.html
    
 documents:
@@ -51,7 +51,7 @@ Les enfants sont sous votre responsabilité avant l’ouverture de l’école et
 Nous avons aussi une APE de Flaux, St Victor des Oules, La Capelle et Masmolène
 
 
-# Au programme à l’école de Flaux, GS au CE2:
+# Au programme 2020/2021 à l’école de Flaux, GS au CE2:
 
 Cette année toute l’école embarque pour un voyage autour du monde avec le projet <b>« Tour du monde : les 5 continents »</b>. L’occasion de faire du lien avec une multitude de domaines d’apprentissage ! Chaque période, nous découvrons un nouveau continent à travers la littérature, les arts visuels, des exposés sur les pays préparés par les élèves, mais aussi des écoutes musicales et des ateliers de cuisine. <br/>
 
@@ -62,7 +62,7 @@ Nous faisons également des langues notre priorité : à partir du CE1, les él
 L’équipe enseignante<br/>
 
 
-# En programme à St Victor des Oules qui accueille les CM1 et CM2:
+# En programme 2020/2021 à St Victor des Oules qui accueille les CM1 et CM2:
 
 Nous travaillons sur un projet sur le thème des Odonates dont voici les
 détails:<br/>
@@ -89,7 +89,7 @@ film d'animation.<br/>
 
 Maître Stéphane André
 
-## Petite Section et Moyenne Section Maternelle de La Capelle-et-Masmolène:
+## Petite Section et Moyenne Section Maternelle de La Capelle-et-Masmolène 2020/2021:
 
 ![bac à sable La Capelle-et-Masmolène](/assets/illustrations/PS-MS photo bac à sable.JPG){:class="img-responsive"}
 La cour de récréation: un nouveau bac à sable installé en complément des jeux déjà présents.<br/>
