@@ -13,10 +13,10 @@ onglets_principaux:
   addresse: /actualites/collectesete.html
   illustration: /assets/flyer/2021 - sictomu-collecte-ete-front.jpg
   description_illustration: Sictomu collectes été.
-- titre: Mercredi 23 Juin matin, portes ouvertes jeunes!
-  addresse: /actualites/portesouvertesjeunes.html
-  illustration: /assets/flyer/EEE_portes-ouvertes-jeunes_A3_Front.png
-  description_illustration: portes ouvertes jeunes.
+- titre: Fête Nationale du 14 Juillet
+  addresse: 
+  illustration: /assets/flyer/14Juillet21.jpg
+  description_illustration: 14 Juillet Flaux
 articles_en_vedette:
 - titre: Où sommes-nous?
   addresse: https://www.google.com/maps/dir//Mairie,+7+Rue+de+la+Mairie,+30700+Flaux/@44.0126437,4.4763609,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x12b5b63c3159cc4b:0x9feb3ce2c7fcb932!2m2!1d4.504586!2d44.020724modestes_frontpageactussecondaires.png
