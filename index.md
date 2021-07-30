@@ -5,7 +5,8 @@ description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Bienvenue à Flaux
 onglets_principaux:
-- titre: La mairie 
+- titre: La mairie<br/> Le secrétariat sera fermé du 2 août au 20 août 2021(inclus)<br/>
+  Une permanence sera assurée les lundis et jeudis de 10h à 12h<br/>
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
