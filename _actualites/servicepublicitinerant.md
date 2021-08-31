@@ -3,7 +3,7 @@ layout: page
 titre: Actualités | Service Public Itinérant
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Service Public Itinérant, vendredi 09 Juillet de 14h00 à 16h30
+titre_page: Service Public Itinérant
 section: À la une
 addresse_section: /actualites.html
 date_texte: 10 Juin 2021
@@ -23,5 +23,4 @@ de 14H00 à 16H30.<br>
 
 Pour en savoir plus, une note d'information à consulter.<br>
 
-Prochaine permanence à Flaux, vendredi 09 Juillet de 14h00 à 16h30 
 
