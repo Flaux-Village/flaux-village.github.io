@@ -5,14 +5,14 @@ description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Bienvenue à Flaux
 onglets_principaux:
-- titre: URGENT Coupure d'eau, recherche de fuite Mercredi 1er Septembre à partir de 13h15
+- titre: URGENT Coupure d'eau
   illustration: /assets/images/Screenshot from 2021-09-01 13-41-36.png
   description_illustration: Coupure d'eau
 - titre: La mairie
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
-- titre: Notre écolea
+- titre: Notre école
   addresse: /ecole.html
   illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
   description_illustration: école de Flaux
