@@ -13,10 +13,10 @@ onglets_principaux:
   addresse: /ecole.html
   illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
   description_illustration: école de Flaux
-- titre: Hébergement et restauration
-  addresse: /hebergements.html
-  illustration: /assets/illustrations/525_320_flauxtapas_3622.jpg
-  description_illustration: hebergement
+- titre: Livres en balade, Flaux le 25 Septembre, de 10h à 12h dans la cour de la mairie!
+  addresse: /assets/flyer/Affiche_Livresenbalade_2021_OK.pdf
+  illustration: /assets/flyer/Livreshome2021.png
+  description_illustration: livres en balade
 
 articles_en_vedette:
 - titre: Où sommes-nous?
