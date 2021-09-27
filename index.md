@@ -5,18 +5,20 @@ description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Bienvenue à Flaux
 onglets_principaux:
+
+- titre: Service Public Itinérant
+  addresse: /assets/flyer/FLAUX Octobre2021-Servicepublicitinerant.pdf
+  illustration: /assets/flyer/Screenshot from 2021-09-27 11-06-26.png
+  description_illustration: Service public itinérant
 - titre: La mairie
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
-- titre: Notre écolea
+- titre: Notre école
   addresse: /ecole.html
   illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
   description_illustration: école de Flaux
-- titre: Hébergement et restauration
-  addresse: /hebergements.html
-  illustration: /assets/illustrations/525_320_flauxtapas_3622.jpg
-  description_illustration: hebergement
+
 
 
 articles_en_vedette:
