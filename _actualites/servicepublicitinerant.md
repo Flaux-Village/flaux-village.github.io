@@ -14,7 +14,7 @@ introduction:
 documents:
 - fiche: Service Public Itinerant
   date_texte: 03 Mai 2021
-  addresse: /assets/documents/servicepublicitinerant.pdf
+  addresse: /assets/flyer/FLAUX Octobre2021-Servicepublicitinerant.pdf
   type: pdf
 ---
 
@@ -24,3 +24,4 @@ de 14H00 à 16H30.<br>
 Pour en savoir plus, une note d'information à consulter.<br>
 
 
+prochainement à Flaux le VENDREDI 8 OCTOBRE DE 14H00 À 16H30
