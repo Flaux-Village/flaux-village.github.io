@@ -8,7 +8,7 @@ onglets_principaux:
 
 - titre: Service Public Itinérant
   addresse: /assets/flyer/FLAUX Octobre2021-Servicepublicitinerant.pdf
-  illustration: /assets/flyer/Screenshot from 2021-09-27 11-06-26.png
+  illustration: /assets/flyer/Screenshot from 2021-09-27 11-26-32.png
   description_illustration: Service public itinérant
 - titre: La mairie
   addresse: /mairie.html
