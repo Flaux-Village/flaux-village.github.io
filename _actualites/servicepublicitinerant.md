@@ -6,14 +6,14 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Service Public Itinérant
 section: À la une
 addresse_section: /actualites.html
-date_texte: 10 Juin 2021
-date: 2021-06-10
+date_texte: 27 Septembre 2021
+date: 2021-09-27
 illustration: 
 description_illustration: 
 introduction: 
 documents:
 - fiche: Service Public Itinerant
-  date_texte: 03 Mai 2021
+  date_texte: 27 Septembre 2021
   addresse: /assets/flyer/FLAUX Octobre2021-Servicepublicitinerant.pdf
   type: pdf
 ---
