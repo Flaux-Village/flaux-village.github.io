@@ -8,6 +8,10 @@ illustration: /assets/illustrations/archives_landscape980.JPG
 description_illustration: Mairie de Flaux.
 documents:
 
+- fiche: Compte rendu séance du 16 Juin 2021
+  date_texte: 1 Octobre 2021
+  addresse: /assets/documents/comptesrendus/compte rendu 16 juin.pdf
+  type: pdf
 - fiche: Compte rendu séance du 19 Mai 2021
   date_texte: 19 Mai 2021
   addresse: /assets/documents/comptesrendus/20210519 - compte rendu 19 Mai 2021.pdf
