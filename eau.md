@@ -21,6 +21,13 @@ menu_secondaire:
   addresse: /csi.html
   
 documents:
+
+- fiche: ARS
+  date_texte: 1 juin 2021
+  addresse: assets/documents/ars 2020.pdf
+- fiche: ARRÊTÉ N° 30-2021-09-30-00002
+  date_texte: 30 Septembre 2021
+  addresse: assets/documents/ART_20210930_restric_sech_num_int.pdf
 - fiche: Flyer Eau
   date_texte: 5 juin 2020
   addresse: assets/flyer/FLYEReau202007.pdf
