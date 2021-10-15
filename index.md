@@ -6,18 +6,18 @@ keywords: mairie, commune, flaux, gard
 titre_page: Bienvenue à Flaux
 onglets_principaux:
 
+- titre: Le mois de la peur à la bibliothèque de Flaux
+  addresse: /actualites/bibliothequehalloween.html
+  illustration: /assets/flyer/bibliothequehalloweenfront_2021.png
+  description_illustration: Flyer bibliothèque
+- titre: Vallabrix 4 Novembre compost et broyat
+  addresse: /actualites/broyat2021.html
+  illustration: /assets/flyer/broyatfront_2021.png
+  description_illustration: broyat
 - titre: La mairie
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
-  description_illustration: La Mairie de Flaux.
-- titre: Notre école
-  addresse: /ecole.html
-  illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
-  description_illustration: école de Flaux
-- titre: Hébergement et restauration
-  addresse: /hebergements.html
-  illustration: /assets/illustrations/525_320_flauxtapas_3622.jpg
-  description_illustration: hebergement
+  description_illustration: La Mairie de Flaux
 
 
 articles_en_vedette:
