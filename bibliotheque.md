@@ -33,14 +33,14 @@ menu_secondaire:
 ## La bibliothèque de flaux fait partie du <a href="https://www.mediatheques.ccpaysduzes.fr/bibliotheques">réseau bibliothèques pays d'Uzès, portail à disposition pour connaître toutes les resources du réseau.</a>  <br> 
 <img src="assets/images/bibliotheque.png" alt="réseau bibliothèques pays d'Uzès" width="336" height="140">
 
-# Réouverture de la BIBLIOTHEQUE Mercredi 5 mai 2021 à 10h <br> 
-
-# Horaires habituels
+# La bibliothèque est ouverte:
  
 ### Les lundis de 16h à 18h30 <br> 
 ### Les mercredis de 10h à 12h30 <br> 
 
-<b>Masque OBLIGATOIRE et GEL hydro-alcoolique à l’entrée de la mairie et à l’accueil de labibliothèque.</b><br> 
+# Pendant les vacances scolaires la bibliothèque est ouverte <br> 
+
+<b>Masque OBLIGATOIRE et GEL hydro-alcoolique à l’entrée de la mairie et à l’accueil de labibliothèque. Le pass sanitaire est obligatoire à l’entrée de la bibliothèque.</b><br> 
 
 Que vous habitiez le territoire de la CCPU ou non, avoir une carte du réseau, emprunter et réserver des documents, c'est simple et gratuit.<br> 
 La carte est utilisable sur l'ensemble du réseau. <br> 
