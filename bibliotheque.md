@@ -26,6 +26,7 @@ menu_secondaire:
 # Située aux 2°étage de la mairie (ascenseur)
 
 ### Mail : bibliotheque@mairie-flaux.fr <br> 
+### Téléphone:  04.66.58.59.51 <br>
 ### Responsable bénévole : Sylvie Parent <br> 
 ### Responsable élue : Catherine Vinas <br> 
 
