@@ -6,10 +6,10 @@ keywords: mairie, commune, flaux, gard
 titre_page: Bienvenue à Flaux
 onglets_principaux:
 
-- titre: Le mois de la peur à la bibliothèque de Flaux
-  addresse: /actualites/bibliothequehalloween.html
-  illustration: /assets/flyer/bibliothequehalloweenfront_2021.png
-  description_illustration: Flyer bibliothèque
+- titre: Collecte des Encombrants
+  addresse: /actualites/encombrants.html
+  illustration: /assets/flyer/Screenshot from 2021-10-20 11-03-55.png
+  description_illustration: encombrants
 - titre: Vallabrix 4 Novembre compost et broyat
   addresse: /actualites/broyat2021.html
   illustration: /assets/flyer/broyatfront_2021.png
