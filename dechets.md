@@ -4,7 +4,7 @@ titre: Accueil | Le tri des déchets - SICTOMU
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Le tri des déchets - SICTOMU
-date_texte: 1 juin 2020
+date_texte: 20 Octobre 2021
 illustration: /assets/illustrations/dechetterie-banner.jpg
 description_illustration: Colonne de tri de Flaux.
 
@@ -21,6 +21,10 @@ menu_secondaire:
   addresse: /csi.html
   
 documents:
+- fiche: Information de la mise en place de collecte des encombrants
+  date_texte: 20 Octobre 2021
+  addresse: /assets/flyer/2021 - 10.18 - Information de la mise en place de collecte des encombrants.pdf
+  type: pdf
 - fiche: Affiche
   date_texte: 5 juin 2020
   addresse: assets/images/lafarlede-depots-sauvage.png
