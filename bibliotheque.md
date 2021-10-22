@@ -8,6 +8,11 @@ date_texte: 1 juin 2020
 illustration: /assets/illustrations/bibliotheque2landscape-980.JPG
 description_illustration: La Mairie de Flaux.
 
+documents:
+- fiche: Livres en balade
+  date_texte: 22 Octobre 2021
+  addresse: /assets/documents/MAIRIE DE FLAUX_20211022_120301.png
+
 menu_secondaire:
 - titre: Le tri des déchets - SICTOMU
   addresse: /dechets.html
@@ -53,6 +58,5 @@ La carte est utilisable sur l'ensemble du réseau. <br>
 Vous pouvez prolonger la durée de prêt pour quatre semaines supplémentaires (sauf nouveautés et documents réservés par un autre usager).<br> 
 
 
-![Lecture](/assets/documents/MAIRIE DE FLAUX_20211022_120301.png){:class="img-responsive"}
 
 
