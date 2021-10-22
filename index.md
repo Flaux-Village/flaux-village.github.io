@@ -7,8 +7,8 @@ titre_page: Bienvenue à Flaux
 onglets_principaux:
 
 - titre: Animations
-  addresse: /animations.html
-  illustration: /assets/illustrations/Screenshot from 2021-10-22 11-33-40.png
+  addresse: /actualites/animations.html
+  illustration: /assets/flyer/Screenshot from 2021-10-22 11-33-40.png
   description_illustration: animations
 - titre: Collecte des Encombrants
   addresse: /actualites/encombrants.html
