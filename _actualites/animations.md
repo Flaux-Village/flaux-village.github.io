@@ -13,3 +13,8 @@ introduction:
 
 
 ![Animations Flaux](/assets/flyer/Screenshot from 2021-10-22 11-33-40.png){:class="img-responsive"}
+
+![Lecture](/assets/documents/MAIRIE DE FLAUX_20211022_120301.png){:class="img-responsive"}
+
+
+
