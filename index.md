@@ -6,6 +6,10 @@ keywords: mairie, commune, flaux, gard
 titre_page: Bienvenue à Flaux
 onglets_principaux:
 
+- titre: Animations
+  addresse: /animations.html
+  illustration: /assets/illustrations/Screenshot from 2021-10-22 11-33-40.png
+  description_illustration: animations
 - titre: Collecte des Encombrants
   addresse: /actualites/encombrants.html
   illustration: /assets/flyer/Screenshot from 2021-10-20 11-03-55.png
@@ -14,10 +18,7 @@ onglets_principaux:
   addresse: /actualites/broyat2021.html
   illustration: /assets/flyer/broyatfront_2021.png
   description_illustration: broyat
-- titre: La mairie
-  addresse: /mairie.html
-  illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
-  description_illustration: La Mairie de Flaux
+
 
 
 articles_en_vedette:
