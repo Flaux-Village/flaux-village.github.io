@@ -13,9 +13,9 @@ onglets_principaux:
   addresse: /actualites/ludotheque.html
   illustration: /assets/flyer/Ludothèque - Flaux.png
   description_illustration: Ludothèque
-- titre: Collecte des Encombrants
-  addresse: /actualites/encombrants.html
-  illustration: /assets/flyer/Screenshot from 2021-10-20 11-03-55.png
+- titre: Collecte du 11 Novembre est maintenue
+  addresse: /actualites/collecteonzenov.html
+  illustration: /assets/flyer/2018 -10.24 - collecte 1er novembre.png
   description_illustration: encombrants
 - titre: Vallabrix 4 Novembre compost et broyat
   addresse: /actualites/broyat2021.html
