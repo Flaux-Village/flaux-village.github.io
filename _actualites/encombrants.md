@@ -1,6 +1,6 @@
 ---
 layout: page
-titre: Actualités | Collecte des Encombrants
+titre: Actualités | Collecte des Encombrants, procédure
 description: Collecte des Encombrants
 keywords: mairie, commune, flaux, gard, actualités
 titre_page: Collecte des Encombrants
