@@ -6,13 +6,13 @@ keywords: mairie, commune, flaux, gard
 titre_page: Bienvenue à Flaux
 onglets_principaux:
 
-- titre: Animations
-  addresse: /actualites/animations.html
-  illustration: /assets/flyer/Screenshot from 2021-10-22 11-33-40.png
 - titre: Ludothèque, Mercredi 3 Novembre à Flaux
   addresse: /actualites/ludotheque.html
   illustration: /assets/flyer/Ludothèque - Flaux.png
   description_illustration: Ludothèque
+- titre: Animations
+  addresse: /actualites/animations.html
+  illustration: /assets/flyer/Screenshot from 2021-10-22 11-33-40.png
 - titre: Collecte du 11 Novembre est maintenue
   addresse: /actualites/collecteonzenov.html
   illustration: /assets/flyer/2018 -10.24 - collecte 1er novembre.png
