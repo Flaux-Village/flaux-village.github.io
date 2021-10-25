@@ -17,6 +17,6 @@ documents:
 ---
 
 
+![Collecte encombrants](/assets/flyer/Screenshot from 2021-10-20 11-03-55.png){:class="img-responsive"} 
 
-
-![Vallabrix 4 Novembre compost et broyat](/assets/flyer/affiche encombrants.png){:class="img-responsive"}
+![Collecte encombrants](/assets/flyer/affiche encombrants.png){:class="img-responsive"}
