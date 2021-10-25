@@ -9,7 +9,10 @@ onglets_principaux:
 - titre: Animations
   addresse: /actualites/animations.html
   illustration: /assets/flyer/Screenshot from 2021-10-22 11-33-40.png
-  description_illustration: animations
+- titre: Ludothèque, Mercredi 3 Novembre à Flaux
+  addresse: /actualites/ludotheque.html
+  illustration: /assets/flyer/Ludothèque - Flaux.png
+  description_illustration: Ludothèque
 - titre: Collecte des Encombrants
   addresse: /actualites/encombrants.html
   illustration: /assets/flyer/Screenshot from 2021-10-20 11-03-55.png
