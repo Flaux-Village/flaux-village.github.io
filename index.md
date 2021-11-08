@@ -6,10 +6,10 @@ keywords: mairie, commune, flaux, gard
 titre_page: Bienvenue à Flaux
 onglets_principaux:
 
-- titre: Ludothèque, Mercredi 3 Novembre à Flaux
-  addresse: /actualites/ludotheque.html
-  illustration: /assets/flyer/Ludothèque - Flaux.png
-  description_illustration: Ludothèque
+- titre: La mairie
+  addresse: /mairie.html
+  illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
+  description_illustration: La Mairie de Flaux
 - titre: Animations
   addresse: /actualites/animations.html
   illustration: /assets/flyer/Screenshot from 2021-10-22 11-33-40.png
@@ -17,10 +17,6 @@ onglets_principaux:
   addresse: /actualites/collecteonzenov.html
   illustration: /assets/flyer/2018 -10.24 - collecte 1er novembre.png
   description_illustration: encombrants
-- titre: Vallabrix 4 Novembre compost et broyat
-  addresse: /actualites/broyat2021.html
-  illustration: /assets/flyer/broyatfront_2021.png
-  description_illustration: broyat
 
 
 
