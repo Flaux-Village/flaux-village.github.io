@@ -7,7 +7,7 @@ titre_page: Bienvenue à Flaux
 onglets_principaux:
 
 - titre: Noël à Flaux!
-  addresse: /noelflaux.html
+  addresse: /actualites/noelflaux.html
   illustration: /assets/flyer/Screenshot from 2021-11-23 08-31-03.png
   description_illustration: Noël à Flaux, 12 Décembre 15h30
 - titre: Animations
