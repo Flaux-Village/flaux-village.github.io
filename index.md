@@ -6,17 +6,17 @@ keywords: mairie, commune, flaux, gard
 titre_page: Bienvenue à Flaux
 onglets_principaux:
 
+- titre: Noël à Flaux!
+  addresse: /noelflaux.html
+  illustration: /assets/flyeer/Screenshot from 2021-11-23 08-31-03.png
+  description_illustration: Noël à Flaux, 12 Décembre 15h30
+- titre: Animations
+  addresse: /actualites/animations.html
+  illustration: /assets/flyer/Screenshot from 2021-10-22 11-33-40.png
 - titre: La mairie
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux
-- titre: Animations
-  addresse: /actualites/animations.html
-  illustration: /assets/flyer/Screenshot from 2021-10-22 11-33-40.png
-- titre: Collecte du 11 Novembre est maintenue
-  addresse: /actualites/collecteonzenov.html
-  illustration: /assets/flyer/2018 -10.24 - collecte 1er novembre.png
-  description_illustration: encombrants
 
 
 
