@@ -12,6 +12,6 @@ introduction:
 
   
 ---
-
+![Animations Flaux](/assets/flyer/poster-APE-NOEL-2021A4-web (1).jpg){:class="img-responsive"} 
 
 ![Animations Flaux](/assets/flyer/CALENDRIER DES ÉVÈNEMENTS APE - 21_22.png){:class="img-responsive"}
