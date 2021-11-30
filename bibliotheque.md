@@ -4,7 +4,7 @@ titre: Accueil | Bibliothèque
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Bibliothèque de Flaux
-date_texte: 1 juin 2020
+date_texte: 30 Novembre 2021
 illustration: /assets/illustrations/bibliotheque2landscape-980.JPG
 description_illustration: La Mairie de Flaux.
 
