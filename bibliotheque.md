@@ -38,6 +38,8 @@ menu_secondaire:
 ## La bibliothèque de flaux fait partie du <a href="https://www.mediatheques.ccpaysduzes.fr/bibliotheques">réseau bibliothèques pays d'Uzès, portail à disposition pour connaître toutes les resources du réseau.</a>  <br> 
 <img src="assets/images/bibliotheque.png" alt="réseau bibliothèques pays d'Uzès" width="336" height="140">
 
+![fermeture bibliotheque flaux](/assets/flyer/Screenshot from 2021-11-30 11-38-55.png){:class="img-responsive"}
+
 # La bibliothèque est ouverte:
  
 ### Les lundis de 16h à 18h30 <br> 
