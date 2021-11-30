@@ -37,7 +37,8 @@ menu_secondaire:
 
 # Offre touristique à proximité:  <br>
 [Pont du Gard](http://www.pontdugard.fr) <br>
-[Office du Tourisme Pays d’Uzès](https://www.ccpaysduzes.fr/culture/evenements.html)   
+[Office du Tourisme Pays d’Uzès](https://www.ccpaysduzes.fr/culture/evenements.html)   <br>
+Voici le lien pour le programme en ligne de [l'Ombrière](https://fr.calameo.com/read/006909625dd616c54fb16?page=1) <br>
 
 
 # Dans notre village nous avons à découvrir …
