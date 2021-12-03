@@ -15,7 +15,10 @@ documents:
   addresse: /assets/documents/MAIRIE DE FLAUX_20211022_120301.png
   
 ---
-
+# FLAUX DE NOUVELLES LITTÉRAIRES
+LUNDI 6 JANVIER 2021 DE 18H à 19H
+À LA BIBLIOTHÈQUE
+VENEZ NOMBREUX
 
 ![Animations Flaux](/assets/flyer/Screenshot from 2021-10-22 11-33-40.png){:class="img-responsive"}
 
