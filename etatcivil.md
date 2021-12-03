@@ -35,35 +35,17 @@ Ouverture et suivi du livret de famille <br>
 
 
 
-## Annonce année 2020/21 sur Flaux
+## Annonce année 2021/22 sur Flaux
 
 ## Décès :
 
-Henri DUSSERRE
+BASSO Jean
 
-Yvan DUSSERRE
+MOULIN Renée
 
-Daniel LETOFFE
-
-Jean PASCAL
-
-Marlise VON AESCH
-
-Max CABANEL
-
-Marie-Thérèse LEROUGE
-
-
-## Naissance:
-
-Lilio ZYCH
-
-Romy MAALEM
 
 ## Pacs:
 
-Raphael JUVIN - Charlie MONAMY
+RIZZO Sylvia / VACHOT Nicolas
 
-## Mariage:
 
-Sabine BLANCHET - Ludovic TIRADO 
