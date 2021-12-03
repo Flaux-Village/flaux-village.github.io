@@ -16,6 +16,9 @@ documents:
   type: pdf
 ---
 
+# VENDREDI 10 DECEMBRE 2021
+de 14h00 à 16h30 <br>
+Permanence en Mairie de FLAUX <br>
 
-![service publique itinérant décembre flaux](/assets/flyer/SPIDecembre.pdf){:class="img-responsive"} 
+
 
