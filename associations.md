@@ -20,6 +20,7 @@ menu_secondaire:
   
 ---
 
+# La Ronde des Ainés : l’association La ronde des ainés se retrouve au château pour une après-midi de détente « petit loto » les jeudis de semaines paires, si vous êtes intéressés infos auprès de Mr LISETELO.
 # COMITE DES FETES DE FLAUX LA FIESTA, action socioculturelle, 115 Chemin du Merlançon
 # TEAM 5 M RALLYE, sports mécaniques, 145 Chemin du Jas
 # Société de chasse petits gibiers, LE MARINARD
