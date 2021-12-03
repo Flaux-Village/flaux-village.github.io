@@ -40,6 +40,11 @@ menu_secondaire:
 
 ![fermeture bibliotheque flaux](/assets/flyer/Screenshot from 2021-11-30 11-38-55.png){:class="img-responsive"}
 
+# FLAUX DE NOUVELLES LITTÉRAIRES
+LUNDI 6 JANVIER 2021 DE 18H à 19H
+À LA BIBLIOTHÈQUE
+VENEZ NOMBREUX
+
 # La bibliothèque est ouverte:
  
 ### Les lundis de 16h à 18h30 <br> 
