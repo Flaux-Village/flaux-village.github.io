@@ -50,7 +50,6 @@ VENEZ NOMBREUX
 ### Les lundis de 16h à 18h30 <br> 
 ### Les mercredis de 10h à 12h30 <br> 
 
-# Pendant les vacances scolaires la bibliothèque est ouverte <br> 
 # Le mois de la peur à la bibliothèque de Flaux, Mercredi 20 Octobre 2021 <br> 
 
 <b>Masque OBLIGATOIRE et GEL hydro-alcoolique à l’entrée de la mairie et à l’accueil de labibliothèque. Le pass sanitaire est obligatoire à l’entrée de la bibliothèque.</b><br> 
