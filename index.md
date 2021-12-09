@@ -12,7 +12,7 @@ onglets_principaux:
   description_illustration: Noël à Flaux, 12 Décembre 15h30
 - titre: Animations
   addresse: /actualites/animations.html
-  illustration: /assets/flyer/Screenshot from 2021-10-22 11-33-40.png
+  illustration: /assets/flyer/Screenshot from 2021-12-09 14-54-30.png
 - titre: La mairie
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
