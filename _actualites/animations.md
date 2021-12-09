@@ -17,7 +17,7 @@ documents:
 ---
 
 
-![Animations Flaux](/assets/flyer/Screenshot from 2021-10-22 11-33-40.png){:class="img-responsive"}
+![Animations Flaux](/assets/flyer/Screenshot from 2021-12-09 14-54-30.png){:class="img-responsive"}
 
 
 
