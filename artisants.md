@@ -26,6 +26,9 @@ Note: Pour le respect de tous, nous vous demandons de porter le masque à l'int�
 Rémy et Suzy
 
 ![Epiflute](/assets/illustrations/Epiflute.jpg){:class="img-responsive"}
+![Epiflute](/assets/flyer/boulangerie-noel2021.jpg){:class="img-responsive"}
+
+
 # [Suivez nous sur Facebook](https://www.facebook.com/EpisFlute/)
 
 
