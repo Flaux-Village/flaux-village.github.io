@@ -5,19 +5,18 @@ description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Bienvenue à Flaux
 onglets_principaux:
-
-- titre: Noël à Flaux! <br> 12 Décembre 15h30 <br> Vin chaud offert, stand Churros!
-  addresse: /actualites/noelflaux.html
-  illustration: /assets/flyer/Screenshot from 2021-11-23 08-31-03.png
-  description_illustration: Noël à Flaux, 12 Décembre 15h30
-- titre: Animations
-  addresse: /actualites/animations.html
-  illustration: /assets/flyer/Screenshot from 2021-12-09 14-54-30.png
 - titre: La mairie
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
-  description_illustration: La Mairie de Flaux
-
+  description_illustration: La Mairie de Flaux.
+- titre: Notre école
+  addresse: /ecole.html
+  illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
+  description_illustration: école de Flaux
+- titre: Hébergement et restauration
+  addresse: /hebergements.html
+  illustration: /assets/illustrations/525_320_flauxtapas_3622.jpg
+  description_illustration: hebergement
 
 
 articles_en_vedette:
