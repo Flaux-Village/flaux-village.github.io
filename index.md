@@ -7,7 +7,7 @@ titre_page: Bienvenue à Flaux
 onglets_principaux:
 - titre: La mairie
   addresse: /mairie.html
-  illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
+  illustration: /assets/illustrations/lavoirnoel1.jpg
   description_illustration: La Mairie de Flaux.
 - titre: Notre école
   addresse: /ecole.html
