@@ -3,17 +3,22 @@ layout: page
 titre: Actualités | Opération chats errants
 description: Chats errants
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Chavamieux, Noël à Flaux 5 Décembre
+titre_page: Chavamieux
 section: À la une
 addresse_section: /actualites.html
-date_texte: 20 Novembre 2021
-date: 2021-11-20
+date_texte: 21 Décembre 2021
+date: 2021-12-21
 
 description_illustration: 
 introduction: 
 ---
 
-![Animations Flaux](/assets/flyer/flyer marché noel chavamieux.png){:class="img-responsive"}
+L'association CHAVAMIEUX remercie chaleureusement la municipalité de Flaux pour la mise en œuvre de son petit marché de noël.<br>
+Grace au ventes l'association va pouvoir poursuivre son action auprès des chats du village.<br>
+Depuis avril 21 chats et chattes ont été stérilisés, permettant d'éviter la prolifération.<br>
+Merci aux généreux donateurs qui ont permis en complément de la subvention de la municipalité d'intensifier les interventions.<br>
+Nous allons continuer notre démarche car il y a encore beaucoup de chats errants.<br>
+L'association vous souhaite de très belles fêtes de fin d'année.<br>
 
 # Convention pour la capture des chats en vue de leur stérilisation
 La mairie vous informe qu'une stérilisation des chats va être mise en place afin de gérer la prolifération de cette population souvent livrée à elle-même pour diverses raisons. La règlementation nous impose désormais de ne plus fermer les yeux sur cette problématique et d'ignorer ce triste constat. Grâce à l'aide et la compétence de l'association CHAVAMIEUX de St Quentin La Poterie, nous allons pouvoir concrétiser cette action, les chats errants vont donc être stérilisés et identifiés progressivement. Cela a évidemment un coût et la mairie a consenti un budget pour cette année en vue de commencer la stérilisation des chats et chattes. Cette campagne commencera donc au plus tôt et nous vous remercions d'être vigilants pour vos chats qui ne sont pas identifiés (nous vous rappelons que l'identification est désormais obligatoire pour les chats de compagnie).<br>
