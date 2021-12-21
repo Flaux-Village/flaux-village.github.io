@@ -6,8 +6,8 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Évènements APE 21/22
 section: À la une
 addresse_section: /actualites.html
-date_texte: 22 Novembre 2021
-date: 2021-11-22
+date_texte: 21 Décembre 2021
+date: 2021-12-21
 introduction: 
 
   
