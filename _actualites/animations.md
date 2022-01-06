@@ -7,18 +7,28 @@ titre_page: Animations
 section: À la une
 addresse_section: /actualites.html
 date_texte: 09 Décembre 2021
-date: 2021-10-22
+date: 2022-01-06
 introduction: 
-documents:
-- fiche: Livres en balade
-  date_texte: 22 Octobre 2021
-  addresse: /assets/documents/MAIRIE DE FLAUX_20211022_120301.png
+
   
 ---
 
+# Atelier jeunesse <br>
+Des activités ludiques sont proposées à vos enfants le 3ème mercredi du mois de 10h30 à 11h30<br>
+MERCREDI 19 JANVIER 2022 La galette des rois : Fabrication de couronnes et de galettes<br>
 
-![Animations Flaux](/assets/flyer/Screenshot from 2021-12-16 15-24-05.png){:class="img-responsive"}
+# Animations pour les adultes<br>
+Le 1er lundi du mois de 18h à 19h soirées lecture<br>
 
+MERCREDI 16 FÉVRIER 2022<br>
+Fabrication de masques pour Mardi Gras<br>
+
+MERCREDI 16 mars 2022<br>
+Décoration/ confection de poissons pour le vendredi 1 avril<br>
+
+MERCREDI 20 avril 2022<br>
+À la chasse aux œufs<br>
+Avant chaque atelier de création nous proposons aux enfants un temps de lecture.<br>
 
 
 
