@@ -33,4 +33,5 @@ Avant chaque atelier de création nous proposons aux enfants un temps de lecture
 # Animations pour les adultes<br>
 Le 1er lundi du mois de 18h à 19h soirées lecture<br>
 
-
+### LUNDI 10 JANVIER 2022<br>
+De 18h à 19h lecture de textes littéraires ponctuées de gourmandises
