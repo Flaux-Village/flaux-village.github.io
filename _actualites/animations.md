@@ -17,8 +17,6 @@ introduction:
 Des activités ludiques sont proposées à vos enfants le 3ème mercredi du mois de 10h30 à 11h30<br>
 MERCREDI 19 JANVIER 2022 La galette des rois : Fabrication de couronnes et de galettes<br>
 
-# Animations pour les adultes<br>
-Le 1er lundi du mois de 18h à 19h soirées lecture<br>
 
 MERCREDI 16 FÉVRIER 2022<br>
 Fabrication de masques pour Mardi Gras<br>
@@ -31,5 +29,7 @@ MERCREDI 20 avril 2022<br>
 Avant chaque atelier de création nous proposons aux enfants un temps de lecture.<br>
 
 
+# Animations pour les adultes<br>
+Le 1er lundi du mois de 18h à 19h soirées lecture<br>
 
 
