@@ -6,7 +6,7 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Animations
 section: À la une
 addresse_section: /actualites.html
-date_texte: 09 Décembre 2021
+date_texte: 06 Janvier 2022
 date: 2022-01-06
 introduction: 
 
