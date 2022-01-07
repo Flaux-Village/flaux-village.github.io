@@ -44,6 +44,8 @@ LUNDI 10 JANVIER 2021 DE 18H à 19H
 À LA BIBLIOTHÈQUE
 VENEZ NOMBREUX
 
+<a href="https://www.mairie-flaux.fr/actualites/animations.html"> Pour toutes animations à la bibliothèque de Flaux...</a>  <br> 
+
 # La bibliothèque est ouverte:
  
 ### Les lundis de 16h à 18h30 <br> 
