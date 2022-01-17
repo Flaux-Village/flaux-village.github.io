@@ -6,8 +6,8 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Animations
 section: À la une
 addresse_section: /actualites.html
-date_texte: 06 Janvier 2022
-date: 2022-01-06
+date_texte: 17 Janvier 2022
+date: 2022-01-17
 introduction: 
 
   
@@ -33,5 +33,4 @@ Décoration/ confection de poissons pour le vendredi 1 avril<br>
 # Animations pour les adultes<br>
 Le 1er lundi du mois de 18h à 19h soirées lecture<br>
 
-### LUNDI 10 JANVIER 2022<br>
-De 18h à 19h lecture de textes littéraires ponctuées de gourmandises
+
