@@ -11,19 +11,19 @@ date: 2022-01-17
 introduction: 
 
 
-Vous allez être recensé cette année (résidence principale).
+Vous allez être recensé cette année (résidence principale).<br>
 
 Je vous informe que le recensement de la population démarrera le 20
-janvier.
+janvier.<br>
 
 Dans le courant de la semaine prochaine, un courrier explicatif vous
-sera déposé.
+sera déposé.<br>
 
-Pour vous recenser, je vous contacterai afin de fixer un rendez-vous.
+Pour vous recenser, je vous contacterai afin de fixer un rendez-vous.<br>
 
-Je vous remercie par avance
+Je vous remercie par avance<br>
 
-Bien cordialement
+Bien cordialement<br>
 
-La secrétaire
-Kristel GOMIS
+La secrétaire<br>
+Kristel GOMIS<br>
