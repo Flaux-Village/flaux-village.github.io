@@ -39,12 +39,8 @@ menu_secondaire:
 <img src="assets/images/bibliotheque.png" alt="réseau bibliothèques pays d'Uzès" width="336" height="140">
 
 
-# ÉVÈNEMENT - FLAUX DE NOUVELLES LITTÉRAIRES
-LUNDI 10 JANVIER 2021 DE 18H à 19H
-À LA BIBLIOTHÈQUE
-VENEZ NOMBREUX
+<a href="https://www.mairie-flaux.fr/actualites/animations.html"> Pour toutes ANIMATIONS à la bibliothèque de Flaux...</a>  <br> 
 
-<a href="https://www.mairie-flaux.fr/actualites/animations.html"> Pour toutes animations à la bibliothèque de Flaux...</a>  <br> 
 
 # La bibliothèque est ouverte:
  
