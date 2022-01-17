@@ -9,7 +9,7 @@ onglets_principaux:
   addresse: /mairie.html
   illustration: /assets/illustrations/lavoirnoel1.jpg
   description_illustration: La Mairie de Flaux.
-- titre: Lundi 17 janvier 2022 dans la matinée RAMASSAGE DES SAPINS DE NOËL.
+- titre: Lundi 17 janvier 2022 dans la matinée RAMASSAGE DES SAPINS DE NOËL
   addresse: /ecole.html
   illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
   description_illustration: école de Flaux
