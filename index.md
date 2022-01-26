@@ -10,7 +10,7 @@ onglets_principaux:
   illustration: /assets/illustrations/lavoirnoel1.jpg
   description_illustration: La Mairie de Flaux.
 - titre: Ludothèque
-  addresse: /ludotheque.html
+  addresse: /actualites/ludotheque.html
   illustration: /assets/illustrations/Ludo - bandeaux villages FLAUX 2février.png
   description_illustration: Ludothèque
 - titre: Hébergement et restauration
