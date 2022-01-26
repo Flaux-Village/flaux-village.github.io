@@ -6,8 +6,8 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Animations
 section: À la une
 addresse_section: /actualites.html
-date_texte: 17 Janvier 2022
-date: 2022-01-17
+date_texte: 26 Janvier 2022
+date: 2022-01-26
 introduction: 
 
   
@@ -17,9 +17,6 @@ introduction:
 # Atelier jeunesse <br>
 Des activités ludiques sont proposées à vos enfants le 3ème mercredi du mois de 10h30 à 11h30<br>
 Avant chaque atelier de création nous proposons aux enfants un temps de lecture.<br>
-
-### MERCREDI 19 JANVIER 2022 <br>
-La galette des rois : Fabrication de couronnes et de galettes<br>
 
 ### MERCREDI 16 FÉVRIER 2022<br>
 Fabrication de masques pour Mardi Gras<br>
