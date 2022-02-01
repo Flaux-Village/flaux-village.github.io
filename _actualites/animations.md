@@ -24,10 +24,17 @@ Fabrication de masques pour Mardi Gras<br>
 ### MERCREDI 16 mars 2022<br>
 Décoration/ confection de poissons pour le vendredi 1 avril<br>
 
+### MERCREDI 23 MARS<br> 
+LA BIBLIOTHÈQUE PROPOSE AUX ENFANTS “ PLAISIR DE LIRE, PLAISIR D’ÉCRIRE “ DE 10H30 à 11H30<br>
+
+
 ### MERCREDI 20 avril 2022<br>
 À la chasse aux œufs<br>
 
-# Animations pour les adultes<br>
+POUR LES ADOLESCENTS: OUVERTURE DE LA BIBLIOTHÈQUE UNE FOIS PAR MOIS DE 12H30 À 15H LE MERCREDI DÈS LE 16 MARS<br>
+
+POUR LES ADULTES SOIRÉE LECTURES: LUNDI 7 FÉVRIER DE 18H à 19H À LA BIBLIOTHÈQUE<br>
+
 Le 1er lundi du mois de 18h à 19h soirées lecture<br>
 
 
