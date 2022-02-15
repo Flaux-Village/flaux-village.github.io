@@ -10,7 +10,7 @@ onglets_principaux:
   illustration: /assets/illustrations/coupureeau.png
   description_illustration: La Mairie de Flaux.
 - titre: Animations
-  addresse: /animations.html
+  addresse: /actualites/animations.html
   illustration: /assets/illustrations/animation16fev.png
   description_illustration: animations
 - titre: École
