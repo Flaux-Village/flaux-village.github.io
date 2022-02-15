@@ -14,6 +14,9 @@ introduction:
 ---
 # Animations Bibliothèque:
 
+![animation Flaux seize fevrier](/assets/illustrations/16fevrier2022animation.png){:class="img-responsive"}
+
+
 # Atelier jeunesse <br>
 Des activités ludiques sont proposées à vos enfants le 3ème mercredi du mois de 10h30 à 11h30<br>
 Avant chaque atelier de création nous proposons aux enfants un temps de lecture.<br>
