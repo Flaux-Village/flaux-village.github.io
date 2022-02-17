@@ -47,7 +47,7 @@ menu_secondaire:
 ### Les lundis de 16h à 18h30 <br> 
 ### Les mercredis de 10h à 12h30 <br> 
 
-LA BIBLIOTHÈQUE SERA OUVERTE PENDANT LES VACANCES SCOLAIRES AUX JOURS ET HORAIRES HABITUELS.</b>
+LA BIBLIOTHÈQUE SERA OUVERTE PENDANT LES VACANCES SCOLAIRES AUX JOURS ET HORAIRES HABITUELS.<br> 
           
 <b>Masque OBLIGATOIRE et GEL hydro-alcoolique à l’entrée de la mairie et à l’accueil de labibliothèque. Le pass sanitaire est obligatoire à l’entrée de la bibliothèque.</b><br> 
 
