@@ -7,6 +7,9 @@ titre_page: Comptes rendus des conseils municipaux
 illustration: /assets/illustrations/archives_landscape980.JPG
 description_illustration: Mairie de Flaux.
 documents:
+- fiche: Compte rendu séance du 26 Novembre 2021
+  date_texte: 26 Novembre 2021
+  addresse: /assets/documents/comptesrendus/compte rendu conseil municipal 26 novembre 2021.pdf
 - fiche: Compte rendu séance du 15 Octobre 2021
   date_texte: 15 Octobre 2021
   addresse: /assets/documents/comptesrendus/COMPTE RENDU DU 15 OCTOBRE.pdf
