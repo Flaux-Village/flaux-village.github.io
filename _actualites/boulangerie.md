@@ -14,11 +14,23 @@ introduction:
 
 # Notre boulangerie <br>
 
-Rémy va travailler avec des matières locales, et bio, levain naturel fabriqué par ses soins, il fera différents pains, viennoiseries, pâtisseries, commandes pour les évènements festifs, et très prochainement mise en place des pizzas à emporter également bio et produits locaux.<br>
+Bonjour à tous,<br>
 
-Note: Pour le respect de tous, nous vous demandons de porter le masque à l'intérieur de notre jolie petite boulangerie comme nous le portons depuis hier, nous vous remercions de votre soutien! <br>
+Nous vous informons que la Boulangerie Epis Flûte va fermer du jeudi 10 au jeudi 31 mars inclus pour Congés.<br>
 
-Vous pourrez y acheter le Républicain chaque semaine
+Nous vous retrouverons avec plaisir le Vendredi 1er avril à partir de 6h30.<br>
+
+Nous vous invitons à faire vos commandes si vous désirez un peu plus de pain, que d’habitude pour le mercredi 9 soit en boutique<br>
+
+Soit par téléphone 04 11 71 95 45<br>
+
+Vous remerciant de votre fidélité<br>
+
+Suzy et Rémy<br>
+
+
+Rémy travaille avec des matières locales, et bio, levain naturel fabriqué par ses soins, il fait différents pains, viennoiseries, pâtisseries, commandes pour les évènements festifs.<br>
+
 
 ![episflute](/assets/illustrations/episfluteflyer.jpg){:class="img-responsive"}
 
