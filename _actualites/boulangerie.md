@@ -6,8 +6,8 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Boulangerie Pâtisserie, Pizza à emporter tous les mercredis soir
 section: À la une
 addresse_section: /actualites.html
-date_texte: 03 Juin 2021
-date: 2021-06-03
+date_texte: 27 Février 2022
+date: 2022-02-27
 
 introduction: 
 ---
