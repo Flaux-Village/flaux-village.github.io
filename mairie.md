@@ -42,7 +42,9 @@ menu_secondaire:
 Téléphone : 04 66 22 17 92<br/>
 Fax : 04 66 22 02 66<br/>
 E-mail : secretariat@mairie-flaux.fr<br/>
-Secrétaire de mairie: Kristel GOMIS
+Secrétaire de mairie: Kristel GOMIS<br/>
+
+## Le secrétariat est exceptionnellement fermé ce lundi 28 février
 
 ## Horaires de la mairie de Flaux
 La mairie de Flaux est ouverte au public :<br/>
