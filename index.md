@@ -9,15 +9,14 @@ onglets_principaux:
   addresse: /mairie.html
   illustration: /assets/flyer/listeselectorales.png
   description_illustration: La Mairie de Flaux.
-- titre: École
-  addresse: /ecole.html
-  illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
-  description_illustration: école de Flaux
 - titre: Animations
   addresse: /actualites/animations.html
   illustration: /assets/flyer/vacancesbibliotheque.png
   description_illustration: Animations
-
+- titre: École
+  addresse: /ecole.html
+  illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
+  description_illustration: école de Flaux
 
 articles_en_vedette:
 - titre: Où sommes-nous?
