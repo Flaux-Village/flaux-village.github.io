@@ -13,16 +13,13 @@ introduction:
   
 ---
 
-Bonjour
+Bonjour<br>
 
-Nous vous rappelons que
+Nous vous rappelons que<br>
 
-le 2 mars 2022 : date limite pour les inscriptions en ligne.
-Le récépissé remplace désormais l’imprimé Cerfa comme preuve de la
-demande d’inscription en ligne pour l’usager.
+le 2 mars 2022 : date limite pour les inscriptions en ligne.<br>
+Le récépissé remplace désormais l’imprimé Cerfa comme preuve de la demande d’inscription en ligne pour l’usager.<br>
 
 
-- le 4 mars 2022 : date limite pour les inscriptions « classiques » en
-mairie.
-Le Cerfa reste valable et nécessaire pour les demandes d’inscription
-faites par courrier ou en mairie.
+- le 4 mars 2022 : date limite pour les inscriptions « classiques » en mairie.<br>
+Le Cerfa reste valable et nécessaire pour les demandes d’inscription faites par courrier ou en mairie.<br>
