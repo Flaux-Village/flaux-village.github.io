@@ -6,13 +6,12 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Ludothèque
 section: À la une
 addresse_section: /actualites.html
-date_texte: 26 Janvier 2022
-date: 2022-01-26
+date_texte: 01 Mars 2022
+date: 2022-03-01
 introduction: 
 
 ---
 
 
-![ludothèque affiche deux fevrier](/assets/illustrations/Ludo - bandeaux villages FLAUX 2février.png){:class="img-responsive"} 
+![ludothèque affiche deux fevrier](/assets/illustrations/Ludo - flyer(3).png){:class="img-responsive"} 
 
-![ludothèque affiche](/assets/illustrations/Ludothèque -AFFICHE.png){:class="img-responsive"}
