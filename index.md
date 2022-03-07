@@ -11,7 +11,7 @@ onglets_principaux:
   description_illustration: La Mairie de Flaux.
 - titre: Animations
   addresse: /actualites/animations.html
-  illustration: /assets/flyer/vacancesbibliotheque.png
+  illustration: /assets/illustrations/PS-MS Photo Bibliothèque.JPG
   description_illustration: Animations
 - titre: École
   addresse: /ecole.html
