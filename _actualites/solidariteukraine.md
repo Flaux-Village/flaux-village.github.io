@@ -8,8 +8,6 @@ section: À la une
 addresse_section: /actualites.html
 date_texte: 07 Mars 2022
 date: 2022-03-07
-illustration: /assets/illustrations/news/defibrillateur2-banner.jpg
-description_illustration: Solidarité Ukraine</br>
 introduction: 
 ---
 
