@@ -6,8 +6,8 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Solidarité Ukraine
 section: À la une
 addresse_section: /actualites.html
-date_texte: 07 Mars 2022
-date: 2022-03-07
+date_texte: 09 Mars 2022
+date: 2022-03-09
 introduction: 
 ---
 
