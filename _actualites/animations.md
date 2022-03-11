@@ -21,6 +21,8 @@ Avant chaque atelier de création nous proposons aux enfants un temps de lecture
 
 ### MERCREDI 16 mars 2022<br>
 Décoration/ confection de poissons pour le vendredi 1 avril<br>
+De 12H30 À 15H: OUVERTURE DE LA BIBLIOTHÈQUE POUR LES ADOLESCENTES ET
+ADOLESCENTS.
 
 ### MERCREDI 23 MARS<br> 
 LA BIBLIOTHÈQUE PROPOSE AUX ENFANTS “ PLAISIR DE LIRE, PLAISIR D’ÉCRIRE “ DE 10H30 à 11H30<br>
