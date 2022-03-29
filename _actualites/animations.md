@@ -19,14 +19,6 @@ introduction:
 Des activités ludiques sont proposées à vos enfants le 3ème mercredi du mois de 10h30 à 11h30<br>
 Avant chaque atelier de création nous proposons aux enfants un temps de lecture.<br>
 
-### MERCREDI 16 mars 2022<br>
-Décoration/ confection de poissons pour le vendredi 1 avril<br>
-De 12H30 À 15H: OUVERTURE DE LA BIBLIOTHÈQUE POUR LES ADOLESCENTES ET
-ADOLESCENTS.
-
-### MERCREDI 23 MARS<br> 
-LA BIBLIOTHÈQUE PROPOSE AUX ENFANTS “ PLAISIR DE LIRE, PLAISIR D’ÉCRIRE “ DE 10H30 à 11H30<br>
-
 
 ### MERCREDI 20 avril 2022<br>
 À la chasse aux œufs<br>
@@ -35,7 +27,9 @@ LA BIBLIOTHÈQUE PROPOSE AUX ENFANTS “ PLAISIR DE LIRE, PLAISIR D’ÉCRIRE �
 OUVERTURE DE LA BIBLIOTHÈQUE UNE FOIS PAR MOIS DE 12H30 À 15H LE MERCREDI DÈS LE 16 MARS<br>
 
 # Pour les adultes
-### LUNDI 7 MARS 2022<br>
+### LUNDI 4 Avril 2022<br>
 DE 18H à 19H, nous organisons une soirée lectures à la bibliothèque.<br>
+
+
 
 
