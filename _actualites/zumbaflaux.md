@@ -1,9 +1,9 @@
 ---
 layout: page
-titre: Actualités | Zumba à Flaux
-description: Zumba à Flaux
+titre: Actualités | ZUMBA à Flaux
+description: ZUMBA à Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Zumba à Flaux
+titre_page: ZUMBA à Flaux
 section: À la une
 addresse_section: /actualites.html
 date_texte: 30 Mars 2022
