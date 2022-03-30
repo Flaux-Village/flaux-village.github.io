@@ -9,10 +9,10 @@ onglets_principaux:
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
-- titre: Animations
-  addresse: /actualites/animations.html
-  illustration: /assets/illustrations/PS-MS Photo Bibliothèque.JPG
-  description_illustration: Animations
+- titre: ZUMBA à Flaux!
+  addresse: /actualites/zumbaflaux.html
+  illustration: /assets/flyer/zumbafront.png
+  description_illustration: Zumba
 - titre: École
   addresse: /ecole.html
   illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
