@@ -11,8 +11,8 @@ date: 2022-03-30
 introduction: 
 ---
 
-# Zumba à Flaux <br>
-Zumba fitness dès le 11 avril au château<br>
+## Zumba à Flaux <br>
+# Zumba fitness dès le 11 avril au château<br>
 Adultes lundi et mercredi 19h30 / 20h30<br>
 Ados  mercredi 18h15  / 19h15<br>
 
