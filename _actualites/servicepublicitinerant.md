@@ -21,6 +21,6 @@ documents:
 Pour vous accompagner dans vos démarches administratives une permanence est assurée à la mairie de Flaux tous les premiers vendredis de chaque mois 
 de 14H00 à 16H30.<br>
 
-Pour en savoir plus, une note d'information à consulter.<br>
+Pour en savoir plus [services publics itinerants](https://www.ccpaysduzes.fr/actualites/item/services-publics-itinerants.html)<br>
 
 PROCHAIN RENDEZ-VOUS: Vendredi 8 avril 2022 de 14h à 16h30 en Mairie de Flaux
