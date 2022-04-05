@@ -8,12 +8,17 @@ section: À la une
 addresse_section: /actualites.html
 date_texte: 05 Avril 2022
 date: 2022-04-05
-introduction: 
+documents:
+
+- fiche: Affiche avec dates des autres villages!
+  date_texte: 5 Avril 2022
+  addresse: /assets/flyer/FLAUX_clochers_histoire_2022.pdf
 ---
 
 # HISTOIRES DE CLOCHERS - FLAUX Samedi 9 Avril 15H RDV devant la mairie! <br>
 Visite gratuite de 1h30 <br>
 Découvrez les secrets du patrimoine l'histoire locale des villages avec une guide conférencière. <br>
 
-![HISTOIRES DE CLOCHERS](/assets/flyer/FLAUX_clochers_histoire_2022.pdf){:class="img-responsive"}
+Voir affiche pour les dates des autres villages!
+
 
