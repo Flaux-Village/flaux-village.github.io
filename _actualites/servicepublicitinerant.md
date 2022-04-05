@@ -6,8 +6,8 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Service Public Itinérant
 section: À la une
 addresse_section: /actualites.html
-date_texte: 27 Février 2022
-date: 2022-02-27
+date_texte: 04 Avril 2022
+date: 2022-04-04
 illustration: 
 description_illustration: 
 introduction: 
@@ -23,4 +23,4 @@ de 14H00 à 16H30.<br>
 
 Pour en savoir plus, une note d'information à consulter.<br>
 
-PROCHAIN RENDEZ-VOUS: Vendredi 11 mars 2022 de 14h à 16h30 en Mairie de Flaux
+PROCHAIN RENDEZ-VOUS: Vendredi 8 avril 2022 de 14h à 16h30 en Mairie de Flaux
