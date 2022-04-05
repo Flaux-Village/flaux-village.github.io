@@ -11,7 +11,7 @@ date: 2022-04-05
 introduction: 
 ---
 
-# HISTOIRES DE CLOCHERS - Samedi 9 Avril 15H RDV devant la mairie! <br>
+# HISTOIRES DE CLOCHERS - FLAUX Samedi 9 Avril 15H RDV devant la mairie! <br>
 Visite gratuite de 1h30 <br>
 Découvrez les secrets du patrimoine l'histoire locale des villages avec une guide conférencière. <br>
 
