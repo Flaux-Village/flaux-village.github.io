@@ -13,10 +13,10 @@ onglets_principaux:
   addresse: /actualites/zumbaflaux.html
   illustration: /assets/flyer/zumbafront.png
   description_illustration: Zumba
-- titre: École
-  addresse: /ecole.html
-  illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
-  description_illustration: école de Flaux
+- titre: HISTOIRES DE CLOCHERS - FLAUX Samedi 9 Avril 15H RDV devant la mairie!
+  addresse: /clochers.html
+  illustration: /assets/flyer/clochersfront.png
+  description_illustration: HISTOIRES DE CLOCHERS
 
 articles_en_vedette:
 - titre: Où sommes-nous?
