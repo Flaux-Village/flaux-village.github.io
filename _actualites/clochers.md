@@ -15,5 +15,5 @@ introduction:
 Visite gratuite de 1h30 <br>
 Découvrez les secrets du patrimoine l'histoire locale des villages avec une guide conférencière. <br>
 
-![HISTOIRES DE CLOCHERS](/assets/flyer/FLAUX_clochers_histoire_2022.png){:class="img-responsive"}
+![HISTOIRES DE CLOCHERS](/assets/flyer/FLAUX_clochers_histoire_2022.pdf){:class="img-responsive"}
 
