@@ -6,8 +6,8 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: HISTOIRES DE CLOCHERS - FLAUX Samedi 9 Avril 15H devant la mairie
 section: À la une
 addresse_section: /actualites.html
-date_texte: 05 Avril 2022
-date: 2022-04-05
+date_texte: 08 Avril 2022
+date: 2022-04-08
 documents:
 
 - fiche: Affiche avec dates des autres villages!
