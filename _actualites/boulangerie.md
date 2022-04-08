@@ -6,8 +6,8 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Boulangerie Pâtisserie, Pizza à emporter tous les mercredis soir
 section: À la une
 addresse_section: /actualites.html
-date_texte: 27 Février 2022
-date: 2022-02-27
+date_texte: 08 Avril 2022
+date: 2022-04-08
 
 introduction: 
 ---
@@ -16,11 +16,9 @@ introduction:
 
 Bonjour à tous,<br>
 
-Nous vous informons que la Boulangerie Epis Flûte va fermer du jeudi 10 au jeudi 31 mars inclus pour Congés.<br>
+Les pizzas sont de retour tous les mercredis soirs à compter de mercredi 13 avril à 18h<br>
 
-Nous vous retrouverons avec plaisir le Vendredi 1er avril à partir de 6h30.<br>
-
-Nous vous invitons à faire vos commandes si vous désirez un peu plus de pain, que d’habitude pour le mercredi 9 soit en boutique<br>
+Nous vous invitons à faire vos commandes si vous désirez<br>
 
 Soit par téléphone 04 11 71 95 45<br>
 
