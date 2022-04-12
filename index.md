@@ -9,10 +9,10 @@ onglets_principaux:
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
-- titre: HISTOIRES DE CLOCHERS - FLAUX Samedi 9 Avril 15H RDV devant la mairie!
-  addresse: /actualites/clochers.html
-  illustration: /assets/flyer/clochersfront.png
-  description_illustration: HISTOIRES DE CLOCHERS
+- titre: École
+  addresse: /ecole.html
+  illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
+  description_illustration: école de Flaux
 - titre: ZUMBA à Flaux!
   addresse: /actualites/zumbaflaux.html
   illustration: /assets/flyer/zumbafront.png
