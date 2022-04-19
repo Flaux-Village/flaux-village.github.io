@@ -12,23 +12,25 @@ introduction:
 
   
 ---
-# Animations Bibliothèque:
 
+# NOUS VOUS INFORMONS QUE LA BIBLIOTHÈQUE SERA FERMÉE DU MARDI 26AVRIL AU DIMANCHE 8 MAI INCLUS.
+
+# Animations Bibliothèque:
 
 # Atelier jeunesse <br>
 Des activités ludiques sont proposées à vos enfants le 3ème mercredi du mois de 10h30 à 11h30<br>
 Avant chaque atelier de création nous proposons aux enfants un temps de lecture.<br>
 
 
-### MERCREDI 20 avril 2022<br>
-À la chasse aux œufs<br>
+### MERCREDI 20 AVRIL DE 10H30 À 11H30 À LA BIBLIOTHÈQUE<br>
+NOUS PROPOSONS AUX ENFANTS UN ATELIER DE CRÉATION SUR LE THÈME DE PÂQUES.<br>
 
 # Pour les adolescents<br>
 OUVERTURE DE LA BIBLIOTHÈQUE UNE FOIS PAR MOIS DE 12H30 À 15H LE MERCREDI DÈS LE 16 MARS<br>
 
 # Pour les adultes
-### LUNDI 4 Avril 2022<br>
-DE 18H à 19H, nous organisons une soirée lectures à la bibliothèque.<br>
+### LUNDI 9 MAI DE 18 À 19 H À LA BIBLIOTHÈQUE<br>
+NOUS INVITONS LES ADULTES À UNE SOIRÉE LECTURES.<br>
 
 
 
