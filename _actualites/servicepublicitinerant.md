@@ -6,8 +6,8 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Service Public Itinérant RDV Vendredi 8 avril 2022 de 14h à 16h30 en Mairie de Flaux
 section: À la une
 addresse_section: /actualites.html
-date_texte: 04 Avril 2022
-date: 2022-04-04
+date_texte: 09 mai 2022
+date: 2022-05-09
 illustration: 
 description_illustration: 
 introduction: 
@@ -23,4 +23,4 @@ de 14H00 à 16H30.<br>
 
 Pour en savoir plus [services publics itinerants](https://www.ccpaysduzes.fr/actualites/item/services-publics-itinerants.html)<br>
 
-PROCHAIN RENDEZ-VOUS: Vendredi 8 avril 2022 de 14h à 16h30 en Mairie de Flaux
+PROCHAIN RENDEZ-VOUS: Vendredi 6 mai 2022 de 14h à 16h30 en Mairie de Flaux
