@@ -21,9 +21,9 @@ menu_secondaire:
   addresse: /csi.html
   
 documents:
-- fiche: Information de la mise en place de collecte des encombrants
-  date_texte: 20 Octobre 2021
-  addresse: /assets/flyer/2021 - 10.18 - Information de la mise en place de collecte des encombrants.pdf
+- fiche: Ouverture déchetteries
+  date_texte: 09 Mai 2022
+  addresse: /assets/flyer/sictomuete2022.pdf
   type: pdf
 - fiche: Affiche
   date_texte: 5 juin 2020
