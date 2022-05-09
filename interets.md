@@ -4,11 +4,15 @@ titre: Découvrir le village | Patrimoine touristique
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Flaux, Points d'intérêts
-date_texte: 1 juin 2020
+date_texte: 9 mai 2022
 illustration: /assets/illustrations/flauxcloche_landscape_980.JPG
 description_illustration: La Mairie de Flaux.
 introduction:
 documents:
+- fiche: Accès Pont du Gard
+  date_texte: 09 Mai 2022
+  addresse: /assets/flyer/pontdugard2022.pdf
+  type: pdf
 - fiche: histoire de clochers
   date_texte: 31 Juillet 2020
   addresse: /assets/documents/200731 histoire de clochers.pdf
