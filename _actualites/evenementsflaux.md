@@ -6,8 +6,8 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Évènements Flaux
 section: À la une
 addresse_section: /actualites.html
-date_texte: 09 mai 2022
-date: 2022-05-09
+date_texte: 23 mai 2022
+date: 2022-05-23
 introduction: 
 
 ---
