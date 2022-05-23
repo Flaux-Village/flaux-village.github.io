@@ -4,7 +4,7 @@ titre: Vie du village | Annuaire des resources
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Hébergements et restaurations
-date_texte: 1 juin 2020
+date_texte: 23 mai 20222
 illustration: /assets/illustrations/hebergementlandscape_980.JPG
 description_illustration: La Mairie de Flaux.
 introduction:
