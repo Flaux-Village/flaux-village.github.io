@@ -12,6 +12,10 @@ introduction:
 
 ---
 
+# TOUT SIMPLEMENT RÉOUVERTURE!<br>
+Vendredi 27 Mai (à partir de 19h30), Tapas - Paella - Vins <br>
+Réservations 04.66.58.42.09<br>
+
 # Commémoration du 8 mai 1945
 
 Une gerbe a été déposée devant le  monument aux morts de notre commune le dimanche 8 mai 2022 à 11h30.<br>
