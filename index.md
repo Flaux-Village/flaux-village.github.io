@@ -13,10 +13,10 @@ onglets_principaux:
   addresse: /ecole.html
   illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
   description_illustration: école de Flaux
-- titre: ZUMBA à Flaux!
-  addresse: /actualites/zumbaflaux.html
-  illustration: /assets/flyer/zumbafront.png
-  description_illustration: Zumba
+- titre: Hébergement et restauration
+  addresse: /hebergements.html
+  illustration: /assets/illustrations/525_320_flauxtapas_3622.jpg
+  description_illustration: hebergement
 
 articles_en_vedette:
 - titre: Où sommes-nous?
