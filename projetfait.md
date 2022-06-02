@@ -9,6 +9,10 @@ illustration: /assets/images/equipenaturellement2.png
 description_illustration: Flaux.
 introduction: 
 documents:
+- fiche: Fiche de synthèse - LAVOIR DES AUVIS
+  date_texte: 2 Juin 2022
+  addresse: /assets/documents/LAVOIR DES AUVIS - Note de synthèse (1).pdf
+  type: pdf
 - fiche: Bassin de Vallagrand - BASSIN D’ORAGE
   date_texte: 28 Juin 2020
   addresse: /assets/documents/BASSIN VALLAGRAND - Note de synthèse.pdf
@@ -24,10 +28,6 @@ documents:
 - fiche: Dossier de présentation du lavoir
   date_texte: 6 Avril 2021
   addresse: /assets/documents/LAVOIR DES AUVIS - Dossier de présentation 1.2-DC.pdf
-  type: pdf
-- fiche: Fiche de synthèse - LAVOIR DES AUVIS
-  date_texte: 2 Juin 2022
-  addresse: /assets/documents/LAVOIR DES AUVIS - Note de synthèse (1).pdf
   type: pdf
 - fiche: Le Républicain - Article sur le projet du Lavoir
   date_texte: 20 Janvier 2021
