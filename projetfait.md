@@ -25,6 +25,10 @@ documents:
   date_texte: 6 Avril 2021
   addresse: /assets/documents/LAVOIR DES AUVIS - Dossier de présentation 1.2-DC.pdf
   type: pdf
+- fiche: Fiche de synthèse - LAVOIR DES AUVIS
+  date_texte: 2 Juin 2022
+  addresse: /assets/documents/LAVOIR DES AUVIS - Note de synthèse (1).pdf
+  type: pdf
 - fiche: Le Républicain - Article sur le projet du Lavoir
   date_texte: 20 Janvier 2021
   addresse: /assets/documents/Répu du 14_01.pdf
@@ -90,7 +94,8 @@ Flaux acceuille les enfants de l'école de Flaux pour que nous puissions respect
 # Site internet de la commune
 Site internet tant attendu réalisé en interne grâce au travail des élus!
 
-
+# Rénovation du lavoir des Auvis
+La rénovation s'est achevée à l'automne 2021. Le projet avait été lancé en Septembre 2020.
 
 # EN COURS:
 
@@ -99,9 +104,6 @@ La carte du débordement du PPRI a été révisée. Elle caractérise les zones 
 
 # Réseau informatique fibre - en cours
 L'installation de la fibre est en cours dans le village. Les usagers pourront demander d'y adhérer auprès de leurs opérateurs dès nous serons éligibles.
-
-# Rénovation du lavoir des Auvis
-Nous sommes ravis d'annoncer que nous nous engageons à réhabiliter le lavoir en le remettant en eau. Cet ouvrage fait partie du « petit patrimoine » de l’ Uzège dans la période de la fin du XIXe siècle, bien qu ‘il ne soit pas inscrit à l’inventaire des monuments historiques.
 
 
 
