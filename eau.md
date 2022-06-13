@@ -4,7 +4,7 @@ titre: Accueil | Eau
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Eau - Assainissement
-date_texte: 1 juin 2020
+date_texte: 3 juin 2022
 illustration: /assets/illustrations/filtrageeauusées-banner.jpg
 description_illustration: La Mairie de Flaux.
 
@@ -22,24 +22,21 @@ menu_secondaire:
   
 documents:
 
+- fiche: ARRÊTÉ Secheresse Juin 2022
+  date_texte: 03 Juin 2022
+  addresse: assets/documents/arreté secheresse.pdf
+- fiche: Restrictions Secheresse
+  date_texte: 03 Juin 2022
+  addresse: assets/documents/AP_20220603_Restriction_Seche_Compl.pdf
 - fiche: ARS
   date_texte: 1 juin 2021
   addresse: assets/documents/ars 2020.pdf
-- fiche: ARRÊTÉ N° 30-2021-09-30-00002
-  date_texte: 30 Septembre 2021
-  addresse: assets/documents/ART_20210930_restric_sech_num_int.pdf
 - fiche: Flyer Eau
   date_texte: 5 juin 2020
   addresse: assets/flyer/FLYEReau202007.pdf
 - fiche: ARS
   date_texte: 5 juin 2020
   addresse: assets/documents/ars_eau.pdf
-- fiche: Avis de sécheresse - communiqué de presse
-  date_texte: 26 Avril 2021
-  addresse: assets/documents/communiqué de Presse.pdf
-- fiche: Avis de sécheresse - arrêté 30-2021 sécheresse
-  date_texte: 26 Avril 2021
-  addresse: assets/documents/arrêté 30-2021 sécheresse.pdf
 ---
 
 La production et la distribution de l’eau ainsi que la gestion des eaux usées sont en régie municipale.<br>
