@@ -22,9 +22,9 @@ menu_secondaire:
   
 documents:
 - fiche: Ouverture déchetteries
-  date_texte: 09 Mai 2022
-  addresse: /assets/flyer/sictomuete2022.pdf
-  type: pdf
+  date_texte: 14 Juin 2022
+  addresse: /assets/flyer/Info - C2 et déchèteries 2022 ete.png
+  type: png
 - fiche: Affiche
   date_texte: 5 juin 2020
   addresse: assets/images/lafarlede-depots-sauvage.png
