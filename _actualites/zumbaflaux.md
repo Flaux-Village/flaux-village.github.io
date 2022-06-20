@@ -11,7 +11,6 @@ date: 2022-06-20
 introduction: 
 ---
 
-## Zumba à Flaux <br>
 # Stage été!!
 
 ![Zumba à Flaux](/assets/flyer/zumba affiche ete 22.png){:class="img-responsive"}
