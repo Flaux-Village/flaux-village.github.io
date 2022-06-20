@@ -21,10 +21,12 @@ menu_secondaire:
   addresse: /csi.html
   
 documents:
-
+- fiche: Niveau Alerte Juin 2022
+  date_texte: 17 Juin 2022
+  addresse: assets/documents/niveau alerte_ete2022.pdf
 - fiche: ARRÊTÉ Secheresse Juin 2022
-  date_texte: 03 Juin 2022
-  addresse: assets/documents/arreté secheresse.pdf
+  date_texte: 17 Juin 2022
+  addresse: assets/documents/nouvel arrêté de sécheresse_ete2022.pdf
 - fiche: Restrictions Secheresse
   date_texte: 03 Juin 2022
   addresse: assets/documents/AP_20220603_Restriction_Seche_Compl.pdf
