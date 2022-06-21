@@ -15,4 +15,7 @@ introduction:
 
 
 
-![Eau et dechets](/assets/flyer/){:class="img-responsive"}
+![Eau et dechets](/assets/flyer/Eparge EAU 2022 .png){:class="img-responsive"}
+
+
+![Eau et dechets](/assets/flyer/TRI 2022.png){:class="img-responsive"}
