@@ -15,4 +15,4 @@ introduction:
 
 
 
-![Eau et dechets](/assets/flyer/EAU 2022.png){:class="img-responsive"}
+![Eau et dechets](/assets/flyer/){:class="img-responsive"}
