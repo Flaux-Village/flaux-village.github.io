@@ -9,14 +9,14 @@ onglets_principaux:
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
-- titre: École
-  addresse: /ecole.html
-  illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
-  description_illustration: école de Flaux
-- titre: Hébergement et restauration
-  addresse: /hebergements.html
-  illustration: /assets/illustrations/525_320_flauxtapas_3622.jpg
-  description_illustration: hebergement
+- titre: Feu
+  addresse: 
+  illustration: /assets/flyer/Feu-vigilancerouge.072022.png
+  description_illustration: flyer vigilance rouge
+- titre: Accès massifs forestiers
+  addresse: 
+  illustration: /assets/flyer/accès-massifsforestiers-2022.png
+  description_illustration: accès massifs forestiers
 
 articles_en_vedette:
 - titre: Où sommes-nous?
