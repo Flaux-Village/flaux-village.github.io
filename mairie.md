@@ -8,6 +8,9 @@ illustration: /assets/illustrations/bureaumairielandscape_980.JPG
 description_illustration: Mairie de Flaux.
 documents:
 
+- fiche: arrêté fermeture des massifs forestiers au public
+  date_texte: 08 juillet 202é
+  addresse: /assets/documents/2022-07.08 - arrêté fermeture des massifs forestiers au public.pdf
 - fiche: protocole sanitaire
   date_texte: 03 décembre 2021
   addresse: /assets/documents/Protocole_sanitaire_marches_couverts_ouverts_noel.pdf
