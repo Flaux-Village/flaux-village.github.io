@@ -24,7 +24,7 @@ articles_en_vedette:
   illustration: /assets/images/google-maps2.jpg
   description_illustration: La Mairie de Flaux.
 - titre: " Les navettes vers les marchés"
-  addresse: /assets/flyer/Dépliant-NAVETTES_CCPU-2020.pdf
+  addresse: /assets/flyer/CCPU-NAVETTES-2022-WEB2.pdf
   illustration: /assets/images/Navettessmall.jpg
   description_illustration: Dépliant Navette.
 - titre: " Tourisme"
