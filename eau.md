@@ -21,6 +21,12 @@ menu_secondaire:
   addresse: /csi.html
   
 documents:
+- fiche: Nouvel arrêté restriction eau
+  date_texte: 11 juillet 2022
+  addresse: /assets/documents/nouvel arrêté restriction eau ete 2022.pdf
+- fiche: Alerte renforcée
+  date_texte: 11 juillet 2022
+  addresse: /assets/documents/alerte renforcée ete 2022.pdf
 - fiche: Niveau Alerte Juin 2022
   date_texte: 17 Juin 2022
   addresse: assets/documents/niveau alerte_ete2022.pdf
