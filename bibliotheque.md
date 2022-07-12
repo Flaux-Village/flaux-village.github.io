@@ -41,7 +41,7 @@ menu_secondaire:
 
 <a href="https://www.mairie-flaux.fr/actualites/animations.html"> Pour toutes ANIMATIONS à la bibliothèque de Flaux...</a>  <br> 
 
-# La bibliothèque sera FERMÉE du 12 juillet au 19 août 2022 réouverture le lundi 22 août 2022 à 16h.<br> 
+# La bibliothèque sera FERMÉE du 12 juillet au 19 août 2022 réouverture le lundi 22 août 2022 à 16h. Nous vous souhaitons un bel été. L’équipe des bibliothécaires bénévoles<br> 
 
 # HORS vacances: La bibliothèque est ouverte:
  
@@ -49,7 +49,6 @@ menu_secondaire:
 ### Les mercredis de 10h à 12h30 <br> 
 
           
-<b>Masque OBLIGATOIRE et GEL hydro-alcoolique à l’entrée de la mairie et à l’accueil de labibliothèque. Le pass sanitaire est obligatoire à l’entrée de la bibliothèque.</b><br> 
 
 Que vous habitiez le territoire de la CCPU ou non, avoir une carte du réseau, emprunter et réserver des documents, c'est simple et gratuit.<br> 
 La carte est utilisable sur l'ensemble du réseau. <br> 
