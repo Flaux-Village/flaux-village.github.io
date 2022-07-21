@@ -10,7 +10,7 @@ onglets_principaux:
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
 - titre: Feu
-  addresse: 
+  addresse: /actualites/feu.html
   illustration: /assets/flyer/Feu-vigilancerouge.072022.png
   description_illustration: flyer vigilance rouge
 - titre: Accès massifs forestiers
