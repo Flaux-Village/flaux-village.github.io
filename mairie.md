@@ -7,18 +7,9 @@ titre_page: La mairie de Flaux
 illustration: /assets/illustrations/bureaumairielandscape_980.JPG
 description_illustration: Mairie de Flaux.
 documents:
-- fiche: Règlementation travaux
-  date_texte: 21 juillet 2022
-  addresse: /assets/documents/ART_20200615_reglementation_travaux_FDF.pdf
 - fiche: Nouvel arrêté restriction eau
   date_texte: 11 juillet 2022
   addresse: /assets/documents/nouvel arrêté restriction eau ete 2022.pdf
-- fiche: Alerte renforcée
-  date_texte: 11 juillet 2022
-  addresse: /assets/documents/alerte renforcée ete 2022.pdf
-- fiche: arrêté fermeture des massifs forestiers au public
-  date_texte: 08 juillet 2022
-  addresse: /assets/documents/2022-07.08 - arrêté fermeture des massifs forestiers au public.pdf
 - fiche: protocole sanitaire
   date_texte: 03 décembre 2021
   addresse: /assets/documents/Protocole_sanitaire_marches_couverts_ouverts_noel.pdf
