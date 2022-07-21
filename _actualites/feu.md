@@ -9,7 +9,16 @@ addresse_section: /actualites.html
 date_texte: 21 Juillet 2022
 date: 2022-07-21
 introduction: 
-
+documents:
+- fiche: Règlementation travaux
+  date_texte: 21 juillet 2022
+  addresse: /assets/documents/ART_20200615_reglementation_travaux_FDF.pdf
+- fiche: Alerte renforcée
+  date_texte: 11 juillet 2022
+  addresse: /assets/documents/alerte renforcée ete 2022.pdf
+- fiche: arrêté fermeture des massifs forestiers au public
+  date_texte: 08 juillet 2022
+  addresse: /assets/documents/2022-07.08 - arrêté fermeture des massifs forestiers au public.pdf
   
 ---
 
