@@ -12,7 +12,11 @@ documents:
 
 ---
 
-### Masque OBLIGATOIRE, GEL hydro-alcoolique à l’entrée de la mairie et à l’accueil de la bibliothèque.
+### Des travaux de goudronnage vont être effectués sur la D4
+## Entre mardi30/08 et jeudi01/09
+
+## La D4 sera coupée de Flaux (Madone) au Centaure, la circulation sera
+## déviée sur Saint Hippolyte de Montaigu.
 
 {% assign sorted = (site.actualites | sort: 'date') | reverse %}
 <ul>
