@@ -13,5 +13,5 @@ introduction:
 
 # Nouveaux tarifs 2022 - 2023!
 
-![Zumba à Flaux](/assets/flyer/ZUMBA FLAUX 22.23.png){:class="img-responsive"}
+![Zumba à Flaux](/assets/flyer/Zumba FLAUX 22.23 (2).png){:class="img-responsive"}
 
