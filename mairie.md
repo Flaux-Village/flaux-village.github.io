@@ -37,6 +37,9 @@ menu_secondaire:
   addresse: /etatcivil.html
 ---
 
+## Le secrétariat est exceptionnellement fermé ce jeudi 22 septembre
+
+
 ## Adresse de la mairie de Flaux
 95, rue de la Mairie<br/>
 30700 Flaux<br/>
