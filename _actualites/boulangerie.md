@@ -6,11 +6,13 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Boulangerie Pâtisserie, Pizza à emporter tous les mercredis soir
 section: À la une
 addresse_section: /actualites.html
-date_texte: 08 Avril 2022
-date: 2022-04-08
+date_texte: 20 Septembre 2022
+date: 2022-09-20
 
 introduction: 
 ---
+
+## La boulangerie Épis Flûte sera fermée exceptionnellement du dimanche 25 au jeudi 29 septembre inclus. Nous serons de retour vendredi 30 septembre aux horaires habituels, Merci, Suzy et Rémy
 
 # Notre boulangerie <br>
 
