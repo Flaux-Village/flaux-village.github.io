@@ -6,11 +6,27 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Évènements Flaux
 section: À la une
 addresse_section: /actualites.html
-date_texte: 12 Juillet 2022
-date: 2022-07-12
+date_texte: 26 Septembre 2022
+date: 2022-09-26
 introduction: 
 
 ---
+
+# Flaux Samedi 1 Octobre 2022
+
+Dans le cadre de la rencontre des artistes amateurs de Flaux 
+![artistes amateurs flaux](/assets/flyer/ARTISTES AMATEURS 1 octobre 22.png){:class="img-responsive"}
+
+# Flaux Dimanche 2 Octobre 2022
+
+La bibliothèque municipale vous convie le 2 octobre à un dimanche culturel au château de Flaux:<br>
+Lecture musicale d’un conte, exposition des œuvres d’artistes amateurs de Flaux et dons de livres.<br>
+Le programme de la journée.
+![lecture musicale flaux](/assets/flyer/affiche 2 octobre 22.png){:class="img-responsive"}
+Au plaisir de partager ces moments avec vous,
+L’équipe des bibliothécaires.
+
+
 # 14 Juillet 2022, Animations 100% Flauxiennes, apéro dinatoire!!
 Monsieur le Maire et son Conseil municipal vous invitent dans le respect des gestes barrière à un apéritif dinatoire pour la fête Nationale du 14 Juillet, à partir de 19h dans la cour du château.
 Soirée animée:
