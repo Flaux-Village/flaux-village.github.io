@@ -3,7 +3,7 @@ layout: page
 titre: Actualités | Évènements Flaux
 description: Évènements
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Évènements Flaux
+titre_page: Évènements Flaux, 1 et 2 Octobre!
 section: À la une
 addresse_section: /actualites.html
 date_texte: 26 Septembre 2022
