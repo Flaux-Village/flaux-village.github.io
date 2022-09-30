@@ -5,10 +5,10 @@ description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Bienvenue à Flaux
 onglets_principaux:
-- titre: La mairie
-  addresse: /mairie.html
-  illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
-  description_illustration: La Mairie de Flaux.
+- titre: Artistes A Flaux
+  addresse: /evenementsflaux.html
+  illustration: /assets/flyer/Artistes A Flaux October 2022.png
+  description_illustration: Expo A Flaux
 - titre: École
   addresse: /ecole.html
   illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
