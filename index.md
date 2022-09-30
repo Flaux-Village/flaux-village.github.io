@@ -6,7 +6,7 @@ keywords: mairie, commune, flaux, gard
 titre_page: Bienvenue à Flaux
 onglets_principaux:
 - titre: Artistes A Flaux
-  addresse: /evenementsflaux.html
+  addresse: /actualites/evenementsflaux.html
   illustration: /assets/flyer/Artistes A Flaux October 2022.png
   description_illustration: Expo A Flaux
 - titre: École
