@@ -11,6 +11,10 @@ date: 2022-09-26
 introduction: 
 
 ---
+# Exposition collective du 29 au 3 Octobre 2022, Pierre Bessuges participe...
+
+![artistes amateurs flaux](/assets/flyer/309404690_539709931490217_784203395261323227_n.jpeg){:class="img-responsive"}
+
 
 # Flaux Samedi 1 Octobre 2022
 
