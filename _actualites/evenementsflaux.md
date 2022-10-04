@@ -6,11 +6,17 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Évènements Flaux, 1 et 2 Octobre!
 section: À la une
 addresse_section: /actualites.html
-date_texte: 26 Septembre 2022
-date: 2022-09-26
+date_texte: 04 Octobre 2022
+date: 2022-10-04
 introduction: 
 
 ---
+# Halloween à Flaux, Samedi 29 Octobre!
+
+![affiche Halloween 2022](/assets/flyer/halloween.2022.png){:class="img-responsive"}
+![affiche parcour Halloween 2022](/assets/flyer/halloweenflaux.2022.png){:class="img-responsive"}
+
+
 # Exposition collective du 29 au 3 Octobre 2022, Pierre Bessuges participe...
 
 ![artistes amateurs flaux](/assets/flyer/309404690_539709931490217_784203395261323227_n.jpeg){:class="img-responsive"}
