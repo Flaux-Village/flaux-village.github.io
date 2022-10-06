@@ -11,7 +11,7 @@ documents:
 
 
 ---
-
+## La bibliothèque sera fermée pendant les vacances scolaires de Toussaint, du lundi 24 octobre au dimanche 6 novembre inclus.<br>
 
 {% assign sorted = (site.actualites | sort: 'date') | reverse %}
 <ul>
