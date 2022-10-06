@@ -41,7 +41,7 @@ menu_secondaire:
 
 <a href="https://www.mairie-flaux.fr/actualites/animations.html"> Pour toutes ANIMATIONS à la bibliothèque de Flaux...</a>  <br> 
 
-
+## La bibliothèque sera fermée pendant les vacances scolaires de Toussaint, du lundi 24 octobre au dimanche 6 novembre inclus.<br> 
 # HORS vacances: La bibliothèque est ouverte:
  
 ### Les lundis de 16h à 18h30 <br> 
@@ -60,6 +60,8 @@ La carte est utilisable sur l'ensemble du réseau. <br>
 
 Vous pouvez prolonger la durée de prêt pour quatre semaines supplémentaires (sauf nouveautés et documents réservés par un autre usager).<br> 
 
-
+## Lundi 7 novembre<br>
+17h30 à 18h30 <br>
+LECTURE DE NOUVELLES , pour le plaisir d'entendre des textes courts lus par les bibliothécaires.<br>
 
 
