@@ -12,5 +12,5 @@ date: 2022-10-07
 ---
 
 
-![présentation collecte sictomu 2022](/assets/flyer/2022 - 10.07 - Réunion publique SICTOMU (1).jpg){:class="img-responsive"}
+![présentation collecte sictomu 2022](/assets/flyer/2022 - 10.07 - Réunion publique SICTOMU.jpg){:class="img-responsive"}
 
