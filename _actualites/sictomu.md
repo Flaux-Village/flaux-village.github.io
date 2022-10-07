@@ -7,10 +7,10 @@ titre_page: Sictomu présentation collecte emballages
 section: À la une
 addresse_section: /actualites.html
 date_texte: 07 Octobre 2022
-date: 2021-10-07
+date: 2022-10-07
 
 ---
 
 
-![présentation collecte sictomu 2022](/assets/flyer/2022 - 10.07 - Réunion publique SICTOMU (1).png){:class="img-responsive"}
+![présentation collecte sictomu 2022](/assets/flyer/2022 - 10.07 - Réunion publique SICTOMU (1).jpg){:class="img-responsive"}
 
