@@ -36,6 +36,7 @@ documents:
   addresse: assets/flyer/guide_tri-tryptique_1289.pdf
   
 ---
+## ANNONCE: Les déchèteries du SICTOMU (Uzès + Fournès + Lussan + Vallabrix) et Garrigues Ste Eulalie seront exceptionnellement fermées l'après-midi MERCREDI 26 OCTOBRE 2022 de 14h à 17h15. Pour rappel les déchèteries sont également fermées tous les jours fériés. Pour tout renseignement, le SICTOMU se tient à votre disposition au 04 66 22 13 70.
 
 # Collecte sélective:
 
