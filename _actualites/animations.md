@@ -6,12 +6,20 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Animations
 section: À la une
 addresse_section: /actualites.html
-date_texte: 29 Mars 2022
-date: 2022-03-29
+date_texte: 20 Octobre 2022
+date: 2022-10-20
 introduction: 
+documents:
+- fiche: Nouvel arrêté restriction eau
+  date_texte: 11 juillet 2022
+  addresse: /assets/flyer/Balade Ateliers Particulier inscription oct no déc 2022.pdf
 
   
 ---
+
+
+
+# Balades en préhistoire le dimanche 23 octobre et le samedi 5 novembre 2022. Je joins le document des manifestations de l'association Toiles en Coulisses., Merci. Véronique Calvez
 
 # NOUS VOUS INFORMONS QUE LA BIBLIOTHÈQUE SERA FERMÉE DU MARDI 26AVRIL AU DIMANCHE 8 MAI INCLUS.
 
