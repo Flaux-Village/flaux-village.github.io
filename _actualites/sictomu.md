@@ -35,7 +35,8 @@ Vous retrouverez toutes les informations nécessaires au lien suivant
 ainsi que sur le communiqué de presse joint au mail.<br>
 
 Lien:<br>
-https://www.ccpaysduzes.fr/environnement/gestion-des-dechets/10-environnement/96-votre-composteur-avec-la-ccpu.html
+ <a href="https://www.ccpaysduzes.fr/environnement/gestion-des-dechets/10-environnement/96-votre-composteur-avec-la-ccpu.html">Votre composteur avec la ccpu.</a>  <br> 
+ 
 
-![présentation collecte sictomu 2022](/assets/flyer/2022reunion publique SICTOMU.png){:class="img-responsive"}
+
 
