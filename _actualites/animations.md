@@ -10,8 +10,8 @@ date_texte: 20 Octobre 2022
 date: 2022-10-20
 introduction: 
 documents:
-- fiche: Nouvel arrêté restriction eau
-  date_texte: 11 juillet 2022
+- fiche: Fiche d'inscription balade
+  date_texte: 20 Octobre 2022
   addresse: /assets/flyer/Balade Ateliers Particulier inscription oct no déc 2022.pdf
 
   
