@@ -6,9 +6,9 @@ keywords: mairie, commune, flaux, gard
 titre_page: Bienvenue à Flaux
 onglets_principaux:
 - titre: Composteur
-  addresse: /actualites/sictomu.html
-  illustration: /assets/flyer/composteurhome.png
-  description_illustration: Composteur.
+  addresse: 
+  illustration: /assets/flyer/11nov22.png
+  description_illustration: 11 novembre .
 - titre: École
   addresse: /ecole.html
   illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
