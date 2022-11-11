@@ -1,13 +1,13 @@
 ---
 layout: page
-titre: Actualités | Sictomu composteur
-description: Sictomu composteur
+titre: Actualités | Sictomu Collecte Emballages
+description: Sictomu Emballages
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Sictomu composteur
+titre_page: Sictomu Emballages
 section: À la une
 addresse_section: /actualites.html
-date_texte: 20 Octobre 2022
-date: 2022-10-20
+date_texte: 11 Novembre 2022
+date: 2022-11-11
 documents:
 - fiche: Présentation composteur
   date_texte: 20 Octobre 2022
@@ -16,7 +16,26 @@ documents:
   date_texte: 20 Octobre 2022
   addresse: /assets/flyer/Communiqué de presse-6.pdf
 ---
-Madame, Monsieur,<br>
+
+Bonjour,<br>
+
+Pour la mise en place de la collecte des emballages en porte à porte qui
+démarrera le jeudi 1er décembre
+merci de vous présenter en mairie muni de votre numéro de bac pour vous
+attribuer les sacs de collecte<br>
+
+# 3 permanences vous sont proposées<br>
+
+# lundi 14 novembre :  10h/12h<br>
+# Jeudi 17 novembre :  10h/12h<br>
+# samedi 19 novembre : 10h/12h<br>
+
+
+bien cordialement<br>
+
+kristel GOMIS<br>
+
+Par ailleurs, Composteurs<br>
 
 La CCPU, en partenariat avec le SICTOMU et le SITOM, propose aux
 habitants du territoire de commander un composteur ou un
