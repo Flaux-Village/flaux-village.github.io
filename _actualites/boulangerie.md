@@ -12,13 +12,13 @@ date: 2022-09-20
 introduction: 
 ---
 
-## La boulangerie Épis Flûte sera fermée exceptionnellement du dimanche 25 au jeudi 29 septembre inclus. Nous serons de retour vendredi 30 septembre aux horaires habituels, Merci, Suzy et Rémy
+
 
 # Notre boulangerie <br>
 
 Bonjour à tous,<br>
 
-Les pizzas sont de retour tous les mercredis soirs à compter de mercredi 13 avril à 18h<br>
+Les pizzas sont dispo les mercredis soirs<br>
 
 Nous vous invitons à faire vos commandes si vous désirez<br>
 
