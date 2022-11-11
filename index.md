@@ -5,7 +5,7 @@ description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Bienvenue à Flaux
 onglets_principaux:
-- titre: Composteur
+- titre: 11 Novembre
   addresse: 
   illustration: /assets/flyer/11nov22.png
   description_illustration: 11 novembre .
