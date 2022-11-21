@@ -5,10 +5,10 @@ description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Bienvenue à Flaux
 onglets_principaux:
-- titre: Vigilance Orange
-  addresse: 
-  illustration: /assets/flyer/alertemeteo.jpeg
-  description_illustration: vigilance orange
+- titre: Comité des Fêtes
+  addresse: /actualites/evenementsflaux.html
+  illustration: /assets/flyer/comitéfetes.belote.nov.2022.jpeg
+  description_illustration: comité des fêtes
 - titre: École
   addresse: /ecole.html
   illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
