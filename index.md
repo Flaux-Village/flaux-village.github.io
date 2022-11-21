@@ -7,7 +7,7 @@ titre_page: Bienvenue à Flaux
 onglets_principaux:
 - titre: Comité des Fêtes
   addresse: /actualites/evenementsflaux.html
-  illustration: /assets/flyer/comitéfetes.belote.nov.2022.jpeg
+  illustration: /assets/flyer/home.comitefete 2022.png
   description_illustration: comité des fêtes
 - titre: École
   addresse: /ecole.html
