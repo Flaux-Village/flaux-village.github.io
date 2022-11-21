@@ -6,25 +6,20 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Boulangerie Pâtisserie, Pizza à emporter tous les mercredis soir
 section: À la une
 addresse_section: /actualites.html
-date_texte: 20 Septembre 2022
-date: 2022-09-20
+date_texte: 20 Novembre 2022
+date: 2022-11-20
 
 introduction: 
 ---
 
-
-
 # Notre boulangerie <br>
 
-Bonjour à tous,<br>
+Nous prenons nos horaires d'hiver:
 
-Les pizzas sont dispo les mercredis soirs<br>
-
-Nous vous invitons à faire vos commandes si vous désirez<br>
-
-Soit par téléphone 04 11 71 95 45<br>
-
-Vous remerciant de votre fidélité<br>
+# Ouvert les matins de 6h30 à 12h30
+# Dimanches et jours fériés de 6h30 à 13h
+# Fermé les après midi et
+# Les mercredis et  jeudis (journée)
 
 Suzy et Rémy<br>
 
