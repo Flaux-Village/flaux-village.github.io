@@ -15,7 +15,9 @@ introduction:
 
 ![belote et jeux](/assets/flyer/comitéfetes.belote.nov.2022.jpeg){:class="img-responsive"}
 
+# Marché de Noël de créateurs - Dimanche 4 Décembre
 
+![belote et jeux](/assets/flyer/MAIRIE DE FLAUX_20221121_072115.png){:class="img-responsive"}
 
 
 
