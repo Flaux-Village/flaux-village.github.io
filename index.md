@@ -7,7 +7,7 @@ titre_page: Bienvenue à Flaux
 onglets_principaux:
 - titre: Fête de Noël
   addresse: /actualites/evenementsflaux.html
-  illustration: /assets/flyer/AFFICHE NOEL-Front.png
+  illustration: /assets/flyer/AFFICHE NOEL - front.png
   description_illustration: Fête de Noël Flaux
 - titre: École
   addresse: /ecole.html
