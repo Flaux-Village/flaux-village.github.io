@@ -5,10 +5,10 @@ description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Bienvenue à Flaux
 onglets_principaux:
-- titre: Comité des Fêtes
+- titre: Fête de Noël
   addresse: /actualites/evenementsflaux.html
-  illustration: /assets/flyer/home.comitefete 2022.png
-  description_illustration: comité des fêtes
+  illustration: /assets/flyer/AFFICHE NOEL-Front.png
+  description_illustration: Fête de Noël Flaux
 - titre: École
   addresse: /ecole.html
   illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
