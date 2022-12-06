@@ -11,9 +11,9 @@ date: 2022-11-21
 introduction: 
 
 ---
-# Belote et Jeux!
+# Fête de Noël!
 
-![belote et jeux](/assets/flyer/comitéfetes.belote.nov.2022.jpeg){:class="img-responsive"}
+![fete de noel flaux](/assets/flyer/AFFICHE NOEL.png){:class="img-responsive"}
 
 # Marché de Noël de créateurs - Dimanche 4 Décembre
 
