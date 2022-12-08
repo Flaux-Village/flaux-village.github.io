@@ -9,10 +9,10 @@ onglets_principaux:
   addresse: /actualites/evenementsflaux.html
   illustration: /assets/flyer/AFFICHE NOEL - front.png
   description_illustration: Fête de Noël Flaux
-- titre: École
-  addresse: /ecole.html
-  illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
-  description_illustration: école de Flaux
+- titre: Service public itinérant
+  addresse: /actualites/servicepublicitinerant.html
+  illustration: /assets/flyer/maisonfrance-decembre22.png
+  description_illustration: Service public itinérant Flaux
 - titre: Hébergement et restauration
   addresse: /hebergements.html
   illustration: /assets/illustrations/525_320_flauxtapas_3622.jpg
