@@ -18,8 +18,7 @@ Nous prenons nos horaires d'hiver:
 
 # Ouvert les matins de 6h30 à 12h30
 # Dimanches et jours fériés de 6h30 à 13h
-# Fermé les après midi et
-# Les mercredis et  jeudis (journée)
+# Fermé les après midi et les mercredis et  jeudis (journée)
 
 Suzy et Rémy<br>
 
