@@ -13,10 +13,10 @@ onglets_principaux:
   addresse: /actualites/servicepublicitinerant.html
   illustration: /assets/flyer/maisonfrance-decembre22.png
   description_illustration: Service public itinérant Flaux
-- titre: Hébergement et restauration
-  addresse: /hebergements.html
-  illustration: /assets/illustrations/525_320_flauxtapas_3622.jpg
-  description_illustration: hebergement
+- titre: Boulangerie Flaux
+  addresse: /actualites/boulangerie.html
+  illustration: /assets/flyer/boulangerie.png
+  description_illustration: Boulangerie Flaux
 
 articles_en_vedette:
 - titre: Où sommes-nous?
