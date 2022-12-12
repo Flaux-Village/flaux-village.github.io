@@ -5,14 +5,14 @@ description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Bienvenue à Flaux
 onglets_principaux:
-- titre: Fête de Noël
-  addresse: /actualites/evenementsflaux.html
-  illustration: /assets/flyer/AFFICHE NOEL - front.png
-  description_illustration: Fête de Noël Flaux
-- titre: Service public itinérant
-  addresse: /actualites/servicepublicitinerant.html
-  illustration: /assets/flyer/maisonfrance-decembre22.png
-  description_illustration: Service public itinérant Flaux
+- titre: La mairie
+  addresse: /mairie.html
+  illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
+  description_illustration: La Mairie de Flaux.
+- titre: École
+  addresse: /ecole.html
+  illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
+  description_illustration: école de Flaux
 - titre: Boulangerie Flaux
   addresse: /actualites/boulangerie.html
   illustration: /assets/flyer/boulangerie.png
