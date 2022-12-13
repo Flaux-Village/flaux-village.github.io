@@ -6,8 +6,8 @@ keywords: mairie, commune, flaux, gard
 titre_page: Bienvenue à Flaux
 onglets_principaux:
 - titre: Marché de Noël avec Chavamieux
-  addresse: /actualites/evenementsflaux.md.html
-  illustration: /assets/illustrations/chavamieuxfront.png
+  addresse: /actualites/evenementsflaux.html
+  illustration: /assets/flyer/chavamieuxfront.png
   description_illustration: Flyer Chavamieux.
 - titre: École
   addresse: /ecole.html
