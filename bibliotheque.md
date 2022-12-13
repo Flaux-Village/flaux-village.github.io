@@ -44,8 +44,9 @@ Vous pouvez prolonger la durée de prêt pour quatre semaines supplémentaires (
 
 <a href="https://www.mairie-flaux.fr/actualites/animations.html"> Pour toutes ANIMATIONS à la bibliothèque de Flaux...</a>  <br> 
 
-## La bibliothèque sera fermée pendant les vacances scolaires de Noël, du lundi 19 décembre au Lundi 4 Janvier 2023.<br> 
-# HORS vacances: La bibliothèque est ouverte:
+## La bibliothèque sera fermée pendant les vacances scolaires de Noël, du lundi 19 décembre au 4 janvier inclus 2023, réouverture le jeudi 5 janvier 2023 à 15h30.<br> 
+
+# HORS vacances: La bibliothèque est ouverte: 
  
 ### Le lundi de 16h à 18h30 <br> 
 ### Le jeudi de 15h30 à 18h <br> 
