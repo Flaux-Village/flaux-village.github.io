@@ -3,7 +3,7 @@ layout: page
 titre: Actualités | Évènements Flaux
 description: Évènements
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Évènements Flaux, Belote!
+titre_page: Évènements Flaux
 section: À la une
 addresse_section: /actualites.html
 date_texte: 13 décembre 2022
