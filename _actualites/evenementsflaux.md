@@ -6,18 +6,15 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Évènements Flaux, Belote!
 section: À la une
 addresse_section: /actualites.html
-date_texte: 21 Novembre 2022
-date: 2022-11-21
+date_texte: 13 décembre 2022
+date: 2022-12-13
 introduction: 
 
 ---
-# Fête de Noël!
+# Noël avec Chavamieux!
 
-![fete de noel flaux](/assets/flyer/AFFICHE NOEL.png){:class="img-responsive"}
+![fete de noel chavamieux flaux](/assets/flyer/flyer chavamieux 2022.png){:class="img-responsive"}
 
-# Marché de Noël de créateurs - Dimanche 4 Décembre
-
-![belote et jeux](/assets/flyer/MAIRIE DE FLAUX_20221121_072115.png){:class="img-responsive"}
 
 
 
