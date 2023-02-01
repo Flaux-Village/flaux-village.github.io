@@ -9,10 +9,10 @@ onglets_principaux:
   addresse: /mairie.html
   illustration: /assets/illustrations/525_320_Flauxentrance_3610.jpg
   description_illustration: La Mairie de Flaux.
-- titre: École
-  addresse: /ecole.html
-  illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
-  description_illustration: école de Flaux
+- titre: Avis AMI
+  addresse: /actualites/photovoltaique.html
+  illustration: /assets/flyer/AVIS AMI Front.png
+  description_illustration: Avis AMI
 - titre: Boulangerie Flaux
   addresse: /actualites/boulangerie.html
   illustration: /assets/flyer/boulangerie.png
