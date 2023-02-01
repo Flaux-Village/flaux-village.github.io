@@ -11,7 +11,7 @@ onglets_principaux:
   description_illustration: La Mairie de Flaux.
 - titre: Avis AMI
   addresse: /actualites/photovoltaique.html
-  illustration: /assets/flyer/AVIS AMI Front.png
+  illustration: /assets/flyer/AVIS ami front2.png
   description_illustration: Avis AMI
 - titre: Boulangerie Flaux
   addresse: /actualites/boulangerie.html
