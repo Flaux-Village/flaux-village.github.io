@@ -7,6 +7,9 @@ titre_page: Comptes rendus des conseils municipaux
 illustration: /assets/illustrations/archives_landscape980.JPG
 description_illustration: Mairie de Flaux.
 documents:
+- fiche: Procès verbal du 16 Décembre 2022
+  date_texte: 03 Février 2023
+  addresse: /assets/documents/comptesrendus/PV du 16 décembre 2022.pdf
 - fiche: Compte rendu du 28 avril 2022 
   date_texte: 28 Avril 2022
   addresse: /assets/documents/comptesrendus/Compte rendu du 28 avril 2022.pdf
