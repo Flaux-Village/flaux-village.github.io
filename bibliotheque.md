@@ -56,5 +56,6 @@ Grâce au passage du bibliobus tous les 6 mois vous pouvez emprunter des livres 
 Au plaisir de vous accueillir.<br> 
           
 
+![Animation bibliotheque](/assets/flyer/affiche kamishibai 15 02 23.png){:class="img-responsive"}
 
 
