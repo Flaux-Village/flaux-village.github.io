@@ -6,8 +6,8 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Service Public Itinérant RDV Vendredi 9 décembre 2022 de 14h à 16h30 en Mairie de Flaux
 section: À la une
 addresse_section: /actualites.html
-date_texte: 08 Décembre 2022
-date: 2022-12-08
+date_texte: 07 Février 2023
+date: 2023-02-07
 illustration: 
 description_illustration: 
 introduction: 
@@ -23,4 +23,4 @@ de 14H00 à 16H30.<br>
 
 Pour en savoir plus [services publics itinerants](https://www.ccpaysduzes.fr/actualites/item/services-publics-itinerants.html)<br>
 
-PROCHAIN RENDEZ-VOUS:  Vendredi 9 décembre 2022 de 14h à 16h30 en Mairie de Flaux
+PROCHAIN RENDEZ-VOUS:  Vendredi 10 février 2023 de 14h à 16h30 en Mairie de Flaux
