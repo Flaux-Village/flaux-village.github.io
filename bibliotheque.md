@@ -44,7 +44,7 @@ Vous pouvez prolonger la durée de prêt pour quatre semaines supplémentaires (
 
 <a href="https://www.mairie-flaux.fr/actualites/animations.html"> Pour toutes ANIMATIONS à la bibliothèque de Flaux...</a>  <br> 
 
-## La bibliothèque sera fermée pendant les vacances scolaires de Noël, du lundi 19 décembre au 4 janvier inclus 2023, réouverture le jeudi 5 janvier 2023 à 15h30.<br> 
+## Animations ateliers jeunesse<br> 
 
 # HORS vacances: La bibliothèque est ouverte: 
  
@@ -54,6 +54,15 @@ Vous pouvez prolonger la durée de prêt pour quatre semaines supplémentaires (
 Des nouveautés pour la rentrée de janvier 2023. <br> 
 Grâce au passage du bibliobus tous les 6 mois vous pouvez emprunter des livres audios, des BD, des romans et des albums. <br> 
 Au plaisir de vous accueillir.<br> 
+
+Des activités ludiques sont proposées aux enfants une fois par mois de 10h30 à 12h00. Ces ateliers sont animés par Sylvie parent.<br> 
+
+- Mercredi 15 février: Des histoires Kamishibaï<br> 
+- Mercredi 22 mars: Le printemps des poètes<br> 
+- Mercredi 19 avril: Albums sans texte<br> 
+- Mercredi 24 mai: Création artistique<br> 
+
+La bibliothèque sera fermée pendant les vacances scolaires d'hiver, du mardi 21 février au 5 mars 2023 inclus, réouverture le lundi 6 mars à 16h.<br> 
           
 
 ![Animation bibliotheque](/assets/flyer/affiche kamishibai 15 02 23.png){:class="img-responsive"}
