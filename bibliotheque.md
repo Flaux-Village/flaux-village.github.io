@@ -67,4 +67,5 @@ La bibliothèque sera fermée pendant les vacances scolaires d'hiver, du mardi 2
 
 ![Animation bibliotheque](/assets/flyer/affiche kamishibai 15 02 23.png){:class="img-responsive"}
 
+![Ludo affiche 15 février](/assets/flyer/Ludo - affiche FLAUX 15 février 2023.pdf){:class="img-responsive"}
 
