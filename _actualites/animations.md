@@ -14,9 +14,8 @@ documents:
   
 ---
 
-![Animation bibliotheque](/assets/flyer/affiche kamishibai 15 02 23.png){:class="img-responsive"}
 
-![Ludo affiche 15 février](/assets/flyer/Ludo - affiche FLAUX 15 février 2023.pdf){:class="img-responsive"}
+![Atelier numerique](/assets/flyer/ateliernumerique.png){:class="img-responsive"}
 
-![Association artzilhac](/assets/flyer/Resized_Nume_rise.jpeg){:class="img-responsive"}
+
 
