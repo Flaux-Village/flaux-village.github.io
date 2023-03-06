@@ -7,6 +7,10 @@ titre_page: La mairie de Flaux
 illustration: /assets/illustrations/bureaumairielandscape_980.JPG
 description_illustration: Mairie de Flaux.
 documents:
+
+- fiche: sécurité publique departement
+  date_texte: 06 Mars 2023
+  addresse: /assets/documents/ART_20230223_SEF-2023-0014_securite-publique-departement.pdf
 - fiche: Nouvel arrêté restriction eau
   date_texte: 11 juillet 2022
   addresse: /assets/documents/nouvel arrêté restriction eau ete 2022.pdf
