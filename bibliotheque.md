@@ -4,7 +4,7 @@ titre: Accueil | Bibliothèque
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Bibliothèque de Flaux
-date_texte: 30 Novembre 2021
+date_texte: 09 Mars 2023
 illustration: /assets/illustrations/bibliotheque2landscape-980.JPG
 description_illustration: La Mairie de Flaux.
 
@@ -64,8 +64,6 @@ Des activités ludiques sont proposées aux enfants une fois par mois de 10h30 �
 
 La bibliothèque sera fermée pendant les vacances scolaires d'hiver, du mardi 21 février au 9 mars 2023 inclus, réouverture le jeudi 9 mars à 15h30.<br> 
           
+![affiche bibliotheque](/assets/flyer/affiche bibliotheque 2023-03-09 at 15.01.46.png){:class="img-responsive"}
 
-![Animation bibliotheque](/assets/flyer/affiche kamishibai 15 02 23.png){:class="img-responsive"}
-
-![Ludo affiche 15 février](/assets/flyer/Ludo - affiche FLAUX 15 février 2023.pdf){:class="img-responsive"}
 
