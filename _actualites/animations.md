@@ -6,14 +6,15 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Animations
 section: À la une
 addresse_section: /actualites.html
-date_texte: 21 Février 2023
-date: 2023-02-21
+date_texte: 09 Mars 2023
+date: 2023-03-09
 introduction: 
 documents:
 
   
 ---
 
+![affiche bibliotheque](/assets/flyer/affiche bibliotheque 2023-03-09 at 15.01.46.png){:class="img-responsive"}
 
 ![Atelier numerique](/assets/flyer/ateliernumerique.png){:class="img-responsive"}
 
