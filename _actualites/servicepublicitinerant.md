@@ -3,11 +3,11 @@ layout: page
 titre: Actualités | Service Public Itinérant
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Service Public Itinérant RDV Vendredi 10 février 2023 de 14h à 16h30 en Mairie de Flaux
+titre_page: Service Public Itinérant RDV Vendredi 10 mars 2023 de 14h à 16h30 en Mairie de Flaux
 section: À la une
 addresse_section: /actualites.html
-date_texte: 07 Février 2023
-date: 2023-02-07
+date_texte: 09 Mars 2023
+date: 2023-03-09
 illustration: 
 description_illustration: 
 introduction: 
@@ -23,4 +23,7 @@ de 14H00 à 16H30.<br>
 
 Pour en savoir plus [services publics itinerants](https://www.ccpaysduzes.fr/actualites/item/services-publics-itinerants.html)<br>
 
-PROCHAIN RENDEZ-VOUS:  Vendredi 10 février 2023 de 14h à 16h30 en Mairie de Flaux
+PROCHAIN RENDEZ-VOUS:  MAISON France SERVICE
+Vendredi 10 mars 2023
+de 14h à 16h30
+en Mairie de Flaux
