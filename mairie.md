@@ -41,8 +41,6 @@ menu_secondaire:
   addresse: /etatcivil.html
 ---
 
-## Le secrétariat sera fermé du 27 février au 3 mars(inclus)
-
 
 ## Adresse de la mairie de Flaux
 95, rue de la Mairie<br/>
