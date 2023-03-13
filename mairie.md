@@ -8,6 +8,9 @@ illustration: /assets/illustrations/bureaumairielandscape_980.JPG
 description_illustration: Mairie de Flaux.
 documents:
 
+- fiche: Arrêté sècheresse
+  date_texte: 10 Mars 2023
+  addresse: /assets/documents/AP_202303_Restriction_SecheresseNum_int.odt.pdf
 - fiche: sécurité publique departement
   date_texte: 06 Mars 2023
   addresse: /assets/documents/ART_20230223_SEF-2023-0014_securite-publique-departement.pdf
