@@ -17,21 +17,7 @@ documents:
 - fiche: Nouvel arrêté restriction eau
   date_texte: 11 juillet 2022
   addresse: /assets/documents/nouvel arrêté restriction eau ete 2022.pdf
-- fiche: protocole sanitaire
-  date_texte: 03 décembre 2021
-  addresse: /assets/documents/Protocole_sanitaire_marches_couverts_ouverts_noel.pdf
-- fiche: Port du masque
-  date_texte: 03 décembre 2021
-  addresse: /assets/documents/AP 30-2021-334-001 Port du masque.pdf
-  type: pdf
-- fiche: Tableau des mesures EUS
-  date_texte: 03 décembre 2021
-  addresse: /assets/documents/2021.11.30 TABLEAU DES MESURES EUS sortie de crise sanitaire.pdf
-  type: pdf
-- fiche: Couverture centres de vaccinations
-  date_texte: 03 décembre 2021
-  addresse: /assets/documents/245_CP ouverture centres de vaccination.pdf
-  type: pdf
+
   
 menu_secondaire:
 - titre: Horaires secrétariat
