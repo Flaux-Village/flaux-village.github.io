@@ -35,7 +35,7 @@ prochaines journées :<br>
 
 Vous trouverez le nouveau formulaire d'inscription en pièce jointe,
 ainsi que des éléments de communication via le lien ci-dessous.<br> 
-Lien:<br>
+<br>
  <a href="https://we.tl/t-bCLZAwhBPV">Lien formulaire.</a>  <br> 
 
 
