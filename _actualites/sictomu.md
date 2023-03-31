@@ -1,9 +1,9 @@
 ---
 layout: page
-titre: Actualités | Sictomu Collecte Emballages
-description: Sictomu Emballages
+titre: Actualités | Sictomu Composteur
+description: Sictomu Composteur
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Sictomu Emballages
+titre_page: Sictomu Composteur
 section: À la une
 addresse_section: /actualites.html
 date_texte: 31 Mars 2023
