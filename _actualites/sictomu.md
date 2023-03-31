@@ -9,6 +9,9 @@ addresse_section: /actualites.html
 date_texte: 31 Mars 2023
 date: 2023-03-31
 documents:
+- fiche: Formulaire formation compost
+  date_texte: 31 Mars 2023
+  addresse: /assets/flyer/formulaire formation compost.pdf
 - fiche: Présentation composteur
   date_texte: 20 Octobre 2022
   addresse: /assets/flyer/Composteurs -2.pdf
