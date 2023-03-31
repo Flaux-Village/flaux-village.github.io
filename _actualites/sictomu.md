@@ -31,12 +31,13 @@ prochaines journées :<br>
         * La Bruguière, le samedi 15 avril (après-midi)
         * Arpaillargues, le samedi 29 avril
         * Saint-Siffret, le samedi 6 mai
-        * Montaren, le samedi 13 mai<br> 
+        * Montaren, le samedi 13 mai
 
 Vous trouverez le nouveau formulaire d'inscription en pièce jointe,
 ainsi que des éléments de communication via le lien ci-dessous.<br> 
+Lien:<br>
+ <a href="https://we.tl/t-bCLZAwhBPV">Lien formulaire.</a>  <br> 
 
-https://we.tl/t-bCLZAwhBPV<br> 
 
 Comme à l'habitude, la durée de la formation est de 45 minutes.<br> 
 L'heure exacte de la session sera communiquée plus tard.
