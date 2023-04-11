@@ -64,6 +64,6 @@ Des activités ludiques sont proposées aux enfants une fois par mois de 10h30 �
 
 La bibliothèque sera fermée pendant les vacances scolaires d'hiver, du mardi 21 février au 9 mars 2023 inclus, réouverture le jeudi 9 mars à 15h30.<br> 
           
-![affiche bibliotheque](/assets/flyer/affiche bibliotheque 2023-03-09 at 15.01.46.png){:class="img-responsive"}
+![affiche bibliotheque](/assets/flyer/bibliotheque affiche Flaux 19 04 23.png){:class="img-responsive"}
 
 
