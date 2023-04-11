@@ -14,7 +14,7 @@ documents:
   
 ---
 
-![affiche bibliotheque](/assets/flyer/affiche bibliotheque 2023-03-09 at 15.01.46.png){:class="img-responsive"}
+![affiche bibliotheque](/assets/flyer/bibliotheque affiche Flaux 19 04 23.png){:class="img-responsive"}
 
 ![Atelier numerique](/assets/flyer/ateliernumerique.png){:class="img-responsive"}
 
