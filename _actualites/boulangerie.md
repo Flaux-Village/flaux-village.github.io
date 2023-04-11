@@ -14,11 +14,10 @@ introduction:
 
 # Notre boulangerie <br>
 
-Nous prenons nos horaires d'hiver:
 
-# Ouvert les matins de 6h30 à 12h30
+# La boulangerie reouvre les après midi de 16h30 à 18h30 du mardi 11 Avril à mi septembre, et les matins de 6h30 à 12h30
+# À partir du 14 juin jusqu'à mi septembre, les mercredis avec pizzas à emporter! 
 # Dimanches et jours fériés de 6h30 à 13h
-# Fermé les après midi et les mercredis et  jeudis (journée)
 
 Suzy et Rémy<br>
 
