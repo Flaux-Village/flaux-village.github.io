@@ -4,7 +4,7 @@ titre: Accueil | Bibliothèque
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard
 titre_page: Bibliothèque de Flaux
-date_texte: 09 Mars 2023
+date_texte: 13 Avril 2023
 illustration: /assets/illustrations/bibliotheque2landscape-980.JPG
 description_illustration: La Mairie de Flaux.
 
@@ -45,6 +45,9 @@ Vous pouvez prolonger la durée de prêt pour quatre semaines supplémentaires (
 <a href="https://www.mairie-flaux.fr/actualites/animations.html"> Pour toutes ANIMATIONS à la bibliothèque de Flaux...</a>  <br> 
 
 ## Animations ateliers jeunesse<br> 
+
+# La bibliothèque de Flaux sera fermée pendant les vacances scolaires de Printemps du vendredi 21 avril au mercredi 10 mai inclus, réouverture le jeudi 11 mai 2023.
+
 
 # HORS vacances: La bibliothèque est ouverte: 
  
