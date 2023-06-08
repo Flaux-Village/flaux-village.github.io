@@ -3,11 +3,11 @@ layout: page
 titre: Actualités | Service Public Itinérant
 description: Portail du village de Flaux
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Service Public Itinérant RDV Vendredi 07 avril 2023 de 14h à 16h30 en Mairie de Flaux
+titre_page: Service Public Itinérant RDV Vendredi 09 Juin 2023 de 14h à 16h30 en Mairie de Flaux
 section: À la une
 addresse_section: /actualites.html
-date_texte: 09 Avril 2023
-date: 2023-03-09
+date_texte: 08 Juin 2023
+date: 2023-06-08
 illustration: 
 description_illustration: 
 introduction: 
