@@ -1,13 +1,13 @@
 ---
 layout: page
-titre: Actualités | Sictomu Composteur
+titre: Actualités | Sictomu 
 description: Sictomu Composteur
 keywords: mairie, commune, flaux, gard, actualités
-titre_page: Sictomu Composteur
+titre_page: Sictomu 
 section: À la une
 addresse_section: /actualites.html
-date_texte: 31 Mars 2023
-date: 2023-03-31
+date_texte: 8 Juin 2023
+date: 2023-06-08
 documents:
 - fiche: Formulaire formation compost
   date_texte: 31 Mars 2023
@@ -20,33 +20,20 @@ documents:
   addresse: /assets/flyer/Communiqué de presse-6.pdf
 ---
 
-Mesdames, Messieurs, bonjour,<br> 
+Informations importante du SICTOMU pour cet été !<br> 
 
-En partenariat avec la CCPU, le SICTOMU propose aux habitants du
-territoire de se former au compostage et d'acquérir un composteur
-gratuit. Veuillez trouver ci-dessous les lieux et les dates des
-prochaines journées :<br> 
+Comme l’année dernière, je vous rappelle les horaires d’été de
+nos déchèteries :<br> 
 
-        * Saint-Maximin, le vendredi 7 avril
-        * La Bruguière, le samedi 15 avril (après-midi)
-        * Arpaillargues, le samedi 29 avril
-        * Saint-Siffret, le samedi 6 mai
-        * Montaren, le samedi 13 mai
+Du 1er juillet au 30 août 2023, les 4 déchèteries du SICTOMU
+(Uzès, Fournès, Lussan et Vallabrix) seront ouvertes (selon leurs
+jours habituels) mais en non-stop de 7h00 à 14h00 ! sauf le dimanche
+pour Uzès de 8h30 à 11h45.<br> 
 
-Vous trouverez le nouveau formulaire d'inscription en pièce jointe,
-ainsi que des éléments de communication via le lien ci-dessous.<br> 
-<br>
- <a href="https://we.tl/t-bCLZAwhBPV">Lien formulaire.</a>  <br> 
+Sites fermés les jours fériés, les 14 juillet et 15 août.<br> 
 
-
-Comme à l'habitude, la durée de la formation est de 45 minutes.<br> 
-L'heure exacte de la session sera communiquée plus tard.
-
-Cordialement,<br> 
-
-William STEVENSON<br> 
-
-Chargé de mission développement de la valorisation des fermentescibles<br> 
+Attention, la déchèterie de Garrigue-Ste-Eulalie, gérée par la
+CCPU, n’est pas concernée.<br> 
 
 S.I.C.T.O.M. de la région d'Uzès<br> 
 
