@@ -20,5 +20,16 @@ documents:
 ---
 
 Voir ci-joints les arrêtés CRISE
+Ce qu il faut retenir <br>
 
+La commune est en alerte renforcée<br>
+
+Lavage de voiture         INTERDIT<br>
+Arrosage de jardins potagers inférieur ou égal à 250 m2      INTERDIT
+entre 8h et 20h et les nuits de dimanche à lundi, de mardi à mercredi et
+de jeudi à vendredi<br>
+Arrosage des pelouses, massifs fleuris     INTERDIT<br>
+Piscines privées          INTERDIT de remplir sauf première mise en eau
+si les travaux ont débuté avant le déclenchement du stade de vigilance 
+Mise à niveau autorisée<br>
 
