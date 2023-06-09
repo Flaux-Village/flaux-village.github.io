@@ -6,8 +6,8 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Arrêté
 section: À la une
 addresse_section: /actualites.html
-date_texte: 25 Avril 2023
-date: 2023-04-25
+date_texte: 09 June 2023
+date: 2023-06-09
 introduction: 
 documents:
 - fiche: arrêté de sécheresse CRISE
