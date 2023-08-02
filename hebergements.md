@@ -22,12 +22,9 @@ menu_secondaire:
 Si votre activité est basée sur Flaux et que vous souhaitez être répertoriés ci-dessous, merci de nous envoyer une demande: secretariat@mairie-flaux.fr
 
 # [Chambres d'hôtes et Restaurant TOUT SIMPLEMENT](https://www.facebook.com/tsflaux/)
-## Vendredi 27 Mai (à partir de 19h30) RÉOUVERTURE - TAPAS - PAELLA - VINS
-Caveau Ouvert (nouvelles cuvées)<br>
 Réservation 04 66 58 42 09<br>
 
-
-![toutsimplement](/assets/illustrations/tapas2021small.png){:class="img-responsive"}
+![toutsimplement](/assets/flyer/Tapastoutsimplement.ete.2023.jpeg){:class="img-responsive"}
 ![toutsimplement](/assets/illustrations/tapaschambre2021small.png){:class="img-responsive"}
 
 # [Somijote à emporter](https://www.facebook.com/Somijote-101724112087454)
