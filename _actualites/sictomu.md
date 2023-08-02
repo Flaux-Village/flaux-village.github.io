@@ -6,8 +6,8 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Sictomu 
 section: À la une
 addresse_section: /actualites.html
-date_texte: 8 Juin 2023
-date: 2023-06-08
+date_texte: 2 Aout 2023
+date: 2023-08-02
 documents:
 - fiche: Formulaire formation compost
   date_texte: 31 Mars 2023
@@ -39,7 +39,9 @@ S.I.C.T.O.M. de la région d'Uzès<br>
 
 Tél : 07 72 03 68 10 / Fax : 04 66 02 26 11<br> 
 
+![Compostage](/assets/flyer/Collecte OM - Hiver comme été, je sors mon bac marron une fois par semaine.png){:class="img-responsive"}
 
+![Compostage](/assets/flyer/2023 07 24 - INFO-SICTOMU- Hiver comme été je sors mon bac marron une fois par semaine.pdf){:class="img-responsive"}
 
 ![Compostage](/assets/flyer/Formation compostage SICTOMU CCPU - affiche.png){:class="img-responsive"}
 
