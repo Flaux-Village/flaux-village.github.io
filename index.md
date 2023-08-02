@@ -13,7 +13,7 @@ onglets_principaux:
   addresse: /ecole.html
   illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
   description_illustration: école de Flaux
-- titre: Boulangerie Flaux
+- titre: Tout Simplement Flaux
   addresse: /actualites/toutsimplement.html
   illustration: /assets/flyer/Tapastoutsimplement.ete.2023.jpeg
   description_illustration: Toutsimplement
