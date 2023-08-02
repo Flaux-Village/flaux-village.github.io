@@ -41,9 +41,7 @@ Tél : 07 72 03 68 10 / Fax : 04 66 02 26 11<br>
 
 ![Compostage](/assets/flyer/Collecte OM - Hiver comme été, je sors mon bac marron une fois par semaine.png){:class="img-responsive"}
 
-![Compostage](/assets/flyer/2023 07 24 - INFO-SICTOMU- Hiver comme été je sors mon bac marron une fois par semaine.pdf){:class="img-responsive"}
-
-![Compostage](/assets/flyer/Formation compostage SICTOMU CCPU - affiche.png){:class="img-responsive"}
+![Compostage](/assets/flyer//2023 07 24 - INFO-SICTOMU- Hiver comme été je sors mon bac marron une fois par semaine.pdf){:class="img-responsive"}
 
 
 Lien:<br>
