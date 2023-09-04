@@ -46,9 +46,6 @@ Vous pouvez prolonger la durée de prêt pour quatre semaines supplémentaires (
 
 ## Animations ateliers jeunesse<br> 
 
-# elle accueillera les lecteurs et lectrices JEUDI 13 JUILLET DE 9H30 à 12h.
-
-
 # HORS vacances: La bibliothèque est ouverte: 
  
 ### Le lundi de 16h à 18h30 <br> 
