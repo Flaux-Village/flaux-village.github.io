@@ -20,24 +20,7 @@ documents:
   addresse: /assets/flyer/Communiqué de presse-6.pdf
 ---
 
-Informations importante du SICTOMU pour cet été !<br> 
-
-Comme l’année dernière, je vous rappelle les horaires d’été de
-nos déchèteries :<br> 
-
-Du 1er juillet au 30 août 2023, les 4 déchèteries du SICTOMU
-(Uzès, Fournès, Lussan et Vallabrix) seront ouvertes (selon leurs
-jours habituels) mais en non-stop de 7h00 à 14h00 ! sauf le dimanche
-pour Uzès de 8h30 à 11h45.<br> 
-
-Sites fermés les jours fériés, les 14 juillet et 15 août.<br> 
-
-Attention, la déchèterie de Garrigue-Ste-Eulalie, gérée par la
-CCPU, n’est pas concernée.<br> 
-
-S.I.C.T.O.M. de la région d'Uzès<br> 
-
-Tél : 07 72 03 68 10 / Fax : 04 66 02 26 11<br> 
+![Compostage](/assets/flyer/SICTOMUde Affiches distribution compost automne 2023.jpeg){:class="img-responsive"}
 
 ![Compostage](/assets/flyer/Collecte OM - Hiver comme été, je sors mon bac marron une fois par semaine.png){:class="img-responsive"}
 
