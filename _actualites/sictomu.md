@@ -6,8 +6,8 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Sictomu 
 section: À la une
 addresse_section: /actualites.html
-date_texte: 2 Aout 2023
-date: 2023-08-02
+date_texte: 2 Octobre 2023
+date: 2023-10-03
 documents:
 - fiche: Formulaire formation compost
   date_texte: 31 Mars 2023
