@@ -13,10 +13,10 @@ onglets_principaux:
   addresse: /ecole.html
   illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
   description_illustration: école de Flaux
-- titre: Hébergement
-  addresse: /hebergements.html
-  illustration: /assets/illustrations/525_320_flauxtapas_3622.jpg
-  description_illustration: hebergement Flaux
+- titre: Zone Accélération Energies Renouvelables
+  addresse: /assets/flyer/Consult ZAER.png
+  illustration: /assets/flyer/Consult ZAER.png
+  description_illustration: Zone Accélération Energies Renouvelables Flaux
 
 articles_en_vedette:
 - titre: Où sommes-nous?
