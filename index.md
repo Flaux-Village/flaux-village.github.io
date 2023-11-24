@@ -25,6 +25,7 @@ articles_en_vedette:
   description_illustration: La Mairie de Flaux.
 - titre: " Les navettes vers les marchés"
   addresse: /assets/flyer/CCPU-NAVETTES-2022-WEB2.pdf
+  titre: " Lignes de bus CCPU"
   addresse:  /assets/flyer/CCPU_LR3_web (1).pdf
   illustration: /assets/images/Navettessmall.jpg
   description_illustration: Dépliant Navette.
