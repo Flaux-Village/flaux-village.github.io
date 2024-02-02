@@ -20,6 +20,8 @@ documents:
   addresse: /assets/flyer/Communiqué de presse-6.pdf
 ---
 
+![Compostage](/assets/flyer/Compost inauguration .png){:class="img-responsive"}
+
 ![Compostage](/assets/flyer/SICTOMUde Affiches distribution compost automne 2023.jpeg){:class="img-responsive"}
 
 ![Compostage](/assets/flyer/Collecte OM - Hiver comme été, je sors mon bac marron une fois par semaine.png){:class="img-responsive"}
