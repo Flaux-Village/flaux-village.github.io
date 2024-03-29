@@ -12,12 +12,6 @@ documents:
 
 ---
 
-##REUNION PUBLIQUE
-
-#BILAN Annuel de l’action de l’Association CHAVAMIEUX sur la commune de FLAUX<br>
-
-Vendredi 29 septembre 2023, à 18h30 au château<br>
-
 
 {% assign sorted = (site.actualites | sort: 'date') | reverse %}
 <ul>
