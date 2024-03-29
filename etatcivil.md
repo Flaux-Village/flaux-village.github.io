@@ -33,6 +33,22 @@ Ouverture et suivi du livret de famille <br>
 
 [Page d'info sur notre site](https://flaux-village.github.io/demarches.html)  <br>
 
+## Annonce année 2023 sur Flaux
+
+## Décès :
+Mr KIEFFER Jean-François
+
+## Naissances:
+MAALEM Louna
+ROBIN Margaux
+LAPIERRE Zoé
+DJADEL BALHAN Estéban
+
+## Mariages
+NIGGEL Kévin et Dayana MESQUIDA
+KOLINKA Romane et Yoko MOLLARET
+CANO Samuel et Jade LOTTO
+VACHOT Nicolas et Sylvia RIZZO
 
 
 ## Annonce année 2021/22 sur Flaux
