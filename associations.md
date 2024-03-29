@@ -20,11 +20,9 @@ menu_secondaire:
   
 ---
 
-# La Ronde des Ainés : <br>
-l’association La ronde des ainés se retrouve au château pour une après-midi de détente « petit loto » les jeudis de semaines paires à partir de 13h30, si vous êtes intéressés infos auprès de Mr LISETELO.<br>
+# ARTYFLAUX 
 # COMITE DES FETES DE FLAUX LA FIESTA, action socioculturelle, 115 Chemin du Merlançon
 # TEAM 5 M RALLYE, sports mécaniques, 145 Chemin du Jas
 # Société de chasse petits gibiers, LE MARINARD
 # Société de chasse grands gibiers, LA PIERRE PLANTEE
-# Archers de Flaux
 # APE de Flaux, St Victor des Oules, La Capelle et Masmolène
