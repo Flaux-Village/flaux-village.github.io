@@ -11,7 +11,7 @@ documents:
 
 
 ---
-
+Téléchargez l'appli Panneau Pocket! https://app.panneaupocket.com/ pour vous tenir au jus!
 
 {% assign sorted = (site.actualites | sort: 'date') | reverse %}
 <ul>
