@@ -7,6 +7,19 @@ titre_page: Comptes rendus des conseils municipaux
 illustration: /assets/illustrations/archives_landscape980.JPG
 description_illustration: Mairie de Flaux.
 documents:
+
+- fiche: Procès verbal du 15 Décembre 2023
+  date_texte: 15 Décembre 2023
+  addresse: /assets/documents/comptesrendus/PV DU 15 DECEMBRE 2024-tampon.pdf
+- fiche: Procès verbal du 17 Novembre 2023
+  date_texte: 17 Novembre 2023
+  addresse: /assets/documents/comptesrendus/PV DU 17 NOVEMBRE-tampon.pdf
+- fiche: Procès verbal du 22 Septembre 2023
+  date_texte: 22 Septembre 2023
+  addresse: /assets/documents/comptesrendus/PV DU 22 SEPTEMBRE-tampon.pdf
+- fiche: Procès verbal du 9 Juin 2023
+  date_texte: 19 Juin 2023
+  addresse: /assets/documents/comptesrendus/PV DU 9 JUIN 2023-tampon.pdf
 - fiche: Procès verbal du 16 Décembre 2022
   date_texte: 03 Février 2023
   addresse: /assets/documents/comptesrendus/PV du 16 décembre 2022.pdf
