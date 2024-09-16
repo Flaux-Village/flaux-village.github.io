@@ -16,6 +16,8 @@ documents:
 ---
 
 ![PPRI](/assets/flyer/2024 - 09.16 - REUNION PUBLIQUE rappel.png){:class="img-responsive"}
+![PPRI](/assets/flyer/Avis_enquete_publique_PPRI_Flaux_V2.png){:class="img-responsive"}
+![PPRI](/assets/flyer/arrêté enquête publique.png){:class="img-responsive"}
 
 
 
