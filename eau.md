@@ -21,9 +21,9 @@ menu_secondaire:
   addresse: /csi.html
   
 documents:
-- fiche: Nouvel arrêté restriction eau
-  date_texte: 11 juillet 2022
-  addresse: /assets/documents/nouvel arrêté restriction eau ete 2022.pdf
+- fiche: ARS
+  date_texte: 03 septembre 2024
+  addresse: /assets/documents/ARS 2024.pdf
 - fiche: Alerte renforcée
   date_texte: 11 juillet 2022
   addresse: /assets/documents/alerte renforcée ete 2022.pdf
