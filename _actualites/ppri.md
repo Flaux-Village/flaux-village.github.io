@@ -15,7 +15,7 @@ documents:
 
 ---
 
-![PPRI](/assets/flyer/2024 - 09.16 - REUNION PUBLIQUE rappel.pdf){:class="img-responsive"}
+![PPRI](/assets/flyer/2024 - 09.16 - REUNION PUBLIQUE rappel.png){:class="img-responsive"}
 
 
 
