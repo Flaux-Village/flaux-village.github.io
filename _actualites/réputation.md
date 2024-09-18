@@ -1,7 +1,7 @@
 ---
 layout: page
-titre: Actualités | mauvaise réputation
-description: mauvaise réputation
+titre: Actualités | Mauvaise Réputation en concert!
+description: Mauvaise Réputation en concert!
 keywords: mairie, commune, flaux, gard, actualités
 titre_page: mauvaise réputation
 section: À la une
