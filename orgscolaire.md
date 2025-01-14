@@ -15,20 +15,10 @@ menu_secondaire:
   
 documents:
 
-- fiche: Dossier d'accueil 2021-2022
-  date_texte: 1 Juillet 2021
-  addresse: /assets/documents/dossier d'accueil 2021-2022.pdf
-- fiche: Dossier d'accueil 2020-2021
-  date_texte: 1 Septembre 2020
-  addresse: /assets/documents/dossier d'accueil 2020-2021.docx
-- fiche: Cantine espace famille
-  date_texte: 1 Septembre 2020
-  addresse: /assets/documents/Cantine_espacefamille.pdf
-  type: pdf
-- fiche: Livret parents covid19
-  date_texte: 1 Septembre 2020
-  addresse: /assets/documents/Livret-parents-rentree-2020-covid19 (1).pdf
-  type: pdf
+- fiche: 
+  date_texte: 
+  addresse: 
+
 
   
   
