@@ -13,10 +13,6 @@ onglets_principaux:
   addresse: /ecole.html
   illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
   description_illustration: école de Flaux
-- titre: Journées ArtyFlaux
-  addresse: /assets/flyer/FLYER Journées ArtyFlaux 2024.png
-  illustration: /assets/flyer/FLYER Journées ArtyFlaux 2024.png
-  description_illustration: Journée ArtyFlaux
 
 articles_en_vedette:
 - titre: Où sommes-nous?
