@@ -1,6 +1,6 @@
 ---
 layout: page
-titre: Vie du village | Année scolaire 2021/2022
+titre: Vie du village | école
 description: L'école de Flaux
 keywords: mairie, commune, flaux, gard, ecole, vie
 titre_page: Année scolaire 2021/2022
@@ -10,7 +10,7 @@ description_illustration: École de Flaux
 menu_secondaire:
 - titre: Notre école
   addresse: /ecole.html
-- titre: Année scolaire 2021/2022
+- titre: École
   addresse: /orgscolaire.html
   
 documents:
