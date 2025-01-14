@@ -3,7 +3,7 @@ layout: page
 titre: Vie du village | école
 description: L'école de Flaux
 keywords: mairie, commune, flaux, gard, ecole, vie
-titre_page: Année scolaire 2021/2022
+titre_page: École
 illustration: /assets/illustrations/ecolecar-banner.jpeg
 description_illustration: École de Flaux
 
