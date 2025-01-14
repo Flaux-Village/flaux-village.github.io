@@ -6,7 +6,7 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: epicerie solidaire!
 section: À la une
 addresse_section: /actualites.html
-date_texte: 14 January 2024
+date_texte: 14 January 2025
 date: 2025-01-14
 
 
