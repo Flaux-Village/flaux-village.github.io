@@ -13,6 +13,10 @@ onglets_principaux:
   addresse: /ecole.html
   illustration: /assets/illustrations/525_320_Flauxbanner3_3614.jpg
   description_illustration: école de Flaux
+- titre: Animations
+  addresse: /actualites/animations.html
+  illustration: /assets/images/animations image.png
+  description_illustration: Animations
 
 articles_en_vedette:
 - titre: Où sommes-nous?
