@@ -6,12 +6,13 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Ludothèque
 section: À la une
 addresse_section: /actualites.html
-date_texte: 08 Avril 2022
-date: 2022-04-08
+date_texte: 31 Mars 2025
+date: 2025-03-31
 introduction: 
 
 ---
 
 
-![ludothèque affiche deux fevrier](/assets/illustrations/ludotheque_20220407.png){:class="img-responsive"} 
+![ludothèque affiche](/assets/illustrations/Ludotheque_2025.png
+){:class="img-responsive"} 
 
