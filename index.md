@@ -11,7 +11,7 @@ onglets_principaux:
   description_illustration: La Mairie de Flaux.
 - titre: Commémoration du 8 mai 1945
   addresse: 
-  illustration: /assets/flyer/affichage 8 mai 2025.pdf
+  illustration: /assets/flyer/affichage 8 mai 2025.png
   description_illustration: huit mai
 - titre: École
   addresse: /ecole.html
