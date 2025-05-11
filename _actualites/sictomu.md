@@ -6,8 +6,8 @@ keywords: mairie, commune, flaux, gard, actualités
 titre_page: Sictomu 
 section: À la une
 addresse_section: /actualites.html
-date_texte: 2 Octobre 2023
-date: 2023-10-03
+date_texte: 11 Mai 2025
+date: 2025-05-11
 documents:
 - fiche: Formulaire formation compost
   date_texte: 31 Mars 2023
@@ -19,14 +19,60 @@ documents:
   date_texte: 21 Octobre 2022
   addresse: /assets/flyer/Communiqué de presse-6.pdf
 ---
+Toute l'info utile pour la gestion des déchets
 
-![Compostage](/assets/flyer/Compost inauguration .png){:class="img-responsive"}
+🗑️ HORAIRES D'ÉTÉ EN DÉCHÈTERIE
 
-![Compostage](/assets/flyer/SICTOMUde Affiches distribution compost automne 2023.jpeg){:class="img-responsive"}
+À partir du 1er juin et jusqu’au 30 septembre 2025, les déchèteries
+du territoire passent à l’heure d’été !
 
-![Compostage](/assets/flyer/Collecte OM - Hiver comme été, je sors mon bac marron une fois par semaine.png){:class="img-responsive"}
+Les sites de Uzès, Lussan et Vallabrix seront ouverts en continu de
+7h00 à 14h00, aux jours habituels d’ouverture, afin de mieux
+s’adapter aux températures estivales et de garantir plus de confort
+aux usagers comme aux agents.
 
-![Compostage](/assets/flyer//2023 07 24 - INFO-SICTOMU- Hiver comme été je sors mon bac marron une fois par semaine.pdf){:class="img-responsive"}
+👉 Horaires d’été : du 1er juin au 30 septembre
+🕖 Ouverture en continu de 7h00 à 14h00
+📍 Sites concernés : Uzès – Lussan – Vallabrix
+
+🫸 Le dimanche à Uzès, rien ne change : toujours 8h30 - 11h45
+
+Besoin de plus d'information ?
+
+🗑️ COLLECTE ET JOURS FÉRIÉS
+
+Rappel des modalités de collecte pendant les jours fériés du premier
+semestre 2025.
+
+✅ La collecte est assurée normalement les jours suivants :
+
+Jeudi 8 mai – Victoire 1945
+
+Jeudi 29 mai – Ascension
+
+Lundi 9 juin – Lundi de Pentecôte
+
+⚠️Les déchèteries sont fermées TOUS les jours fériés
+
+Besoin de plus d'information ?
+
+SACS JAUNES : RAPPEL DES MODALITÉS DE RETRAIT
+
+La dotation annuelle est la suivante : un rouleau de 25 sacs de 50
+litres par personne présente au foyer (un foyer de 4 personnes
+bénéficiera de 4 rouleaux de sacs jaunes).
+
+
+🌱 COMPOSTAGE
+
+LES COMPOSTEURS EN PLASTIQUE DEVIENNENT GRATUITS SUR L'ENSEMBLE DU
+TERRITOIRE DU SICTOMU
+
+Depuis le 18 mars, tous les usagers du territoire du SICTOMU peuvent
+bénéficier d’un composteur en plastique de 400 litres, gratuitement,
+à condition de suivre une formation courte de 45 minutes.
+
+SICTOMU
 
 
 Lien:<br>
