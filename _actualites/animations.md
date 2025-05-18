@@ -14,8 +14,7 @@ documents:
   
 ---
 
-![affiche Oeufs Pâques](/assets/flyer/Affiche chasse aux oeufs Pâques illustration coloré_20250323_154026_0000.png
-){:class="img-responsive"}
+![affiche Oeufs Pâques](/assets/flyer/Affiche flyer vide grenier marché aux puces brocante vente meubles seconde _20250507_185425_0000 (1).png){:class="img-responsive"}
 
 
 
