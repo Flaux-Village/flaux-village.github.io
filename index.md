@@ -15,8 +15,7 @@ onglets_principaux:
   description_illustration: école de Flaux
 - titre: Animations
   addresse: /actualites/animations.html
-  illustration: /assets/images/animations image.png
-
+  illustration: VIDE GRENIER DIMANCHE 29 JUIN FLAUX
 
 articles_en_vedette:
 - titre: Où sommes-nous?
