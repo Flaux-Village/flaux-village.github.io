@@ -27,9 +27,6 @@ Réservation 04 66 58 42 09<br>
 ![toutsimplement](/assets/flyer/Tapastoutsimplement.ete.2023.jpeg){:class="img-responsive"}
 ![toutsimplement](/assets/illustrations/tapaschambre2021small.png){:class="img-responsive"}
 
-# [Somijote à emporter](https://www.facebook.com/Somijote-101724112087454)
-![somijote](/assets/flyer/somijote_restauration.jpeg){:class="img-responsive"}
-
 
 # [Le Blanc Murier](https://www.leblancmurier.fr/fr/)
 
