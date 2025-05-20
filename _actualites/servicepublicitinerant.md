@@ -23,7 +23,4 @@ de 14H00 à 16H30.<br>
 
 Pour en savoir plus [services publics itinerants](https://www.ccpaysduzes.fr/actualites/item/services-publics-itinerants.html)<br>
 
-PROCHAIN RENDEZ-VOUS:  MAISON France SERVICE
-Vendredi 07 avril 2023
-de 14h à 16h30
-en Mairie de Flaux
+
