@@ -24,11 +24,8 @@ Si votre activité est basée sur Flaux et que vous souhaitez être répertorié
 # [Chambres d'hôtes et Restaurant TOUT SIMPLEMENT](https://www.facebook.com/tsflaux/)
 Réservation 04 66 58 42 09<br>
 
-![toutsimplement](/assets/flyer/Tapastoutsimplement.ete.2023.jpeg){:class="img-responsive"}
 ![toutsimplement](/assets/illustrations/tapaschambre2021small.png){:class="img-responsive"}
 
-
-# [Le Blanc Murier](https://www.leblancmurier.fr/fr/)
 
 # [Clos de la Madone – Gîte et Chambres](https://closdelamadone.fr/)
 
