@@ -8,6 +8,9 @@ illustration: /assets/illustrations/archives_landscape980.JPG
 description_illustration: Mairie de Flaux.
 documents:
 
+- fiche: Liste des délibérations votées 16 Mai 2025
+  date_texte: 16 Mai 2025
+  addresse: /assets/documents/comptesrendus/liste des délibérations 16 mai 2025.pdf
 - fiche: Procès verbal du 27 Juin 2024
   date_texte: 27 Juin 2024
   addresse: /assets/documents/comptesrendus/PV DU 27 JUIN 2024.pdf
