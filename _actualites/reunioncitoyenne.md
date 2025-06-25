@@ -8,8 +8,8 @@ section: À la une
 addresse_section: /actualites.html
 date_texte: 25 Juin 2025
 date: 2025-06-25
-illustration: /assets/illustrations/news/defibrillateur2-banner.jpg
-description_illustration: Défibrillateur</br>
+illustration: 
+description_illustration: 
 introduction: 
 ---
 
