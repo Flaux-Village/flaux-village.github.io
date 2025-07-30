@@ -49,3 +49,5 @@ mickaeldeslys1986@gmail.com <br>
 
 ![mickaël](assets/illustrations/Mickaelcarte.jpg){:class="img-responsive"}
 
+![aerogommage](assets/flyer/aerogommage.jpg){:class="img-responsive"}
+
