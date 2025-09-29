@@ -15,7 +15,7 @@ onglets_principaux:
   description_illustration: école de Flaux
 - titre: Animations
   addresse: /actualites/animations.html
-  illustration: /assets/flyer/HOME VIDE GRENIER.png
+  illustration: /assets/flyer/ceremonie militaire.png
 
 
 articles_en_vedette:
