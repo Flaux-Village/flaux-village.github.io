@@ -14,7 +14,7 @@ documents:
   
 ---
 
-![vide grenier vingtneuf juin](/assets/flyer/Affiche flyer vide grenier marché aux puces brocante vente meubles seconde _20250507_185425_0000 (1).png){:class="img-responsive"}
+![ceremonie militaire](/assets/flyer/ceremonie militaire.png){:class="img-responsive"}
 
 
 
