@@ -41,8 +41,6 @@ E-mail : secretariat@mairie-flaux.fr<br/>
 Secrétaire de mairie: Kristel GOMIS<br/>
 
 ## Congés annuels:
-le secrétariat sera fermé<br/>
-du 4 août au 22 août 2025(inclus)<br/>
 Une permanence sera assurée les lundis 4-11-18 août de 10h à 12h <br/>
 les jeudis 7-14-21 août de 10h à 12h<br/>
 
